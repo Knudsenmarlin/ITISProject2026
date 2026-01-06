@@ -1,0 +1,123 @@
+Title: A Phase IIb, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Subcutaneous Nivolumab (NSC-001) in Combination with Dendritic Cell Vaccine (DCVax-L) for the Treatment of Recurrent Platinum-Resistant Ovarian Cancer
+
+Protocol Number: OC-REVIVE-002
+Version: 2.1
+Date: October 26, 2023
+Sponsor: OncoAdvance Therapeutics
+Principal Investigator: [To be assigned per site]
+
+Abstract:
+Background: Platinum-resistant recurrent ovarian cancer (PROC) carries a dismal prognosis with a median overall survival (OS) of 12-18 months and limited therapeutic options. While immune checkpoint inhibitors (ICIs) like anti-PD-1 antibodies have revolutionized some cancers, their efficacy in "immunologically cold" tumors like ovarian cancer remains modest, with response rates below 10-15%. A key barrier is the lack of pre-existing, activated tumor-infiltrating lymphocytes (TILs). Dendritic cell vaccines (DCV) are designed to overcome this by actively priming a de novo tumor-specific T-cell response. We hypothesize that combining a DCV with an ICI will create a synergistic "prime and boost" effect: the vaccine (DCVax-L) primes and expands tumor-antigen-specific T-cells, while the ICI (nivolumab) removes the PD-1/PD-L1-mediated suppression on these activated cells, enabling potent and durable anti-tumor activity.
+
+Objective: To evaluate the efficacy, safety, and immunogenicity of the combination therapy (NSC-001 + DCVax-L) versus nivolumab monotherapy versus placebo in patients with PROC.
+Primary Objective: To compare the progression-free survival (PFS) per RECIST 1.1 between the three arms.
+Secondary Objectives: To compare Overall Survival (OS), Objective Response Rate (ORR), Duration of Response (DoR), and Safety (CTCAE v5.0). To assess immunologic correlatives (T-cell clonality, tumor immune microenvironment changes).
+Exploratory Objectives: To identify predictive biomarkers (tumor mutational burden, PD-L1 status, gene expression profiles).
+
+Methods: This is a multicenter, 1:1:1 randomized, double-blind, placebo-controlled Phase IIb study. Approximately 150 patients with histologically confirmed PROC (progressing within <6 months of last platinum therapy) will be enrolled. Key inclusion: 1-3 prior lines, measurable disease (RECIST 1.1), ECOG 0-1. Key exclusion: active autoimmune disease, prior anti-PD-1/PD-L1 therapy.
+Interventions:
+
+Arm A (Combination): DCVax-L (intradermal, 5x10^6 cells) on Days 1, 15, 29, then every 4 weeks + Subcutaneous Nivolumab (NSC-001, 480mg) every 4 weeks.
+
+Arm B (Monotherapy): Placebo Vaccine (antigen-poor DCs) + Subcutaneous Nivolumab (480mg) every 4 weeks.
+
+Arm C (Control): Placebo Vaccine + Placebo Subcutaneous Injection every 4 weeks. (Ethical provision: cross-over to Arm A upon confirmed progression, if meeting criteria).
+DCVax-L is manufactured from autologous monocytes, loaded with a lysate from the patient's own tumor (from archival or fresh biopsy).
+
+Assessments: Tumor imaging (CT/MRI) every 8 weeks. Blood for immune monitoring (multiparametric flow cytometry, TCR sequencing) at baseline and every 8 weeks. Optional tumor biopsy at baseline and Cycle 3 Day 1 for a subset of patients (n=30).
+
+Statistical Analysis: Primary endpoint analysis uses a stratified log-rank test to compare PFS distributions. A sample size of 150 (50/arm) provides 80% power (α=0.05, two-sided) to detect a Hazard Ratio (HR) of 0.50 for Arm A vs. Arm C, assuming median PFS of 3.5 months in Arm C and 7 months in Arm A. Interim analysis for futility/efficacy is planned after 50% of PFS events.
+
+Expected Outcomes: We anticipate that Arm A will demonstrate a statistically significant improvement in PFS compared to both control and monotherapy arms. We expect to see evidence of systemic immune activation (increased neoantigen-specific T-cell clones, elevated inflammatory cytokines) specifically in Arm A responders. The study aims to provide proof-of-concept for a novel combinatorial immunotherapy approach in a difficult-to-treat cancer, potentially establishing a new standard of care and offering a framework for treating other immunologically cold tumors.
+
+1. Introduction & Rationale
+Ovarian cancer remains the most lethal gynecologic malignancy. Despite initial sensitivity to platinum-based chemotherapy, approximately 70% of patients relapse, and ultimately develop platinum-resistant disease. The treatment landscape for PROC is fragmented and characterized by low response rates to single-agent non-platinum chemotherapies (e.g., pegylated liposomal doxorubicin, topotecan) or anti-angiogenics like bevacizumab, with limited impact on OS. The profound unmet need demands innovative strategies.
+
+Cancer immunotherapy, particularly blockade of the PD-1/PD-L1 axis, has achieved remarkable success in "hot" tumors replete with TILs. However, ovarian cancer is typically an "immunologically cold" or "immune-excluded" tumor. While PD-L1 expression and TILs can be prognostic in some subsets, the absence of a pre-existing, functional anti-tumor T-cell response likely underlies the failure of ICIs as monotherapy. This presents a fundamental therapeutic challenge: how to ignite an effective immune response in a cold tumor microenvironment (TME).
+
+Dendritic cells are the master antigen-presenting cells crucial for initiating adaptive immunity. DC vaccines, created by loading patient DCs with tumor antigens, are designed to educate the immune system to recognize and attack cancer cells. Early-generation DC vaccines showed safety and immunogenicity but limited clinical efficacy, likely due to subsequent suppression of the activated T-cells by the TME's inhibitory mechanisms, including the PD-1/PD-L1 pathway.
+
+This forms the compelling rationale for our combination strategy. The sequence is critical: the DCVax-L vaccine acts as the "prime," generating a population of tumor-specific, but potentially exhaustible, T-cells. The concurrent administration of the anti-PD-1 antibody NSC-001 (a proprietary subcutaneous formulation of nivolumab) serves as the "boost," by blocking the inhibitory receptor on these newly activated T-cells, preventing exhaustion and sustaining their cytotoxic function. Subcutaneous administration may also offer pharmacokinetic and tolerability advantages. This approach aims to convert a cold TME into an inflamed one, thereby overcoming a key resistance mechanism to ICI monotherapy.
+
+2. Study Objectives
+2.1 Primary Objective
+
+To assess and compare Progression-Free Survival (PFS), as defined by RECIST v1.1, in patients with PROC receiving either: (A) DCVax-L + NSC-001, (B) NSC-001 monotherapy + placebo vaccine, or (C) placebo vaccine + placebo injection.
+
+2.2 Secondary Objectives
+
+To compare Overall Survival (OS) across the three treatment arms.
+
+To evaluate the Objective Response Rate (ORR; complete response [CR] + partial response [PR]) and Disease Control Rate (DCR; CR+PR+stable disease [SD]) per RECIST 1.1.
+
+To assess the Duration of Response (DoR) in responding patients.
+
+To evaluate the safety and tolerability profile of the combination therapy versus comparators, graded by CTCAE v5.0.
+
+2.3 Exploratory / Correlative Objectives
+
+To characterize peripheral immunologic changes: T-cell receptor (TCR) repertoire clonality and diversity, frequency of tumor-associated antigen (TAA)-specific T-cells (by intracellular cytokine staining), and myeloid-derived suppressor cell (MDSC) levels.
+
+To analyze serial changes in the TME via paired biopsies: immune cell infiltration (CD8+, CD4+, FoxP3+ Tregs, CD68+ macrophages), PD-L1 expression (combined positive score), and spatial transcriptomics.
+
+To identify genomic (e.g., homologous recombination deficiency status, tumor mutational burden) and transcriptomic biomarkers predictive of response.
+
+3. Methodology
+3.1 Study Design
+This is a Phase IIb, randomized, double-blind, placebo-controlled, three-arm, multicenter trial. The study schema is summarized in Figure 1.
+
+3.2 Patient Population
+Approximately 150 adult females (≥18 years) will be enrolled at approximately 25-30 academic cancer centers globally.
+
+Inclusion Criteria: Histologically confirmed high-grade serous, endometrioid, or clear cell ovarian, fallopian tube, or primary peritoneal carcinoma; Platinum-resistant recurrence (progression <6 months after last platinum dose); Measurable disease per RECIST 1.1; 1-3 prior systemic regimens for recurrent disease; ECOG performance status 0-1; Adequate hematologic, hepatic, and renal function; Available tumor tissue (archival or fresh biopsy) for vaccine manufacture.
+
+Exclusion Criteria: Non-epithelial tumors; Prior therapy with any anti-PD-1, anti-PD-L1, or anti-CTLA-4 agent; Active autoimmune disease requiring systemic treatment; Active uncontrolled infection, brain metastases, or other concurrent malignancy within 3 years; Significant cardiovascular disease.
+
+3.3 Randomization and Blinding
+Eligible patients will be randomized 1:1:1 via an interactive web response system (IWRS) using stratified permuted blocks. Stratification factors: 1) Platinum-free interval (1-3 months vs. 3-6 months), 2) Number of prior lines for recurrence (1 vs. 2-3), 3) Tumor PD-L1 status (Positive [CPS≥1] vs. Negative [CPS<1] by central lab). Patients, investigators, study staff, and the Sponsor (except the unblinded statistician and drug supply manager) will be blinded to treatment assignment. The placebo vaccine and NSC-001/placebo injections are matched in appearance.
+
+3.4 Treatment Plan
+
+Screening & Vaccine Manufacturing: Eligible patients undergo leukapheresis. Monocytes are isolated and differentiated into immature DCs, which are pulsed with autologous tumor lysate and matured (DCVax-L). Placebo DCs undergo the same process without tumor lysate loading. This takes approximately 14 days.
+
+Treatment Cycles: Each cycle is 28 days.
+
+Arm A: DCVax-L (intradermal, 5x10^6 cells) on Days 1, 15, 29 of Cycle 1, then Day 1 of each subsequent cycle + NSC-001 (480mg SC) on Day 1 of each cycle.
+
+Arm B: Placebo Vaccine (intradermal) on the same schedule + NSC-001 (480mg SC) on Day 1.
+
+Arm C: Placebo Vaccine + Placebo SC injection on Day 1.
+
+Treatment continues until disease progression per RECIST 1.1, unacceptable toxicity, withdrawal of consent, or for a maximum of 24 months. Patients in Arm C who progress are offered open-label cross-over to Arm A, pending confirmation of eligibility.
+
+3.5 Efficacy and Safety Assessments
+
+Tumor Assessments: CT scans of chest/abdomen/pelvis performed at baseline and every 8 weeks (±7 days) thereafter. RECIST 1.1 will be applied by blinded independent central review (BICR).
+
+Safety Assessments: Adverse events (AEs) monitored continuously and graded per CTCAE v5.0. Physical exams, vital signs, ECOG status, and laboratory tests (hematology, chemistry, thyroid function) performed at baseline and each cycle.
+
+Immunologic Correlatives: Peripheral blood mononuclear cells (PBMCs) and plasma collected at baseline, C2D1, C3D1, and every 8 weeks thereafter for TCR-β sequencing, multiparameter flow cytometry (36-color panel), and cytokine multiplex analysis (Luminex).
+
+Biopsies: Optional fresh tumor biopsies at baseline and on C3D1 for consented patients in a pre-specified biomarker subgroup (n=30 total, 10 per arm). Samples will undergo multiplex immunohistochemistry (IHC), RNA sequencing, and whole exome sequencing.
+
+3.6 Statistical Considerations
+
+Sample Size Justification: Based on historical data, median PFS in the control arm (Arm C) is estimated at 3.5 months. To detect a clinically meaningful HR of 0.50 (doubling of median PFS to 7.0 months in Arm A) with 80% power and a two-sided alpha of 0.05, 46 PFS events per comparison (A vs. C) are required. Allowing for a 10% dropout rate, a total of 150 patients (50 per arm) will be enrolled, expecting ~105 total PFS events.
+
+Primary Analysis: PFS will be compared between arms using a stratified log-rank test, with the stratification factors used in randomization. Kaplan-Meier curves will be generated. The primary analysis will follow the intent-to-treat (ITT) principle.
+
+Interim Analysis: A single interim analysis for efficacy and futility will be conducted by an independent Data Monitoring Committee (IDMC) after 50% of the planned PFS events have occurred. O’Brien-Fleming boundaries will be used to control the overall type I error.
+
+Secondary & Exploratory Analyses: OS, ORR, and DCR will be analyzed similarly. Safety will be summarized descriptively. Correlative data will be analyzed using parametric/non-parametric tests as appropriate, with p-values considered hypothesis-generating.
+
+4. Ethical Considerations & Dissemination Plan
+The protocol will be approved by the Institutional Review Board/Ethics Committee at each site. Written informed consent will be obtained from all participants. The trial will be conducted in accordance with Good Clinical Practice (GCP) and the Declaration of Helsinki.
+The use of a placebo control (Arm C) is justified by the lack of a universally accepted standard-of-care with proven survival benefit in this population and the need for a rigorous assessment of the novel combination's additive effect. The cross-over design mitigates ethical concerns.
+Results of this study, positive or negative, will be submitted for publication in a peer-reviewed medical journal and presented at major international oncology conferences. Data sharing will comply with the Sponsor's policy and applicable regulations.
+
+5. Discussion & Potential Impact
+This study addresses a critical gap in the treatment of PROC by testing a rationally designed immunotherapy combination. The "prime and boost" hypothesis is grounded in strong preclinical evidence showing that DC vaccines can sensitize tumors to subsequent PD-1 blockade.
+Potential challenges include the logistical complexity of personalized vaccine manufacture, patient attrition during the manufacturing window, and the heterogeneity of PROC. The embedded biomarker research is crucial to identify which patients are most likely to benefit, moving towards a more personalized approach.
+If successful, this study could establish a new therapeutic paradigm for PROC, offering a potentially more effective and less toxic alternative to chemotherapy. Furthermore, the mechanistic insights gained could be broadly applicable to other immunologically cold carcinomas (e.g., pancreatic, prostate), significantly advancing the field of cancer immunotherapy. This trial represents a pivotal step towards translating combinatorial immuno-oncology from theory into practice for patients with dire unmet needs.
+
+References: (List of ~15-20 key references would be included here in a full protocol, citing seminal papers on PROC, DC vaccines, nivolumab, and combination immunotherapy trials).

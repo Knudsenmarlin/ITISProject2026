@@ -1,0 +1,110 @@
+Title: A Phase II Randomized, Double-Blind, Placebo-Controlled Trial to Evaluate the Efficacy and Safety of a Novel Anti-Fibrotic Peptide, ATX-101, in Patients with Idiopathic Pulmonary Fibrosis (IPF)
+
+Protocol Number: IPF-ATX-1022
+ClinicalTrials.gov Identifier: NCTXXXXXXXX (hypothetical)
+Principal Investigator: [Name, Institution]
+Sponsor: [Research Institute/Company]
+Version: 1.0
+Date: [Current Date]
+
+1. Abstract
+Background: Idiopathic Pulmonary Fibrosis (IPF) is a progressive, fatal interstitial lung disease characterized by aberrant fibroblast activation and extracellular matrix deposition, leading to irreversible loss of lung function. Current therapies (pirfenidone and nintedanib) only slow decline, have significant side effects, and do not halt disease progression. Preclinical data identified ATX-101, a novel synthetic peptide targeting the integrin αvβ6-TGF-β1 activation axis, as a potent anti-fibrotic agent with promising efficacy in animal models of lung fibrosis.
+
+Objective: To assess the efficacy, safety, and tolerability of subcutaneous ATX-101 compared to placebo over 52 weeks in patients with IPF.
+
+Methods: This is a multicenter, randomized, double-blind, placebo-controlled Phase II trial. 126 participants with a confirmed diagnosis of IPF (ATS/ERS criteria), aged 40-85, with forced vital capacity (FVC) 45-90% predicted and DLCO 30-80% predicted, will be randomized 1:1 to receive either ATX-101 (10mg) or matching placebo, administered subcutaneously twice weekly. The primary efficacy endpoint is the absolute change from baseline in FVC (mL) at Week 52. Key secondary endpoints include: time to first acute exacerbation (AE-IPF), change in 6-minute walk distance (6MWD), change in quantitative lung fibrosis score on high-resolution computed tomography (HRCT), and patient-reported outcomes (King’s Brief Interstitial Lung Disease Questionnaire, K-BILD). Safety will be monitored via adverse events, laboratory tests, ECGs, and physical examinations.
+
+Expected Outcomes: We hypothesize that ATX-101 will significantly reduce the rate of FVC decline compared to placebo, demonstrate a favorable safety profile, and show improvements in secondary endpoints related to disease progression and quality of life. This study aims to provide proof-of-concept for a new mechanistically targeted therapy for IPF.
+
+2. Introduction
+Idiopathic Pulmonary Fibrosis (IPF) represents a devastating diagnosis with a median survival of 3-5 years from diagnosis. Its pathophysiology involves repetitive alveolar epithelial injury in a susceptible aging individual, followed by dysregulated repair. A key driver of this process is the aberrant activation of transforming growth factor-beta 1 (TGF-β1), the master regulator of fibrosis. TGF-β1 is secreted in a latent complex (LAP-TGF-β1) and requires activation. In the lung, a critical activation step is mediated by the integrin αvβ6, expressed on alveolar epithelial cells during injury. The αvβ6 integrin binds to the RGD sequence in LAP, exerting mechanical force to release active TGF-β1, which then drives fibroblast-to-myofibroblast differentiation and collagen production.
+
+Pirfenidone (an anti-inflammatory/anti-fibrotic) and nintedanib (a tyrosine kinase inhibitor) have become standard of care, but their benefits are modest, slowing FVC decline by approximately 50-100 mL/year over placebo. Their limitations underscore the urgent need for therapies with novel mechanisms of action that can more effectively halt or even reverse fibrotic progression.
+
+ATX-101 is a first-in-class, 15-amino acid cyclic peptide designed to selectively inhibit the αvβ6 integrin. Its sequence is derived from the foot-and-mouth disease virus VP1 protein, which naturally uses αvβ6 as a cellular receptor. ATX-101 binds with high affinity and specificity to αvβ6, competitively blocking its interaction with LAP-TGF-β1, thereby preventing the localized activation of TGF-β1 at the site of epithelial injury. Preclinical studies in bleomycin-induced and TGF-β1-overexpression murine models demonstrated that ATX-101 significantly reduced collagen deposition, improved lung histology, and normalized lung mechanics without causing significant immunosuppression. Notably, it showed efficacy both in prevention and intervention settings.
+
+This Phase II trial is designed to translate these promising preclinical findings into a clinical setting, evaluating whether targeted inhibition of a key proximal driver of fibrosis (αvβ6-mediated TGF-β1 activation) can more effectively preserve lung function in patients with IPF.
+
+3. Methods
+3.1. Study Design: This is a randomized, double-blind, placebo-controlled, parallel-group, multicenter study.
+
+3.2. Participants:
+
+Inclusion Criteria: 1) Age 40-85 years. 2) Definite or probable IPF diagnosis per 2022 ATS/ERS/JRS/ALAT guidelines, confirmed by central review of HRCT and histopathology (if available). 3) FVC ≥45% and ≤90% predicted. 4) DLCO (corrected for Hb) ≥30% and ≤80% predicted. 5) FVC and DLCO relative diffusing capacity ≥10% predicted. 6) Able to perform reproducible pulmonary function tests and 6MWT. 7) On stable standard therapy (pirfenidone, nintedanib, both, or neither) for ≥8 weeks prior to screening and willing to remain stable throughout the trial.
+
+Exclusion Criteria: 1) Significant airway obstruction (FEV1/FVC <0.7). 2) History of other known causes of ILD. 3) Expected need for lung transplantation within 12 months. 4) Acute IPF exacerbation within 6 months of screening. 5) Major surgery within 8 weeks. 6) Active, significant infection or history of recurrent infections. 7) Significant cardiovascular, hepatic, or renal disease. 8) History of malignancy within 5 years (except treated basal cell carcinoma). 9) Use of investigational drugs within 4 weeks or 5 half-lives.
+
+3.3. Randomization and Blinding: Eligible participants will be randomized 1:1 via a centralized interactive web response system (IWRS) using permuted blocks stratified by baseline FVC (<70% vs. ≥70% predicted) and use of standard anti-fibrotic therapy (yes/no). All participants, investigators, site staff, and the sponsor team involved in treatment or efficacy assessment will remain blinded until database lock.
+
+3.4. Intervention:
+
+Active Treatment: ATX-101, supplied as a sterile lyophilized powder in single-use vials. Reconstituted to deliver 10mg in 1mL, administered subcutaneously in the abdomen or thigh twice weekly.
+
+Placebo: Identical matching placebo (excipients only), administered identically.
+
+Treatment Duration: 52 weeks, with a 4-week post-treatment follow-up for safety.
+
+3.5. Endpoints:
+
+Primary Endpoint: Absolute change from baseline to Week 52 in FVC (mL), measured by spirometry according to ATS/ERS standards.
+
+Key Secondary Endpoints:
+
+Time to first investigator-confirmed acute exacerbation of IPF (AE-IPF) up to Week 52.
+
+Absolute change from baseline to Week 52 in 6MWD (meters).
+
+Change from baseline to Week 52 in quantitative lung fibrosis score (% high-attenuation area) on volumetric HRCT, assessed by a central imaging lab using fully automated algorithm.
+
+Change from baseline to Week 52 in health-related quality of life as measured by the K-BILD total score.
+
+Exploratory Endpoints: Change in plasma biomarkers of epithelial injury (SP-D, KL-6) and matrix turnover (PRO-C3, C1M); pharmacokinetic profile of ATX-101; immunogenicity (anti-drug antibodies).
+
+3.6. Assessments and Visits:
+
+Screening (Week -4 to -1): Informed consent, eligibility confirmation, HRCT, PFTs, 6MWT, K-BILD, lab tests, ECG.
+
+Baseline (Day 1): Randomization, first dose under supervision, safety review.
+
+Treatment Visits (Weeks 4, 12, 24, 36, 52): PFTs, safety labs, adverse event (AE) monitoring, K-BILD (selected visits). Drug adherence checked via diary and vial returns. 6MWT at Weeks 24 and 52. HRCT at Week 52.
+
+Safety Follow-up (Week 56): Final safety assessment.
+
+3.7. Statistical Analysis:
+
+Sample Size Calculation: Based on prior IPF trials, the placebo group is expected to have a mean FVC decline of 200 mL (±250 mL) over 52 weeks. To detect a 60% reduction in decline (i.e., a treatment effect of 120 mL difference in FVC change), with 90% power, a two-sided alpha of 0.05, and assuming a 15% dropout rate, 63 participants per group (126 total) are required.
+
+Analysis Populations: Primary efficacy analysis will use the Full Analysis Set (all randomized, intention-to-treat). Safety analysis will use the Safety Set (all who received ≥1 dose).
+
+Primary Analysis: The change in FVC from baseline to Week 52 will be analyzed using a mixed-effects model for repeated measures (MMRM). The model will include treatment, visit, treatment-by-visit interaction, baseline FVC, stratification factors, and baseline anti-fibrotic use as fixed effects, with an unstructured covariance matrix. Missing data will be handled implicitly by the MMRM under a missing-at-random assumption. Sensitivity analyses will include a pattern mixture model to assess the impact of missing not at random data.
+
+Secondary Analyses: Time to AE-IPF will be analyzed using a stratified Cox proportional hazards model. Continuous secondary endpoints will be analyzed using similar MMRM or ANCOVA approaches. All analyses will be two-sided with a significance level of p<0.05. No formal alpha adjustment for multiple comparisons will be made for this Phase II study, but results will be interpreted accordingly.
+
+3.8. Safety Monitoring: An independent Data and Safety Monitoring Board (DSMB) will review unblinded safety and efficacy data at predefined intervals. All AEs and serious AEs (SAEs) will be recorded and assessed for causality. Special attention will be paid to potential risks: injection site reactions, systemic allergic reactions, and infectious complications given the role of αvβ6 in immune regulation (e.g., its expression on some effector T-cells).
+
+4. Anticipated Results and Discussion
+We anticipate that treatment with ATX-101 will result in a statistically significant and clinically meaningful attenuation of FVC decline compared to placebo. The hypothesized treatment effect of 120 mL aligns with the magnitude seen for approved therapies in their pivotal trials and is considered clinically relevant by regulators and clinicians.
+
+We expect the secondary endpoints to provide supportive evidence: a delay in time to first AE-IPF, a stabilization of 6MWD, and a reduction in the progression of quantitative fibrosis on HRCT in the ATX-101 group. Improvement or stabilization in the K-BILD score would suggest a positive impact on patients' quality of life. The biomarker analyses may provide mechanistic insights, potentially showing a reduction in markers of epithelial injury and matrix turnover, correlating with clinical efficacy.
+
+Regarding safety, based on the high specificity of ATX-101 for αvβ6 (which has limited expression in healthy adult tissues, primarily restricted to epithelia under stress), we anticipate a manageable safety profile. The most common AEs are expected to be mild-to-moderate injection site reactions (erythema, pain). A critical safety consideration is infection risk; while preclinical models did not show increased susceptibility, vigilant monitoring for pulmonary and skin infections will be paramount. The DSMB will provide an additional layer of safety oversight.
+
+Potential Limitations: The 52-week duration, while standard for Phase II IPF trials, may be insufficient to detect significant differences in mortality or long-term safety signals. The study population, defined by specific lung function criteria, may not be fully representative of all IPF patients, particularly those with very advanced or very mild disease. Concomitant use of standard therapies, while reflecting real-world practice, could potentially confound the treatment effect if interaction exists. Lastly, as a Phase II study, it is not powered for definitive conclusions on morbidity/mortality events like acute exacerbations.
+
+Significance and Future Directions: If this trial meets its primary endpoint with an acceptable safety profile, it will provide robust proof-of-concept for the αvβ6 inhibition strategy in IPF. It would justify and inform the design of a larger, event-driven Phase III trial with morbidity and mortality as primary endpoints. Furthermore, success in IPF could open avenues for investigating ATX-101 in other fibrotic diseases where the αvβ6-TGF-β axis plays a role, such as systemic sclerosis-associated interstitial lung disease or liver fibrosis.
+
+5. Conclusion
+This Phase II trial is a critical step in evaluating a novel, mechanism-targeted therapeutic strategy for IPF. By directly inhibiting a key proximal step in the fibrotic cascade, ATX-101 has the potential to offer a new therapeutic option that could more effectively modify the course of this relentless disease. The study is designed to generate high-quality data on efficacy, safety, and biomarker correlates to guide future development and deepen our understanding of IPF pathophysiology.
+
+6. References (Selective, Hypothetical)
+Raghu, G., et al. (2022). Diagnosis of Idiopathic Pulmonary Fibrosis. An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline. Am J Respir Crit Care Med.
+
+Lederer, D. J., & Martinez, F. J. (2018). Idiopathic Pulmonary Fibrosis. N Engl J Med.
+
+Henderson, N. C., et al. (2020). Targeting of αv integrin identifies a core molecular pathway that regulates fibrosis in several organs. Nat Med.
+
+Richeldi, L., et al. (2014). Efficacy and safety of nintedanib in idiopathic pulmonary fibrosis. N Engl J Med.
+
+King, T. E., et al. (2014). A phase 3 trial of pirfenidone in patients with idiopathic pulmonary fibrosis. N Engl J Med.
+
+Preclinical Data on File. Sponsor's Investigational Brochure for ATX-101.
