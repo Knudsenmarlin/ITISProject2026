@@ -1,0 +1,9 @@
+Background: Gestational diabetes mellitus (GDM) increases the risk of adverse maternal and neonatal outcomes and predisposes women to future type 2 diabetes.
+
+Objective: To evaluate the effectiveness of early lifestyle intervention in preventing insulin therapy requirement among women with newly diagnosed GDM.
+
+Methods: This randomized clinical trial enrolled 160 pregnant women diagnosed with GDM at 24–28 weeks of gestation. Participants were randomized to an intensive lifestyle intervention or standard prenatal care. Primary outcome was initiation of insulin therapy. Secondary outcomes included glycemic control, gestational weight gain, and neonatal outcomes.
+
+Results: Insulin therapy was required in 22% of women in the intervention group compared with 41% in controls (p = 0.01). Improved glycemic control and reduced excessive gestational weight gain were observed. Neonatal outcomes favored the intervention group.
+
+Conclusions: Early intensive lifestyle intervention reduces insulin therapy requirement and improves maternal and neonatal outcomes in GDM.

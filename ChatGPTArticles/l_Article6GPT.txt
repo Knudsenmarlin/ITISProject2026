@@ -1,0 +1,9 @@
+Background: Chronic kidney disease (CKD) is associated with increased cardiovascular risk and progressive decline in renal function. Non-pharmacological strategies that slow disease progression are of significant clinical interest.
+
+Objective: To evaluate the effect of a low-protein, plant-dominant diet on renal function and metabolic parameters in patients with stage 3 chronic kidney disease.
+
+Methods: This 18-month randomized controlled trial enrolled 140 adults with stage 3 CKD. Participants were randomized to a plant-dominant low-protein diet (0.6 g/kg/day; n = 70) or standard dietary advice (n = 70). Primary outcomes included changes in estimated glomerular filtration rate (eGFR) and albuminuria. Secondary outcomes included blood pressure, serum phosphorus, metabolic acidosis, and quality of life.
+
+Results: The intervention group experienced a significantly slower decline in eGFR (−1.2 ± 0.8 mL/min/1.73 m²/year) compared with controls (−3.4 ± 1.1 mL/min/1.73 m²/year; p < 0.001). Albuminuria decreased by 28% in the intervention group, while remaining unchanged in controls. Improvements in serum phosphorus and metabolic acidosis were observed. Dietary adherence averaged 82%, with no increase in hyperkalemia events.
+
+Conclusions: A plant-dominant low-protein diet slows renal function decline and improves metabolic outcomes in stage 3 CKD, supporting its role in conservative kidney disease management.

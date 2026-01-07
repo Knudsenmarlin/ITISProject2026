@@ -1,0 +1,9 @@
+Background: Irritable bowel syndrome (IBS) is a common functional gastrointestinal disorder associated with abdominal pain, altered bowel habits, and reduced quality of life. Dietary interventions may improve symptoms.
+
+Objective: To evaluate the efficacy of a low-FODMAP diet compared with standard dietary advice in adults with IBS.
+
+Methods: This 12-week randomized controlled trial enrolled 160 adults with IBS. Participants were randomized to a low-FODMAP diet (n = 80) or standard dietary advice (n = 80). Primary outcome was reduction in IBS symptom severity scores. Secondary outcomes included abdominal pain, bloating, stool consistency, and quality of life.
+
+Results: The low-FODMAP group demonstrated significantly greater reduction in IBS symptom severity (−120 ± 25 points) compared with controls (−55 ± 20 points; p < 0.001). Abdominal pain and bloating decreased, and stool consistency normalized in a higher proportion of participants. Quality-of-life scores improved across all domains. No serious adverse events were reported.
+
+Conclusions: A low-FODMAP diet significantly improves gastrointestinal symptoms and quality of life in adults with IBS, supporting its use as a first-line dietary intervention.

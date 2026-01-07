@@ -1,0 +1,9 @@
+Background: Adult immunization rates remain suboptimal, contributing to preventable infectious disease morbidity.
+
+Objective: To assess the impact of a reminder and recall system on adult vaccination uptake in primary care.
+
+Methods: This cluster-randomized trial included 1,200 adults aged ≥18 years attending 20 primary care clinics. Clinics were randomized to a reminder and recall intervention (text messages, phone calls, and mailed reminders) or usual care. Primary outcome was vaccine uptake for influenza, pneumococcal, and shingles vaccines within 12 months. Secondary outcomes included patient satisfaction and missed opportunities.
+
+Results: The intervention increased overall vaccination uptake by 32% compared with usual care (p < 0.001). Missed opportunities decreased, and patient satisfaction improved. No adverse events related to reminders were reported.
+
+Conclusions: Reminder and recall systems significantly improve adult vaccination rates in primary care settings.

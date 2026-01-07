@@ -1,0 +1,9 @@
+Background: Polycystic ovary syndrome (PCOS) is associated with metabolic dysfunction, infertility, and psychological distress.
+
+Objective: To evaluate the effects of a structured lifestyle intervention on ovulatory function and metabolic parameters in women with PCOS.
+
+Methods: This randomized controlled clinical trial included 160 women aged 18–35 years with PCOS. Participants were randomized to a 6-month lifestyle intervention or standard care. Primary outcome was ovulation frequency. Secondary outcomes included insulin resistance, androgen levels, and quality of life.
+
+Results: Women in the intervention group demonstrated significantly higher ovulation rates and improvements in insulin resistance and androgen profiles compared with controls. Quality-of-life scores improved across physical and emotional domains.
+
+Conclusions: Lifestyle intervention improves reproductive and metabolic outcomes in women with PCOS and should be considered first-line therapy.

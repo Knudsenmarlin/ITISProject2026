@@ -1,0 +1,9 @@
+Background: Peripheral artery disease (PAD) contributes to impaired mobility, limb ischemia, and cardiovascular events. Supervised exercise programs can improve walking distance and quality of life.
+
+Objective: To evaluate the effectiveness of a structured home-based walking program compared with supervised exercise on walking performance and quality of life in patients with PAD.
+
+Methods: This 16-week randomized controlled trial included 180 adults with symptomatic PAD. Participants were randomized to a home-based walking program with telemonitoring support (n = 90) or supervised in-clinic exercise sessions (n = 90). Primary outcomes were maximum walking distance and pain-free walking distance. Secondary outcomes included quality-of-life scores, ankle-brachial index, and program adherence.
+
+Results: Both groups improved walking distances, but the home-based program achieved comparable gains in maximum (+120 ± 35 m) and pain-free walking distances (+85 ± 28 m) compared with supervised exercise (p = 0.41). Quality-of-life scores improved, and adherence exceeded 80% in both groups.
+
+Conclusions: Structured home-based walking programs with telemonitoring provide comparable benefits to supervised exercise for patients with PAD, enhancing accessibility and adherence.

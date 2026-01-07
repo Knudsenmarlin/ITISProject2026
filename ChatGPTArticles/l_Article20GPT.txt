@@ -1,0 +1,9 @@
+Background: Burnout among healthcare professionals is associated with reduced patient safety, workforce attrition, and adverse mental health outcomes.
+
+Objective: To evaluate the impact of a structured resilience training program on burnout and psychological well-being in hospital-based physicians.
+
+Methods: This randomized clinical trial included 190 physicians from a tertiary-care hospital. Participants were randomized to an 8-week resilience training program or wait-list control. Primary outcome was burnout severity assessed using a validated inventory. Secondary outcomes included anxiety, depression, and job satisfaction.
+
+Results: Physicians in the intervention group demonstrated significant reductions in burnout and anxiety scores, along with improved job satisfaction and emotional well-being. Benefits were sustained at 3-month follow-up.
+
+Conclusions: Structured resilience training significantly reduces burnout and improves psychological well-being among physicians and may be an effective institutional strategy.

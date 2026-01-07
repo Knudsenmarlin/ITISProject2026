@@ -1,0 +1,9 @@
+Background: Rheumatic heart disease (RHD) remains a major cause of morbidity in low- and middle-income countries. Secondary prophylaxis with penicillin is key to preventing disease progression.
+
+Objective: To evaluate the impact of a community-based penicillin adherence program on recurrence of rheumatic fever and cardiac outcomes.
+
+Methods: This cluster-randomized trial enrolled 220 patients with a history of rheumatic fever. Communities were randomized to enhanced adherence support with community health worker follow-up (n = 110) or standard care (n = 110) over 24 months. Primary outcome was recurrence of acute rheumatic fever. Secondary outcomes included echocardiographic progression and adherence rates.
+
+Results: Recurrence of acute rheumatic fever was significantly lower in the intervention group (4%) compared with controls (15%; p < 0.01). Echocardiographic progression of valvular lesions was reduced, and adherence exceeded 90% in the intervention communities.
+
+Conclusions: Community-based adherence programs effectively reduce rheumatic fever recurrence and slow cardiac progression in patients with RHD.

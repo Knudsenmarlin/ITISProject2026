@@ -1,0 +1,9 @@
+Background: Hospital-acquired infections remain a significant cause of morbidity, mortality, and healthcare costs, particularly in intensive care units.
+
+Objective: To evaluate the effectiveness of a bundled infection prevention protocol in reducing ventilator-associated pneumonia in critically ill patients.
+
+Methods: This quasi-experimental clinical study evaluated outcomes before and after implementation of a bundled prevention protocol in a medical ICU. The bundle included head-of-bed elevation, daily sedation interruption, oral care with antiseptics, and early mobilization. Primary outcome was ventilator-associated pneumonia incidence. Secondary outcomes included ICU length of stay and mortality.
+
+Results: Implementation of the prevention bundle reduced ventilator-associated pneumonia rates by 42% compared with the pre-intervention period (p < 0.01). ICU length of stay decreased significantly, and no increase in adverse events was observed.
+
+Conclusions: A bundled infection prevention strategy significantly reduces ventilator-associated pneumonia and improves clinical outcomes in critically ill patients.

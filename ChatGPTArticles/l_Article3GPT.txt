@@ -1,0 +1,9 @@
+Background: Postoperative pain management is critical for recovery following orthopedic surgery. Opioid-based analgesia is effective but associated with adverse effects and risk of dependency.
+
+Objective: To determine whether a multimodal, opioid-sparing analgesic protocol reduces postoperative pain and opioid consumption after total knee arthroplasty.
+
+Methods: This prospective randomized clinical trial included 180 patients undergoing elective total knee arthroplasty. Participants were assigned to either a multimodal analgesia group (regional anesthesia, acetaminophen, NSAIDs, and gabapentinoids; n = 90) or standard opioid-based analgesia (n = 90). Primary outcomes were postoperative pain scores and total opioid consumption during hospitalization. Secondary outcomes included length of stay, functional recovery, and adverse events.
+
+Results: Patients receiving multimodal analgesia reported significantly lower pain scores at 24 and 48 hours postoperatively and required 45% less opioid medication compared with controls (p < 0.001). Length of hospital stay was reduced by one day on average, and early ambulation scores were significantly improved. Opioid-related adverse events were significantly lower in the intervention group.
+
+Conclusions: Multimodal, opioid-sparing analgesia effectively reduces postoperative pain and opioid use following total knee arthroplasty, supporting its integration into enhanced recovery protocols.

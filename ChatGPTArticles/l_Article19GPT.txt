@@ -1,0 +1,9 @@
+Background: Chronic migraine is associated with substantial disability and reduced quality of life, and preventive treatment options are often limited by tolerability.
+
+Objective: To assess the efficacy of non-invasive vagus nerve stimulation (nVNS) for migraine frequency reduction in patients with chronic migraine.
+
+Methods: This double-blind randomized controlled trial enrolled 180 adults with chronic migraine. Participants received either active nVNS or sham stimulation for 12 weeks. Primary outcome was reduction in monthly migraine days. Secondary outcomes included headache intensity, acute medication use, and quality of life.
+
+Results: Active nVNS resulted in a significant reduction in monthly migraine days (−6.1 ± 2.8) compared with sham (−2.4 ± 2.5; p < 0.001). Improvements in headache-related disability and medication use were also observed.
+
+Conclusions: Non-invasive vagus nerve stimulation significantly reduces migraine frequency and disability in patients with chronic migraine.

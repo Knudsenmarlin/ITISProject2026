@@ -1,0 +1,9 @@
+Background: Nonalcoholic fatty liver disease (NAFLD) is the most common chronic liver condition worldwide and is closely linked to obesity and insulin resistance.
+
+Objective: To evaluate the effects of a hypocaloric Mediterranean diet on liver fat content and metabolic parameters in patients with NAFLD.
+
+Methods: This 24-week randomized controlled trial included 140 adults with imaging-confirmed NAFLD. Participants were randomized to a hypocaloric Mediterranean diet or standard dietary advice. Primary outcome was change in liver fat content measured by magnetic resonance imaging. Secondary outcomes included liver enzymes, insulin resistance, and lipid profile.
+
+Results: The Mediterranean diet group demonstrated a significant reduction in liver fat (−28%) compared with controls (−8%, p < 0.001). Improvements in alanine aminotransferase, insulin resistance, and triglycerides were also observed.
+
+Conclusions: A hypocaloric Mediterranean diet significantly reduces hepatic steatosis and improves metabolic health in patients with NAFLD.

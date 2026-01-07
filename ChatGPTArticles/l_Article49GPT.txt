@@ -1,0 +1,9 @@
+Background: Chronic liver disease due to hepatitis C virus (HCV) infection can progress to cirrhosis and hepatocellular carcinoma. Direct-acting antiviral (DAA) therapy has revolutionized treatment outcomes.
+
+Objective: To evaluate real-world effectiveness and safety of a pan-genotypic DAA regimen in adults with chronic HCV infection.
+
+Methods: This multicenter observational study included 220 adults with chronic HCV infection treated with a pan-genotypic DAA regimen for 12 weeks. Primary outcome was sustained virologic response at 12 weeks post-treatment (SVR12). Secondary outcomes included adverse events, liver function tests, and treatment adherence.
+
+Results: SVR12 was achieved in 97% of participants. Liver enzyme levels improved significantly, and treatment adherence exceeded 95%. Mild adverse events occurred in 12% of participants, with no treatment discontinuations.
+
+Conclusions: Pan-genotypic DAA therapy is highly effective, safe, and well-tolerated in adults with chronic HCV infection in real-world clinical settings.

@@ -1,0 +1,9 @@
+Background: Pressure injuries are common in hospitalized patients and increase morbidity, mortality, and healthcare costs.
+
+Objective: To assess the effectiveness of a targeted repositioning and skin care program in reducing pressure injury incidence.
+
+Methods: This randomized controlled clinical trial included 200 adult patients admitted to intensive care units with high pressure injury risk. Participants were randomized to a targeted prevention program (scheduled repositioning, pressure-relieving mattresses, and skin care protocol; n = 100) or standard care (n = 100). Primary outcome was incidence of new pressure injuries. Secondary outcomes included severity of injuries, length of stay, and patient comfort.
+
+Results: The intervention group demonstrated a 55% reduction in new pressure injuries compared with controls (p < 0.001). Severity scores were lower, and patient comfort measures improved. No adverse events related to the intervention were observed.
+
+Conclusions: Targeted repositioning and skin care protocols effectively reduce pressure injury incidence and severity in high-risk hospitalized patients.

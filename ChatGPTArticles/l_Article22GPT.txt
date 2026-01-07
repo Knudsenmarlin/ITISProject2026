@@ -1,0 +1,9 @@
+Background: Acute ischemic stroke is a leading cause of disability, and early rehabilitation may enhance neurological recovery.
+
+Objective: To assess whether early mobilization within 24 hours of stroke onset improves functional outcomes compared with standard rehabilitation timing.
+
+Methods: This multicenter randomized clinical trial enrolled 240 patients with acute ischemic stroke. Participants were randomized to early mobilization (within 24 hours) or standard rehabilitation initiation (after 48–72 hours). Primary outcome was functional independence at 90 days measured by the modified Rankin Scale. Secondary outcomes included length of hospital stay and complication rates.
+
+Results: Early mobilization resulted in higher rates of functional independence at 90 days (61% vs 48%, p = 0.02) and shorter hospital stays. No increase in adverse neurological events was observed.
+
+Conclusions: Early mobilization following acute ischemic stroke improves functional recovery without compromising safety.

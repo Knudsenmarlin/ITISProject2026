@@ -1,0 +1,9 @@
+Background: Osteoporosis is a major cause of morbidity in postmenopausal women, leading to increased fracture risk and reduced quality of life. Pharmacological treatments are effective but adherence remains suboptimal.
+
+Objective: To evaluate the effects of a combined vitamin D optimization and weight-bearing exercise program on bone mineral density in postmenopausal women with osteopenia.
+
+Methods: This 18-month randomized controlled clinical trial enrolled 200 postmenopausal women aged 55–75 years with osteopenia. Participants were randomized to a combined intervention of supervised weight-bearing exercise and individualized vitamin D supplementation (n = 100) or standard care (n = 100). Primary outcome was change in lumbar spine and femoral neck bone mineral density measured by dual-energy X-ray absorptiometry. Secondary outcomes included fall incidence, muscle strength, and quality of life.
+
+Results: The intervention group demonstrated significant increases in lumbar spine (+3.2%) and femoral neck (+2.1%) bone mineral density compared with minimal changes in controls (p < 0.001). Muscle strength improved and fall incidence was reduced by 29%. No intervention-related adverse events were observed.
+
+Conclusions: Combined weight-bearing exercise and vitamin D optimization significantly improve bone density and functional outcomes in postmenopausal women with osteopenia.

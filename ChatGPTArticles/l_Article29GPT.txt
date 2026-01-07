@@ -1,0 +1,9 @@
+Background: Psoriasis is a chronic inflammatory skin disease associated with systemic inflammation and cardiometabolic risk.
+
+Objective: To assess the impact of biologic therapy on systemic inflammatory markers and vascular function in patients with moderate-to-severe psoriasis.
+
+Methods: This prospective randomized clinical trial included 160 adults with moderate-to-severe psoriasis. Participants were randomized to biologic therapy or conventional systemic treatment for 24 weeks. Primary outcomes included changes in inflammatory biomarkers and endothelial function.
+
+Results: Biologic therapy significantly reduced inflammatory markers and improved endothelial function compared with conventional therapy (p < 0.01). Improvements correlated with reductions in psoriasis severity.
+
+Conclusions: Biologic therapy improves systemic inflammation and vascular function in patients with psoriasis, suggesting potential cardiovascular benefit.

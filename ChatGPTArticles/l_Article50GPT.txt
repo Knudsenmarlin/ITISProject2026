@@ -1,0 +1,9 @@
+Background: Acute appendicitis is one of the most common surgical emergencies. Laparoscopic appendectomy is the preferred surgical approach, but optimizing postoperative recovery remains important.
+
+Objective: To compare enhanced recovery after surgery (ERAS) protocols with conventional care in adults undergoing laparoscopic appendectomy.
+
+Methods: This randomized controlled trial enrolled 180 adults with acute uncomplicated appendicitis. Participants were randomized to an ERAS protocol (early mobilization, early oral intake, multimodal analgesia; n = 90) or conventional perioperative care (n = 90). Primary outcome was length of hospital stay. Secondary outcomes included postoperative pain, complications, and patient satisfaction.
+
+Results: Patients in the ERAS group had a significantly shorter hospital stay (1.2 ± 0.5 days) compared with controls (2.8 ± 0.9 days; p < 0.001). Postoperative pain scores were lower, and patient satisfaction was higher. Complication rates were similar between groups.
+
+Conclusions: ERAS protocols enhance recovery, reduce hospital stay, and improve patient satisfaction after laparoscopic appendectomy without increasing complications.

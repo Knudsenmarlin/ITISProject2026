@@ -1,0 +1,9 @@
+Background: Major depressive disorder is frequently accompanied by cognitive impairment, which contributes to functional disability and poor long-term outcomes.
+
+Objective: To assess the effects of adjunctive aerobic exercise on cognitive function and depressive symptom severity in patients with major depressive disorder.
+
+Methods: In this 12-week randomized controlled trial, 120 adults with moderate major depressive disorder receiving stable antidepressant therapy were assigned to an aerobic exercise program (n = 60) or usual care (n = 60). Primary outcomes included changes in executive function and memory performance. Secondary outcomes included depressive symptom severity and quality of life.
+
+Results: The exercise group demonstrated significant improvements in executive function, working memory, and processing speed compared with controls (p < 0.01). Depressive symptoms decreased more markedly in the intervention group, with significant improvements in physical and social functioning domains of quality of life.
+
+Conclusions: Aerobic exercise significantly improves cognitive performance and depressive symptoms in patients with major depressive disorder and should be considered a valuable adjunctive treatment.

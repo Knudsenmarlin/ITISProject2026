@@ -1,0 +1,9 @@
+Background: Chronic obstructive pulmonary disease (COPD) is characterized by persistent respiratory symptoms and reduced exercise capacity, contributing to decreased quality of life.
+
+Objective: To determine the effects of a home-based pulmonary rehabilitation program on functional capacity and symptom burden in patients with moderate COPD.
+
+Methods: In this 16-week randomized controlled trial, 130 patients with moderate COPD were assigned to a home-based pulmonary rehabilitation program or usual care. Primary outcomes included changes in six-minute walk distance and dyspnea scores. Secondary outcomes included exacerbation frequency and health-related quality of life.
+
+Results: Patients in the intervention group demonstrated significant improvements in six-minute walk distance (+48 ± 22 m) and reduced dyspnea scores compared with controls (p < 0.001). Quality-of-life scores improved across multiple domains, and exacerbation rates were reduced by 30%.
+
+Conclusions: Home-based pulmonary rehabilitation significantly improves exercise capacity and symptom control in patients with COPD and may enhance access to rehabilitation services.

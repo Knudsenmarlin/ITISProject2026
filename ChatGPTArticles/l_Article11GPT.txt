@@ -1,0 +1,9 @@
+Background: Chronic heart failure with preserved ejection fraction (HFpEF) is increasingly prevalent and lacks effective treatment options. Exercise intolerance is a major contributor to poor quality of life in affected patients.
+
+Objective: To evaluate the effects of a structured aerobic exercise training program on functional capacity and quality of life in patients with HFpEF.
+
+Methods: This randomized controlled clinical trial enrolled 150 adults aged ≥50 years with stable HFpEF. Participants were randomized to a supervised aerobic exercise program (n = 75) or usual care (n = 75) for 24 weeks. The intervention consisted of thrice-weekly moderate-intensity exercise sessions. Primary outcomes included changes in peak oxygen uptake (VO₂peak) and six-minute walk distance. Secondary outcomes included quality-of-life scores and echocardiographic parameters.
+
+Results: The exercise group demonstrated a significant increase in VO₂peak (+2.4 ± 1.1 mL/kg/min) and six-minute walk distance (+52 ± 24 m) compared with controls (p < 0.001). Quality-of-life scores improved significantly, while echocardiographic measures of diastolic function remained unchanged. No adverse cardiovascular events occurred.
+
+Conclusions: Aerobic exercise training significantly improves functional capacity and quality of life in patients with HFpEF and represents a safe adjunctive therapy in this population.

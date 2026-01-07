@@ -1,0 +1,9 @@
+Background: Post–acute COVID-19 syndrome is characterized by persistent symptoms including fatigue, dyspnea, and reduced exercise tolerance, significantly impairing daily functioning.
+
+Objective: To evaluate the effectiveness of a structured cardiopulmonary rehabilitation program in improving functional capacity and symptom burden in patients with post–acute COVID-19 syndrome.
+
+Methods: This randomized controlled clinical trial enrolled 170 adults with persistent symptoms lasting longer than 12 weeks after confirmed SARS-CoV-2 infection. Participants were randomized to a 10-week supervised cardiopulmonary rehabilitation program (n = 85) or usual care (n = 85). Primary outcomes included change in six-minute walk distance and fatigue severity scores. Secondary outcomes included pulmonary function tests, dyspnea scores, and health-related quality of life.
+
+Results: Participants in the rehabilitation group demonstrated significant improvements in six-minute walk distance (+62 ± 28 m) compared with controls (+14 ± 25 m; p < 0.001). Fatigue severity decreased substantially, accompanied by improvements in dyspnea and quality-of-life domains. Pulmonary function showed modest but significant gains. No serious adverse events were reported.
+
+Conclusions: Structured cardiopulmonary rehabilitation significantly improves functional capacity, fatigue, and quality of life in patients with post–acute COVID-19 syndrome.

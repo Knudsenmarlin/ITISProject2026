@@ -1,0 +1,9 @@
+Background: Postoperative delirium is a common complication among older adults undergoing major surgery and is associated with prolonged hospitalization and increased mortality.
+
+Objective: To assess whether perioperative melatonin administration reduces the incidence of postoperative delirium in elderly surgical patients.
+
+Methods: This double-blind, placebo-controlled randomized clinical trial included 220 patients aged ≥65 years undergoing major non-cardiac surgery. Participants received either oral melatonin (5 mg nightly) or placebo starting three days preoperatively through postoperative day five. The primary outcome was the incidence of postoperative delirium assessed using a standardized diagnostic tool.
+
+Results: Delirium occurred in 18.2% of patients in the melatonin group compared with 32.7% in the placebo group (relative risk reduction 44%, p = 0.003). Melatonin-treated patients had shorter hospital stays and improved sleep quality. No significant adverse events were reported.
+
+Conclusions: Perioperative melatonin significantly reduces postoperative delirium in elderly patients and represents a safe, low-cost preventive strategy.

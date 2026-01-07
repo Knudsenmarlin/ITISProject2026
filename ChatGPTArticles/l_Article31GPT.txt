@@ -1,0 +1,9 @@
+Background: Chronic venous insufficiency (CVI) causes leg swelling, pain, and impaired mobility, leading to decreased quality of life. Compression therapy is a standard treatment, but adherence is often poor.
+
+Objective: To evaluate whether a structured adherence support program improves clinical outcomes in patients with CVI using compression stockings.
+
+Methods: This randomized controlled trial enrolled 160 adults with moderate-to-severe CVI. Participants were randomized to compression therapy with adherence support (education, reminder systems, and follow-up; n = 80) or standard care (n = 80) for 12 months. Primary outcome was change in leg edema measured by circumference. Secondary outcomes included pain scores, ulcer incidence, and quality of life.
+
+Results: The adherence support group demonstrated significantly greater reduction in leg edema (−3.8 ± 1.5 cm vs −1.2 ± 1.2 cm; p < 0.001) and improved pain scores. Ulcer incidence decreased, and quality-of-life scores improved significantly. Adherence to compression therapy exceeded 85% in the intervention group.
+
+Conclusions: Structured adherence support enhances the effectiveness of compression therapy in CVI, improving edema, pain, and quality of life.

@@ -1,0 +1,9 @@
+Background: Mild cognitive impairment (MCI) represents a transitional stage between normal aging and dementia. Interventions that slow cognitive decline are urgently needed.
+
+Objective: To investigate whether combined cognitive training and physical exercise improves cognitive outcomes in older adults with MCI.
+
+Methods: This randomized controlled clinical trial enrolled 160 adults aged ≥65 years with MCI. Participants were randomized to combined cognitive and physical training or standard care over 12 months. Primary outcome was global cognitive function assessed by neuropsychological testing.
+
+Results: The intervention group showed significantly greater improvement in global cognition, executive function, and memory compared with controls (p < 0.01). Functional independence scores also improved.
+
+Conclusions: Combined cognitive and physical training improves cognitive performance in older adults with MCI and may delay progression to dementia.

@@ -1,0 +1,9 @@
+Background: Inflammatory bowel disease (IBD) is frequently complicated by iron-deficiency anemia, adversely affecting patient quality of life and disease outcomes.
+
+Objective: To compare the efficacy and safety of intravenous ferric carboxymaltose versus oral iron supplementation in patients with IBD-associated anemia.
+
+Methods: This multicenter randomized clinical trial included 200 adults with IBD and iron-deficiency anemia. Participants were assigned to intravenous ferric carboxymaltose or oral ferrous sulfate for 12 weeks. Primary outcome was hemoglobin normalization. Secondary outcomes included ferritin levels, fatigue scores, and gastrointestinal adverse events.
+
+Results: Hemoglobin normalization occurred in 74% of patients receiving intravenous iron compared with 46% receiving oral iron (p < 0.001). Ferritin levels improved significantly in the intravenous group, while gastrointestinal adverse events were significantly more frequent in the oral iron group.
+
+Conclusions: Intravenous ferric carboxymaltose is more effective and better tolerated than oral iron for treatment of IBD-associated anemia.

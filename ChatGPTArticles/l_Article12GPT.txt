@@ -1,0 +1,9 @@
+Background: Chemotherapy-induced peripheral neuropathy (CIPN) is a common and disabling complication of cancer treatment, with limited preventive strategies.
+
+Objective: To assess the efficacy of omega-3 fatty acid supplementation in preventing CIPN in patients receiving neurotoxic chemotherapy.
+
+Methods: In this double-blind randomized clinical trial, 180 adults undergoing platinum-based chemotherapy were assigned to omega-3 supplementation or placebo for the duration of treatment. The primary outcome was incidence and severity of peripheral neuropathy assessed by standardized neurological scales.
+
+Results: The omega-3 group exhibited a significantly lower incidence of moderate-to-severe CIPN (21% vs 39%, p = 0.01) and reduced symptom severity. No interference with chemotherapy efficacy or serious adverse events was observed.
+
+Conclusions: Omega-3 fatty acid supplementation reduces the incidence and severity of chemotherapy-induced peripheral neuropathy and may serve as a safe preventive strategy in oncology care.

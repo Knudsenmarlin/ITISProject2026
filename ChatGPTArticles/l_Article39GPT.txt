@@ -1,0 +1,9 @@
+Background: Pediatric asthma is a leading cause of morbidity and school absenteeism. Adherence to inhaled corticosteroid therapy is often suboptimal.
+
+Objective: To evaluate the effect of a mobile health (mHealth) reminder system on adherence and asthma control in children.
+
+Methods: This 12-month randomized clinical trial enrolled 180 children aged 6–12 years with moderate persistent asthma. Participants were randomized to an mHealth reminder system (daily medication reminders and adherence feedback; n = 90) or standard care (n = 90). Primary outcome was medication adherence measured electronically. Secondary outcomes included asthma control scores, exacerbation frequency, and school absenteeism.
+
+Results: The intervention group demonstrated higher medication adherence (88% vs 62%; p < 0.001) and improved asthma control scores. Exacerbation frequency decreased, and school absenteeism was reduced by 30% compared with controls. No adverse events were reported.
+
+Conclusions: mHealth reminder systems improve medication adherence, asthma control, and school attendance in children with moderate asthma.

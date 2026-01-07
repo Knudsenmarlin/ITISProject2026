@@ -1,0 +1,9 @@
+Background: Obstructive sleep apnea (OSA) in children is associated with behavioral problems, learning difficulties, and cardiovascular risk. Adenotonsillectomy is the first-line treatment, but post-surgical follow-up is often inconsistent.
+
+Objective: To evaluate whether a structured post-operative follow-up program improves symptom resolution and adherence to clinical recommendations.
+
+Methods: This randomized controlled trial enrolled 160 children aged 3–12 years undergoing adenotonsillectomy for OSA. Participants were randomized to a structured follow-up program (scheduled assessments, parental education, and telephone support; n = 80) or standard follow-up (n = 80). Primary outcome was resolution of OSA symptoms at 6 months. Secondary outcomes included adherence to follow-up, quality of life, and behavioral scores.
+
+Results: The structured follow-up group had higher rates of symptom resolution (88% vs 65%; p < 0.001) and greater adherence to clinical recommendations. Behavioral and quality-of-life scores improved significantly. No adverse events were reported.
+
+Conclusions: Structured post-operative follow-up improves clinical outcomes and adherence in children undergoing adenotonsillectomy for OSA.

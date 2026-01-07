@@ -1,0 +1,9 @@
+Background: Hypertension during pregnancy increases the risk of maternal and fetal complications. Non-pharmacologic interventions, including dietary modifications, may improve blood pressure control.
+
+Objective: To evaluate the effect of a low-sodium dietary intervention on blood pressure and pregnancy outcomes in women with gestational hypertension.
+
+Methods: This randomized controlled trial enrolled 160 pregnant women diagnosed with gestational hypertension at 20–28 weeks gestation. Participants were randomized to a low-sodium diet (n = 80) or standard prenatal care (n = 80) until delivery. Primary outcomes were changes in systolic and diastolic blood pressure. Secondary outcomes included maternal complications, gestational age at delivery, and neonatal birth weight.
+
+Results: The intervention group demonstrated significant reductions in systolic (−10.8 ± 5.2 mmHg) and diastolic (−6.4 ± 3.8 mmHg) blood pressure compared with controls (−3.1 ± 4.9 and −1.2 ± 3.5 mmHg; p < 0.001). Rates of preeclampsia were lower in the intervention group, and neonatal outcomes were favorable. No adverse maternal or fetal events were reported.
+
+Conclusions: Low-sodium dietary intervention effectively reduces blood pressure and improves maternal and neonatal outcomes in gestational hypertension.

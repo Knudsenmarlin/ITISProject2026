@@ -1,0 +1,9 @@
+Background: Chronic insomnia is associated with impaired daytime functioning and increased risk of mental and physical health disorders.
+
+Objective: To compare the effectiveness of digital cognitive behavioral therapy for insomnia (dCBT-I) versus pharmacological therapy in adults with chronic insomnia.
+
+Methods: This randomized controlled clinical trial enrolled 200 adults with chronic insomnia. Participants were randomized to dCBT-I or short-term pharmacological therapy for 8 weeks. Primary outcome was insomnia severity index score. Secondary outcomes included sleep efficiency, daytime functioning, and adverse effects.
+
+Results: dCBT-I resulted in greater and more sustained reductions in insomnia severity compared with pharmacological therapy (p < 0.001). Improvements in sleep efficiency and daytime functioning were superior in the dCBT-I group, with fewer adverse effects.
+
+Conclusions: Digital CBT-I is more effective and better tolerated than pharmacological therapy for chronic insomnia.

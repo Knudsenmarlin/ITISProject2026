@@ -1,0 +1,9 @@
+Background: Rheumatoid arthritis (RA) is associated with chronic pain, fatigue, and reduced physical function despite pharmacological treatment.
+
+Objective: To assess the impact of a tailored exercise and education program on disease activity and functional outcomes in patients with RA.
+
+Methods: This 20-week randomized clinical trial included 150 adults with stable RA receiving disease-modifying therapy. Participants were randomized to an exercise-education intervention or usual care. Primary outcome was change in disease activity score (DAS28). Secondary outcomes included pain, fatigue, and physical function.
+
+Results: The intervention group demonstrated a significant reduction in DAS28 scores and improvements in pain, fatigue, and functional ability compared with controls. No disease flares related to exercise were reported.
+
+Conclusions: Tailored exercise and education significantly improve disease activity and patient-reported outcomes in RA, supporting their role as adjunctive therapies.

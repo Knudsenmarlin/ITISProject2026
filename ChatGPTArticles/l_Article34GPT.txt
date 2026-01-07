@@ -1,0 +1,9 @@
+Background: Acute kidney injury (AKI) in hospitalized patients is associated with increased morbidity, mortality, and long-term renal complications.
+
+Objective: To assess whether a protocolized fluid management strategy reduces AKI incidence in high-risk hospitalized patients.
+
+Methods: This randomized controlled trial included 200 adults at high risk for AKI due to sepsis or major surgery. Participants were randomized to protocolized fluid management guided by hemodynamic monitoring or standard care. Primary outcome was incidence of AKI within 7 days. Secondary outcomes included need for renal replacement therapy, length of hospital stay, and mortality.
+
+Results: AKI incidence was significantly lower in the protocolized group (15%) compared with standard care (32%; p = 0.005). The need for renal replacement therapy decreased, hospital stay was shorter, and no increase in adverse events was observed.
+
+Conclusions: Protocolized fluid management reduces AKI incidence and improves short-term clinical outcomes in high-risk hospitalized patients.

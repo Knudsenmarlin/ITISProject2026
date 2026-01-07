@@ -1,0 +1,9 @@
+Background: Heart failure with reduced ejection fraction (HFrEF) is associated with high morbidity and frequent hospitalizations. Optimizing self-care behaviors may improve outcomes.
+
+Objective: To evaluate the effect of a structured self-care education and telemonitoring program on hospital readmissions and quality of life in patients with HFrEF.
+
+Methods: This 12-month randomized controlled trial enrolled 180 adults with HFrEF and at least one hospitalization in the prior year. Participants were randomized to a telemonitoring and education program (daily weight and symptom reporting, medication reminders, and nurse-led education; n = 90) or standard care (n = 90). Primary outcome was HF-related hospital readmissions. Secondary outcomes included quality-of-life scores, medication adherence, and mortality.
+
+Results: The intervention group experienced a 40% reduction in HF-related hospital readmissions compared with controls (p < 0.001). Quality-of-life scores improved significantly, and medication adherence increased. No increase in adverse events was observed.
+
+Conclusions: Structured self-care education combined with telemonitoring reduces hospitalizations and improves quality of life in patients with HFrEF.

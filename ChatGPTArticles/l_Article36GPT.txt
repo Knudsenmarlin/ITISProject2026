@@ -1,0 +1,9 @@
+Background: Chronic obstructive pulmonary disease (COPD) exacerbations contribute to accelerated lung function decline and hospitalizations. Early interventions to prevent exacerbations may improve outcomes.
+
+Objective: To assess the efficacy of a home-based telemonitoring program in reducing COPD exacerbations and healthcare utilization.
+
+Methods: This 12-month randomized controlled trial enrolled 180 adults with moderate-to-severe COPD and a history of ≥2 exacerbations in the prior year. Participants were randomized to a telemonitoring intervention (daily symptom reporting, pulse oximetry, and remote nurse monitoring; n = 90) or usual care (n = 90). Primary outcome was number of COPD exacerbations requiring hospitalization. Secondary outcomes included emergency department visits, quality of life, and adherence to self-management.
+
+Results: The telemonitoring group experienced a 38% reduction in exacerbation-related hospitalizations compared with controls (p < 0.001). Emergency department visits decreased, and quality-of-life scores improved across physical and emotional domains. Adherence to daily monitoring exceeded 85%, and no adverse events were reported.
+
+Conclusions: Home-based telemonitoring reduces exacerbations and hospitalizations in patients with COPD, supporting its integration into chronic disease management strategies.

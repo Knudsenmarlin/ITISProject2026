@@ -1,0 +1,9 @@
+Background: Palliative care integration early in the disease course may improve outcomes for patients with advanced cancer.
+
+Objective: To evaluate the effects of early palliative care consultation on symptom burden and healthcare utilization in patients with advanced solid tumors.
+
+Methods: This randomized controlled clinical trial enrolled 220 patients with newly diagnosed advanced solid tumors. Participants were randomized to early palliative care consultation plus standard oncology care or standard oncology care alone. Primary outcome was symptom burden. Secondary outcomes included hospitalizations and quality of life.
+
+Results: Patients receiving early palliative care reported significantly lower symptom burden and fewer hospitalizations, along with improved quality of life and mood.
+
+Conclusions: Early palliative care integration improves symptom control and reduces healthcare utilization in patients with advanced cancer.

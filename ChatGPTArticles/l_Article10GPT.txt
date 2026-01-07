@@ -1,0 +1,9 @@
+Background: Frailty in older adults is associated with increased risk of falls, hospitalization, and mortality. Interventions targeting physical resilience may reduce frailty progression.
+
+Objective: To assess the effects of a resistance training program on frailty status and functional outcomes in community-dwelling older adults.
+
+Methods: This 12-month randomized controlled trial enrolled 180 adults aged ≥70 years classified as prefrail or frail. Participants were randomized to supervised resistance training or usual care. Primary outcome was change in frailty index.
+
+Results: Resistance training significantly reduced frailty scores and improved muscle strength, gait speed, and balance. Fall incidence was reduced by 35% in the intervention group.
+
+Conclusions: Long-term resistance training effectively reduces frailty and improves functional outcomes in older adults, supporting its integration into geriatric care.

@@ -1,0 +1,9 @@
+Background: Pediatric obesity is a growing public health concern, associated with long-term cardiometabolic risks.
+
+Objective: To evaluate the effectiveness of a school-based lifestyle intervention on body mass index (BMI) and metabolic risk factors in overweight and obese children.
+
+Methods: This 12-month cluster-randomized trial included 240 children aged 8–12 years from 12 schools. Schools were randomized to a structured intervention including nutrition education, increased physical activity, and behavioral support or usual curriculum. Primary outcome was change in BMI z-score. Secondary outcomes included waist circumference, fasting glucose, lipid profile, and physical activity levels.
+
+Results: The intervention group demonstrated a significant reduction in BMI z-score (−0.18 ± 0.06) compared with controls (+0.02 ± 0.04; p < 0.001). Improvements in waist circumference, fasting insulin, triglycerides, and physical activity levels were also observed. No adverse events were reported.
+
+Conclusions: School-based lifestyle interventions effectively reduce obesity and improve cardiometabolic risk factors in children, supporting their role in public health strategies.

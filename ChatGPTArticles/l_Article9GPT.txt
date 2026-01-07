@@ -1,0 +1,9 @@
+Background: Obstructive sleep apnea (OSA) is associated with cardiovascular morbidity and neurocognitive impairment. Adherence to continuous positive airway pressure (CPAP) therapy remains a major challenge.
+
+Objective: To evaluate whether a telemonitoring-based adherence support program improves CPAP compliance in patients with newly diagnosed OSA.
+
+Methods: This randomized clinical trial included 160 adults with moderate-to-severe OSA initiating CPAP therapy. Participants were assigned to telemonitoring support or standard follow-up. Primary outcome was CPAP adherence at 6 months.
+
+Results: Telemonitoring support significantly increased mean nightly CPAP use (5.8 ± 1.2 vs 3.9 ± 1.5 hours, p < 0.001). Improvements in daytime sleepiness and patient satisfaction were also observed.
+
+Conclusions: Telemonitoring-based adherence programs significantly improve CPAP compliance and clinical outcomes in patients with OSA.

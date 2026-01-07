@@ -1,0 +1,9 @@
+Background: Neonatal jaundice is common and may require phototherapy to prevent complications such as kernicterus. Optimizing phototherapy protocols may improve efficacy and safety.
+
+Objective: To compare intensive versus standard phototherapy in reducing bilirubin levels in term neonates with moderate hyperbilirubinemia.
+
+Methods: This randomized clinical trial included 180 term neonates with bilirubin levels between 15–20 mg/dL. Participants were randomized to intensive phototherapy (high-intensity light with increased body surface exposure; n = 90) or standard phototherapy (conventional intensity; n = 90). Primary outcome was rate of bilirubin reduction over 24 hours. Secondary outcomes included need for exchange transfusion, duration of phototherapy, and adverse events.
+
+Results: Intensive phototherapy resulted in a faster bilirubin reduction (−4.2 ± 0.9 mg/dL) compared with standard phototherapy (−2.7 ± 0.8 mg/dL; p < 0.001). Fewer neonates required prolonged phototherapy or exchange transfusion. No significant adverse events were observed.
+
+Conclusions: Intensive phototherapy is more effective than standard phototherapy in reducing bilirubin levels in term neonates with moderate hyperbilirubinemia without increasing adverse events.

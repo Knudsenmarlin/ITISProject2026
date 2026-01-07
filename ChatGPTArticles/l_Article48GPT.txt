@@ -1,0 +1,9 @@
+Background: Postoperative nausea and vomiting (PONV) is a common complication after general anesthesia, leading to patient discomfort and delayed recovery.
+
+Objective: To evaluate the efficacy of combination prophylaxis with ondansetron and dexamethasone compared with ondansetron alone in preventing PONV.
+
+Methods: This randomized controlled trial enrolled 200 adults undergoing elective laparoscopic surgery under general anesthesia. Participants were randomized to combination therapy (ondansetron 4 mg + dexamethasone 8 mg; n = 100) or ondansetron alone (4 mg; n = 100). Primary outcome was incidence of PONV within 24 hours postoperatively. Secondary outcomes included severity of nausea, vomiting episodes, and patient satisfaction.
+
+Results: PONV incidence was significantly lower in the combination group (14%) compared with ondansetron alone (32%; p = 0.002). Severity of nausea and number of vomiting episodes were reduced, and patient satisfaction improved. No serious adverse events were reported.
+
+Conclusions: Combination prophylaxis with ondansetron and dexamethasone is more effective than ondansetron alone in preventing PONV in adults undergoing laparoscopic surgery.

@@ -1,0 +1,9 @@
+Background: Depression and anxiety are highly prevalent among patients with chronic kidney disease (CKD) and negatively impact quality of life and treatment adherence.
+
+Objective: To evaluate the effectiveness of a mindfulness-based stress reduction (MBSR) program on psychological outcomes in adults with CKD.
+
+Methods: This 12-week randomized clinical trial included 150 adults with stage 3–4 CKD. Participants were randomized to MBSR sessions (weekly group classes plus home practice; n = 75) or usual care (n = 75). Primary outcomes were changes in depression and anxiety scores. Secondary outcomes included stress, sleep quality, and adherence to CKD management recommendations.
+
+Results: The MBSR group demonstrated significant reductions in depression (−6.4 ± 2.1) and anxiety (−5.7 ± 2.0) scores compared with controls (−1.2 ± 1.8 and −1.0 ± 1.6; p < 0.001). Sleep quality and adherence to CKD management improved significantly. No adverse events were reported.
+
+Conclusions: Mindfulness-based stress reduction reduces psychological distress and improves adherence in adults with CKD.

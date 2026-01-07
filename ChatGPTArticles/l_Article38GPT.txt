@@ -1,0 +1,9 @@
+Background: Post-stroke depression is common and negatively impacts functional recovery and quality of life. Early intervention may prevent chronic depressive symptoms.
+
+Objective: To assess the efficacy of cognitive behavioral therapy (CBT) in preventing post-stroke depression.
+
+Methods: This 16-week randomized controlled trial enrolled 140 adults within 3 months of ischemic stroke who were at high risk for depression. Participants were randomized to weekly CBT sessions (n = 70) or usual post-stroke care (n = 70). Primary outcome was incidence of major depressive disorder assessed by structured clinical interview. Secondary outcomes included depressive symptom scores, functional independence, and quality of life.
+
+Results: Major depressive disorder developed in 14% of patients receiving CBT compared with 32% in controls (p = 0.01). Symptom severity scores decreased significantly, and functional independence and quality-of-life measures improved in the intervention group. No adverse events were observed.
+
+Conclusions: Early cognitive behavioral therapy reduces the incidence of post-stroke depression and improves functional and psychosocial outcomes.

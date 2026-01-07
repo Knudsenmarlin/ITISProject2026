@@ -1,0 +1,9 @@
+Background: Type 2 diabetes mellitus is associated with progressive decline in glycemic control and increased risk of microvascular and macrovascular complications. Early intervention strategies aimed at improving insulin sensitivity may delay disease progression.
+
+Objective: To evaluate the efficacy of intermittent fasting on glycemic control, insulin resistance, and inflammatory markers in adults with early-stage type 2 diabetes.
+
+Methods: This 24-week randomized clinical trial enrolled 150 adults aged 30–65 years with type 2 diabetes diagnosed within the previous 3 years. Participants were randomized to an intermittent fasting intervention (16:8 fasting schedule, n = 75) or standard dietary counseling (n = 75). Primary outcomes included changes in glycated hemoglobin (HbA1c) and insulin resistance assessed by HOMA-IR. Secondary outcomes included body weight, lipid profile, inflammatory markers, and treatment adherence.
+
+Results: At 24 weeks, the intermittent fasting group demonstrated a greater reduction in HbA1c (−1.1 ± 0.4%) compared with controls (−0.4 ± 0.3%, p < 0.001). HOMA-IR improved significantly in the intervention group (−1.6 ± 0.7 vs −0.5 ± 0.6, p < 0.001). Significant reductions in body weight, triglycerides, and C-reactive protein were observed. Adherence exceeded 80%, and no increase in hypoglycemic events was reported.
+
+Conclusions: Intermittent fasting significantly improves glycemic control and insulin sensitivity in adults with early-stage type 2 diabetes. This dietary strategy may represent a safe and effective adjunct to standard diabetes management.

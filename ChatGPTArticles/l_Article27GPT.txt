@@ -1,0 +1,9 @@
+Background: Antibiotic overuse in primary care contributes to antimicrobial resistance and unnecessary adverse effects.
+
+Objective: To assess whether a point-of-care C-reactive protein (CRP) testing strategy reduces antibiotic prescribing for acute respiratory tract infections.
+
+Methods: This cluster-randomized clinical trial involved 40 primary care practices and 1,200 adult patients presenting with acute respiratory tract infections. Practices were randomized to CRP-guided prescribing or usual care. Primary outcome was antibiotic prescription rate. Secondary outcomes included symptom resolution and reconsultation rates.
+
+Results: Antibiotic prescribing was significantly lower in the CRP-guided group (34%) compared with usual care (58%; p < 0.001), with no difference in symptom duration or complication rates. Patient satisfaction remained high in both groups.
+
+Conclusions: Point-of-care CRP testing safely reduces unnecessary antibiotic prescribing in primary care settings.

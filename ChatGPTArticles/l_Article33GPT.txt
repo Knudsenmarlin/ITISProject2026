@@ -1,0 +1,9 @@
+Background: Iron deficiency anemia is common among adolescent females and can impair cognitive function and school performance.
+
+Objective: To determine the effect of weekly iron supplementation on hemoglobin levels and cognitive performance in adolescent girls.
+
+Methods: In this randomized controlled trial, 180 adolescent girls aged 12–16 years with mild to moderate anemia were assigned to weekly oral iron supplementation or placebo for 12 weeks. Primary outcome was change in hemoglobin. Secondary outcomes included ferritin levels and cognitive test performance.
+
+Results: Hemoglobin increased significantly in the intervention group (+1.5 ± 0.6 g/dL) compared with placebo (+0.3 ± 0.4 g/dL; p < 0.001). Ferritin levels improved, and cognitive test scores for attention and memory were significantly higher in the supplemented group.
+
+Conclusions: Weekly iron supplementation improves hematologic status and cognitive performance in adolescent girls with iron deficiency anemia.

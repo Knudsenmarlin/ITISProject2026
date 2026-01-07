@@ -1,0 +1,9 @@
+Background: Atrial fibrillation (AF) is the most common sustained cardiac arrhythmia and is associated with increased risk of stroke and heart failure. Lifestyle factors may influence AF burden and symptom severity.
+
+Objective: To evaluate the effect of structured weight management on atrial fibrillation burden and symptom severity in overweight and obese adults with paroxysmal AF.
+
+Methods: This randomized controlled clinical trial enrolled 180 adults with paroxysmal AF and body mass index ≥27 kg/m². Participants were randomized to a structured weight management program including dietary counseling and supervised exercise (n = 90) or standard care (n = 90) for 12 months. The primary outcome was change in AF burden measured by ambulatory rhythm monitoring. Secondary outcomes included symptom severity, cardiorespiratory fitness, and quality of life.
+
+Results: The intervention group experienced a significant reduction in AF burden (−38%) compared with controls (−12%; p < 0.001). Symptom severity scores and AF-related quality of life improved significantly, accompanied by reductions in body weight and improvements in aerobic capacity. No increase in arrhythmia-related adverse events was observed.
+
+Conclusions: Structured weight management significantly reduces AF burden and improves symptom control in overweight and obese patients with paroxysmal AF.

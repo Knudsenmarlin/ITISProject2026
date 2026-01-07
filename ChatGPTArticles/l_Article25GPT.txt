@@ -1,0 +1,9 @@
+Background: Seasonal influenza causes significant morbidity among older adults, despite vaccination efforts.
+
+Objective: To assess the effectiveness of high-dose influenza vaccination compared with standard-dose vaccination in adults aged ≥65 years.
+
+Methods: This double-blind randomized clinical trial enrolled 300 older adults during influenza season. Participants received either high-dose or standard-dose influenza vaccine. Primary outcome was laboratory-confirmed influenza infection. Secondary outcomes included hospitalization and adverse events.
+
+Results: High-dose vaccination reduced laboratory-confirmed influenza by 28% compared with standard-dose vaccination (p = 0.01). Hospitalizations related to influenza were also reduced. Vaccine-related adverse events were mild and transient.
+
+Conclusions: High-dose influenza vaccination provides superior protection against influenza in older adults and supports its use in this high-risk population.
