@@ -1,0 +1,14 @@
+Abstract
+Study design: Randomized controlled study.
+
+Introduction: Lateral epicondylitis (LE) causes pain and loss of function in the affected limb. Different exercises have been used for the treatment of LE. In recent years, the technique of neuromobilization has been frequently used to treat tendinopathy. However, there is no study that demonstrates the effects of neuromobilization techniques on patients with LE.
+
+Purpose of the study: The aim of the present study was to determine the effects of neuromobilization techniques on pain, grip strength, and functional status in LE patients and to compare them with conservative rehabilitation treatment.
+
+Methods: A total of 40 patients (26 females and 14 males; age: 42.80 ± 8.91 years) with a history of LE participated in the study. The patients were randomly assigned to two groups: the neuromobilization group and the control group. The neuromobilization group completed a 6-week conservative rehabilitation and radial nerve mobilization program, whereas the control group received conservative rehabilitation therapy only. Both groups underwent a 7-day weekly conservative home rehabilitation program. Pain severity, grip strength, pinch strength, joint motions, and upper extremity functional level were assessed before treatment, at the third week after treatment, and at the sixth week after treatment.
+
+Results: There was a significant decrease in all pain scores in favor of the neuromobilization group at week 6 after treatment (at rest: P = .001, effect size (ES) = 0.84; at night: P = .001, ES = 0.91 and during activity: P = .004, ES = 1.06). No significant differences were found for grip strength, pinch strength, joint motions, and functional level in the neuromobilization group, although trends toward better improvement were observed.
+
+Conclusions: Radial nerve mobilization techniques are more effective on pain than conservative rehabilitation therapy in LE patients, and this effect continues after treatment.
+
+Keywords: Eccentric exercise; Lateral epicondylitis; Neuromobilization; Radial nerve mobilization; Tennis elbow.

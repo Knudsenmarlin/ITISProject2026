@@ -1,0 +1,10 @@
+Abstract
+Objectives: Intravenous drug use in neonates is frequent and prone to medication errors. The aim of this study was to describe the intravenous drugs most frequently used in Spanish Neonatal Intensive Care Units (NICU), their preparation and the implementation rate of standardised concentration infusions.
+
+Methods: We conducted an observational multicentre study based on a survey sent by email to nine Spanish NICUs during January and February 2018. We collected data describing the intravenous drugs frequently used in neonates and their preparation. A descriptive analysis of the medicines reported (and their preparation) was performed, to assess how frequently standard concentrations were used and how medications were prepared in central pharmacies.
+
+Results: Overall, 69 different drugs were reported by participating NICUs. Of these, 33% (n=23) were not approved for use in neonates and 38% (n=26) corresponded to high-alert medications, according to the Institute for Safe Medication Practices. A mean of only 63.5% of intravenous medicines were standardised. The standard-concentration implementation rate was somewhat higher for intermittent (mean 74.1%) than continuous (mean 42.9%) infusions. Notably, infusions were more commonly prepared on wards than in hospital pharmacies.
+
+Conclusions: Intravenous drug use in NICUs has been identified as a high-risk process, and error-reduction strategies (such as concentration standardisation) have been recommended. Further data are necessary to design the most suitable intervention in our country (Spain), but institutional initiatives are needed to achieve this.
+
+Keywords: IV administration; clinical pharmacy; drug administration (others); health & safety; medical errors; neonatology; paediatrics.

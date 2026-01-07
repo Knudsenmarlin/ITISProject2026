@@ -1,0 +1,12 @@
+Abstract
+Study objectives: We evaluated the performance of the Insomnia Severity Index-3 (ISI-3) as a short screening tool to identify clinically significant insomnia derived from the 7-item ISI in an older primary care population.
+
+Methods: We used results from two surveys including the 7-item ISI: Sample 1 (n = 3197) and Sample 2 (n = 247) individuals aged ≥60 years with a diagnosis of osteoarthritis from electronic health records. The 7 items were: difficulty falling asleep, difficulty staying asleep, waking too early, sleep satisfaction, sleep interference with daytime functioning, noticeability of sleep problems by others, and worry about sleep. The ISI-3 included items with highest item-total correlations to the 7-item ISI from Sample 1. A 7-item ISI score ≥15 was defined as clinically significant insomnia and served as the primary criterion for the ISI-3. We derived operating characteristics to determine the diagnostic accuracy and cut-points to maximize sensitivity and specificity for both samples.
+
+Results: The items with the highest item-total correlations were: sleep dissatisfaction, sleep interference with daily functioning, and worry about sleep problems (r = 0.78-0.81); while difficulty falling asleep, difficulty staying asleep, waking too early and noticeability of sleep problems by others showed lower correlations (r = 0.60-0.74). The ISI-3 achieved high discriminant validity in identifying insomnia (AUC = 0.97-0.98). An ISI-3 score of ≥7 maximized sensitivity (0.94-0.97) and specificity (0.88-0.91) with kappa = 0.68-0.71, 89.1-91.5% agreement.
+
+Conclusions: The ISI-3 can effectively screen for insomnia to trigger a more thorough diagnostic evaluation including the 7-item ISI for research or clinical purposes. Future validation studies are needed in other community and clinical populations.
+
+Clinical trial: This manuscript describes secondary analyses of data two National Institutes on Aging-funded clinical trials (ClinicalTrials.gov identifier: NCT01142349, NCT02946957).
+
+Keywords: Difficulty sleeping; Insomnia Severity Index; Insomnia assessment; Insomnia symptoms; Sleep assessment; Sleep problems.

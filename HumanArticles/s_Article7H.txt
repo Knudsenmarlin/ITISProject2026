@@ -1,0 +1,10 @@
+Abstract
+Introduction: In Morocco, the first case was detected on March 02, 2020. Few days later, new cases are notified, followed by deaths. The government decided to adopt large-scale drastic measures against the epidemic. This study aims to describe and analyse the COVID-19 distribution in Morocco, according to key measures taken to curb this health problem.
+
+Methods: An observational study of all cases daily reported by the Ministry of Health of Morocco from 02 March to 05 May 2020, was carried out. A mapping was performed.
+
+Results: Before the implementation of the state of health emergency, 86 confirmed cases out of 471 biological examinations carried out have been reported and the highest cumulative incidence (0.43 cases per 100,000 inhabitants) was recorded in Fes-Meknes region. During the 1st quarantine, 2,960 positive cases out of 15,915 examinations carried out have been detected. Marrakech-Safi region was the most affected (15.33 cases per 100,000 inhabitants). Halfway through extended quarantine, 2,173 confirmed cases out of 49,570 biological examinations realized have been notified, the highest cumulative incidence has observed in Draa-Tafilalet region (27.45 cases per 100,000 inhabitants). The highest mortality was observed in Marrakech-Safi region (1.05 deaths per 100,000 inhabitants) and the highest case fatality rate (13.46%) was registered in Souss-Massa region.
+
+Conclusion: The strategy adopted by Morocco has enabled it to avoid a health catastrophe. But, it's not over yet. Morocco should continue the massive efforts and reinforce the existing measures against the virus, especially in regions very affected by the epidemic.
+
+Keywords: COVID-19; Morocco; control measures; distribution; space-time.

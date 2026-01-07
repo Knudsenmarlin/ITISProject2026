@@ -1,0 +1,10 @@
+Abstract
+Background: Bronchial artery embolization (BAE) is an urgent life-saving procedure in patients with massive hemoptysis.
+
+Material and methods: This was a single center observational study wherein patients presenting with hemoptysis were evaluated and underwent BAE. Initially, a descending thoracic aortogram was performed to identify culprit vessels followed by selective catheterization of the involved vessels. Abnormal bronchial artery morphology included hypertrophied and tortuous bronchial artery (BA), focal hyperemia and hypervascularity, shunting into pulmonary artery or vein, extravasation of contrast into the lung parenchyma/cavity and BA aneurysms. Selective embolization was done using either gelfoam or polyvinyl alcohol particles. Post-procedure, follow-up was done at one month and six months with outcomes defined in terms of recurrence of hemoptysis.
+
+Results: A total of 187 patients underwent BAE with post-tubercular sequalae being the most common diagnosis in 157 (84%) followed by idiopathic bronchiectasis in 19 (10.2%) and aspergilloma in 7 (3.7%). A total of 246 vessels were embolized with right sided BA being more commonly involved as compared to left [143 (76.5%) vs. 35 (18.7%); P < 0.0001]. Complete resolution was observed in 183 (97.8%) 24 hours post procedure. Recurrence was reported in 34 (18.2%) patients with higher frequency in diabetics, patients with active tuberculosis and presence of aspergillomas. Multi-variate logistic regression analysis showed that diabetes, presence of an aspergilloma and feeding vessels from internal mammary artery were independent predictors of recurrent hemoptysis. Most of the complications were minor except paraparesis observed in two patients.
+
+Conclusion: BAE is a safe and effective procedure for the treatment of hemoptysis of different etiologies.
+
+Keywords: Aspergilloma; Bronchial artery embolization; Haemoptysis; Tuberculosis.

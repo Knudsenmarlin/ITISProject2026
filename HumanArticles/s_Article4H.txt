@@ -1,0 +1,12 @@
+Abstract
+Background: Improved health literacy and awareness could help type 2 diabetic patients to control the disease complications.
+
+Objective: The current study aimed to evaluate the impact of theory-based educational intervention on health literacy and self-care behaviors of type 2 diabetic patients in Tonekabon city.
+
+Methods: This randomized controlled trial study was conducted at health care centers in Tonekabon city, Iran, from April 5, 2017, to October 22, 2018. Using multistage random sampling, 166 patients with type 2 diabetes divided into two groups: theory-based intervention (n = 83) and custom education (n = 83). The data collection tools consisted of demographic information, Theory of Planned Behavior (TPB) measures, health literacy for Iranian adults (HELIA) and summary of diabetes self-care activities (SDSCA). The five 45-minute group training sessions based on the baseline assessment and model constructs along with the targeted pamphlet and m-health strategy were designed for the experimental group. Data were analyzed using chi-square, independent and paired t-test and Analysis of covariance (ANCOVA).
+
+Results: After controlling for pre-test effect, there was a significant difference between the two groups in terms of mean scores of attitudes, subjective norms, perceived behavior control and intention in post-test (P < 0.001). Also, after controlling for the pre-test effect, the results showed a significant difference in the self-care domain in the post-test (P < 0.001). Finally, after controlling for the pre-test variable effect, covariance analysis reflects significant difference in total health literacy score and its dimension at posttest (P < 0.001).
+
+Conclusions: Applying TPB based education is suggested to maintain and improve self-care behaviors and health literacy in type 2 diabetic patients and other chronic diseases.
+
+Keywords: Attitude; Behavior change; Diabetes; Health literacy; Self-care behavior.

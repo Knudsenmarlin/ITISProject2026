@@ -1,0 +1,10 @@
+Abstract
+Purpose: Many institutions deploy pharmacy residents to expand clinical pharmacy services, often in the form of overnight, in-house on-call programs. There is little published evidence regarding pharmacy resident sleep and sleepiness after a night of overnight, in-house on-call activity. A prospective observational cohort study was conducted to determine the relationship between overnight, in-house on-call programs and pharmacy resident sleep and sleep quality.
+
+Methods: The cohort study included both postgraduate year 1 and postgraduate year 2 pharmacy residents. Each resident participated in 10 to 15 overnight on-call shifts. Sleep and sleep quality were assessed using devices worn on residents' wrists on the nights prior to, during, and after on-call shifts. Resident sleepiness was assessed via the Epworth Sleepiness Scale (ESS) during specified baseline and postcall periods. Univariate and multivariate analysis were used to assess the relationship between measurements of sleep, sleep quality, and sleepiness.
+
+Results: We enrolled a total of 23 residents in the study and recorded data on 269 on-call shifts. Frequently (42.6% of shifts) residents had no time to sleep during overnight on-call shifts. Among those who did have sleep time, the mean sleep time during an overnight, in-house on-call shift was 1.22 (SD, 1.56) hours. Additionally, ESS scores indicated a 2.4-fold increase in sleepiness on the morning after vs the morning before on-call shifts.
+
+Conclusion: Residents often did not sleep while on call. Sleep periods overnight were short and of poor quality. Predictably, residents reported increased sleepiness after an overnight on-call shift. Residents received an average of approximately 10 clinical consultation calls per overnight shift.
+
+Keywords: duty hours; fatigue; on-call; pharmacy; residents; sleep.

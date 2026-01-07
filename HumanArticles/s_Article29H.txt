@@ -1,0 +1,10 @@
+Abstract
+Background: Bipolar disorder (BD) is associated with emotion interpretation biases that can exacerbate depressed mood. Interpretation bias training (IBT) may help; according to the "virtuous cycle" hypothesis, interpreting others' emotions as positive can lead to interactions that improve mood. Our goals were to determine whether IBT can shift emotion interpretation biases and demonstrate clinical benefits (lower depressed mood, improved social function) in people with BD.
+
+Method: Young adults with BD were recruited for three sessions of computer-based IBT. Active IBT targets negative emotion bias by training judgments of ambiguous face emotions towards happy judgments. Participants were randomized to active or sham IBT. Participants reported on mood and functioning at baseline, intervention end (week two), and week 10.
+
+Results: Fifty participants (average age 22, 72% female) enrolled, 38 completed the week 10 follow-up. IBT shifted emotion interpretations (Hedges g = 1.63). There was a group-by-time effect (B = -13.88, p < .0001) on self-reported depression; the IBT group had a larger decrease in depressed mood. The IBT group also had a larger increase in perceived familial support (B = 3.88, p < .0001). Baseline learning rate (i.e., how quickly emotion judgments were updated) was associated with reduced clinician- (B = -54.70, p < 0.001) and self-reported depression (B = -58.20, p = 0.009).
+
+Conclusion: Our results converge with prior work demonstrating that IBT may reduce depressed mood. Additionally, our results provide support for role of operant conditioning in the treatment of depression. People with BD spend more time depressed than manic; IBT, an easily disseminated intervention, could augment traditional forms of treatment without significant expense or side effects.
+
+Keywords: Bipolar disorder; Depression; Operant learning; Social cognition; Social support.

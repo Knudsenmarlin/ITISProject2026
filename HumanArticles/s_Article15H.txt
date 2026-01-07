@@ -1,0 +1,10 @@
+Abstract
+Aims: To test a model of psychosocial/cultural/biological risk factors for poor birth outcomes in Latina pregnant women.
+
+Design: An observational study measuring acculturation, progesterone, cortisol, cotinine, age, marital status, income, stress, depressive symptoms and coping. We tested a structural equation model to predict risk.
+
+Methods: We obtained a convenience sample (N = 515) of low medical risk pregnant Mexican American Hispanic women at 22-24 weeks of gestation. Bilingual research nurses collected data from blood, urine and questionnaires. Self-report measures were the Beck Depression Inventory-II, the Perceived Stress Scale, the Acculturation Rating Scale for Mexican Americans-II and the Brief Cope. We measured progesterone and cortisol in plasma and cotinine levels in urine by enzyme-linked immunoassays.
+
+Results: A PLS-SEM model revealed that Mexican American Hispanic pregnant women who were younger, single, lower income, more acculturated and who had greater negative coping, stress and depression were most at risk for having earlier and smaller babies.
+
+Keywords: Mexican Americans; advanced practice nursing; low birthweight; preterm birth; risk factors.

@@ -1,0 +1,14 @@
+Abstract
+Aim: To identify factors for and perceived consequences of nursing errors by nursing staff in home care services in correlation with qualification, work experience, working hours and trainings.
+
+Background: Patient safety has increasingly been brought into focus of politics and care practices over the past few years. However, little evidence has been provided yet on nursing errors in out-of-hospital settings.
+
+Design: A cross-sectional study.
+
+Methods: Randomized sample of 107 home care services and 656 nurses and nursing assistants recruited from all 16 federal states in Germany.
+
+Results: Missing trainings on error management within the past 2 years were identified to be an important factor for mistakes regarding hygienic measures and medication administration. However, most errors arose in documentation without any significant differences in qualification, work experience, training and working hours.
+
+Conclusion: Findings indicate that insufficient hygiene and medication administration might be reduced by implementing error management trainings on a regular basis in home care services.
+
+Keywords: error management; home care services; multilevel analysis; nursing errors; patient safety; qualification; risk management; training; work experience and working hours.

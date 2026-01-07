@@ -1,0 +1,10 @@
+Abstract
+Objectives: Promoting patient involvement in managing co-occurring physical and mental health conditions is increasingly recognized as critical to improving outcomes and controlling costs in this growing chronically ill population. The main objective of this study was to conduct an economic evaluation of the Wellness Incentives and Navigation (WIN) intervention as part of a longitudinal randomized pragmatic clinical trial for chronically ill Texas Medicaid enrollees with co-occurring physical and mental health conditions.
+
+Methods: The WIN intervention used a personal navigator, motivational interviewing, and a flexible wellness expense account to increase patient activation, that is, the patient's knowledge, skills, and confidence in managing their self-care and co-occurring physical and mental health conditions. Regression models were fit to both participant-level quality-adjusted life years (QALYs) and total costs of care (including the intervention) controlling for demographics, health status, poverty, Medicaid managed care plan, intervention group, and baseline health utility and costs. Incremental costs and QALYs were calculated based on the difference in predicted costs and QALYs under intervention versus usual care and were used to calculate the incremental cost-effectiveness ratios (ICERs). Confidence intervals were calculated using Fieller's method, and sensitivity analyses were performed.
+
+Results: The mean ICER for the intervention compared with usual care was $12 511 (95% CI $8971-$16 842), with a sizable majority of participants (70%) having ICERs below $40 000. The WIN intervention also produced higher QALY increases for participants who were sicker at baseline compared to those who were healthier at baseline.
+
+Conclusion: The WIN intervention shows considerable promise as a cost-effective intervention in this challenging chronically ill population.
+
+Keywords: Medicaid; chronic illness; cost-effectiveness; motivational interviewing; patient activation.

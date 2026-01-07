@@ -1,0 +1,14 @@
+Abstract
+Background: Although both neural mobilization (NM) and cervical traction (CT) are widely used interventions in cervical radiculopathy (CR), there is limited clinical data to support their use.
+
+Objective: To evaluate the effects of CT, with or without the addition of NM, on pain, function, and disability in patients with CR.
+
+Design: A randomized, double-blinded, placebo-controlled clinical trial.
+
+Methods: 66 patients with CR were randomly allocated to: a group (n = 22) received CT combined with NM (CT + NM), a group (n = 22) received CT combined with sham NM (CT + shamNM) and a wait-list control (WLC) group (n = 22). The Neck Disability Index (NDI), the Patient-Specific Functional Scale, the Numeric Pain Rating Scale (NPRS), grip strength and cervical spine mobility were used as outcome measures. A two-way analysis of variance was used to evaluate differences between the three groups at baseline and at 4-week follow-up.
+
+Results: Statistically and clinically significant between-group differences at 4-week follow-up were found between CT + NM and WLC groups in favor of CT + NM group in NDI scores (d = 1.30), NRPS (d = 1.94), and active cervical rotation towards the opposite arm (d = 1.18) and between CT + NM and CT + shamNM groups in favor of CT + NM group in NRPS (d = 1.21). No significant differences were observed between CT + shamNM and WLC groups in all outcome measures. Clinically significant within-group improvements were found only for the CT + NM group.
+
+Conclusion: At 4-week follow-up, CT in combination with NM resulted in improved outcomes in pain, function and disability in patients with CR.
+
+Keywords: Cervical traction; Neural mobilization; Radiculopathy.

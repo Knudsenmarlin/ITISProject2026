@@ -1,0 +1,8 @@
+Abstract
+Objective: The goal of this study is to determine the risk of exposure to Legionella pneumophila in hotel golf courses located in the province of Malaga (Spain).
+
+Method: Spray irrigation systems were analyzed as sources for spreading the Legionella bacterium. Spanish legislation requires that irrigation systems be monitored for their water quality as well as for reasons related to health and hygiene. Based on an observational study and non-parametric tests (Goodman-Kruskal Tau and uncertainty coefficient), this study states the regulatory enforcement among the systems and contributed to announce Legionella prevention. The quality criteria for recycled water, waste water treatment plant and well water were analyzed in relationship to the hotels' categories.
+
+Results: Deficiencies were found in the preventive maintenance of irrigation systems, but no relationship exists between the type of water and the risk detected.
+
+Conclusions: The study suggests that aerosolized water used in golf course watering systems could pose risk to the population by exposing them to Legionella.
