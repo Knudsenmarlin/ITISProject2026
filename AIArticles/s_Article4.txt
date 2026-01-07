@@ -1,0 +1,125 @@
+A Randomized, Double-Blind, Placebo-Controlled Phase IIb Study to Evaluate the Efficacy and Safety of NeuroVascin, a Novel Monoclonal Antibody Targeting sFLT1, in Patients with Refractory Migraine with Aura
+Protocol ID: NV-2024-01
+Version: 2.0
+Date: October 26, 2023
+Word Count: 1498
+
+1. ABSTRACT
+Background: Migraine with aura (MA) is a debilitating neurological disorder characterized by transient focal neurological symptoms followed by headache. A significant subset of patients develops refractory forms, inadequately controlled by existing therapies. The vascular theory of migraine, particularly for aura, implicates endothelial dysfunction and aberrant angiogenesis. Soluble Fms-like tyrosine kinase-1 (sFLT1), a potent endogenous anti-angiogenic factor, is upregulated in endothelial stress and can induce vasoconstriction and blood-brain barrier disruption. We hypothesize that sFLT1 is a key mediator in the pathophysiology of refractory MA and that its neutralization will reduce aura and headache burden.
+
+Objective: To assess the efficacy, safety, and tolerability of NeuroVascin, a humanized monoclonal antibody against sFLT1, compared to placebo in patients with refractory MA.
+
+Methods: This is a multicenter, randomized, double-blind, placebo-controlled, parallel-group Phase IIb trial. 150 eligible participants (aged 18-55) with a diagnosis of refractory MA (≥8 aura days/month despite ≥3 preventive drug classes) will be randomized (1:1) to receive either NeuroVascin (300 mg) or placebo via subcutaneous injection every 4 weeks for 24 weeks. The primary efficacy endpoint is the change from baseline in the monthly number of aura days (MA-d) over weeks 12-24. Key secondary endpoints include change in monthly migraine days (MMD), aura severity/duration, headache-related disability (MIDAS), quality of life (MSQoL), and responder rates (≥50% reduction in MA-d). Safety is assessed via adverse events, vital signs, laboratory parameters, and echocardiography (monitoring for potential on-target hypertension risk).
+
+Expected Outcomes: We anticipate NeuroVascin will demonstrate a statistically significant and clinically meaningful reduction in monthly aura days compared to placebo, with an acceptable safety profile. This study aims to provide proof-of-concept for sFLT1 as a novel therapeutic target in refractory migraine with aura.
+
+Trial Registration: ClinicalTrials.gov, Identifier: NCTXXXXXXXX (to be assigned).
+
+2. INTRODUCTION & RATIONALE
+Migraine is a prevalent neurological disease affecting over 1 billion people globally. Approximately 25-30% of migraineurs experience aura—a complex of fully reversible neurological symptoms, typically visual, that precede or accompany the headache phase. While multiple preventive therapies exist (e.g., beta-blockers, anticonvulsants, CGRP monoclonal antibodies), a substantial proportion of patients with MA remain refractory, defined by the International Headache Society as failure to respond to an adequate trial of at least three preventive drug classes.
+
+The pathophysiology of migraine aura is classically attributed to cortical spreading depression (CSD), a wave of neuronal and glial depolarization. However, the triggers and vascular components of CSD remain incompletely understood. The long-standing "vascular hypothesis" has been integrated into a more complex neurovascular model. Endothelial dysfunction, characterized by an imbalance between vasodilators (e.g., NO, PGI2) and vasoconstrictors (e.g., ET-1), is well-documented in migraineurs.
+
+Soluble FLT1 (sFLT1) is a splice variant of the VEGF receptor 1 (FLT1) that lacks transmembrane and intracellular domains. It acts as a decoy receptor, binding and neutralizing VEGF and placental growth factor (PIGF) with high affinity. sFLT1 is a critical mediator in angiogenic disorders like preeclampsia, where its overproduction leads to systemic endothelial dysfunction, hypertension, and vasoconstriction. Notably, endothelial cells in the brain microvasculature are a potent source of sFLT1 under hypoxic or inflammatory stress.
+
+Hypothesis: We propose that in a subset of patients with refractory MA, chronic cerebrovascular stress leads to persistent cerebral endothelial activation and elevated local (and potentially systemic) sFLT1. Elevated sFLT1 contributes to the migraine aura phenotype via: 1) Potent Vasoconstriction: By sequestering VEGF, a key endothelial survival and vasodilatory factor, sFLT1 tips the balance towards unopposed vasoconstriction, potentially triggering or sustaining CSD. 2) Blood-Brain Barrier (BBB) Destabilization: VEGF is crucial for BBB maintenance. Its inhibition by sFLT1 may increase BBB permeability, facilitating the passage of neuroactive peptides and ions that lower the threshold for CSD. 3) Direct Neuroinflammatory Effects: sFLT1 can amplify inflammatory cascades within the neurovascular unit.
+
+NeuroVascin is a novel, high-affinity IgG1 monoclonal antibody designed to bind and neutralize circulating sFLT1, thereby restoring the VEGF/sFLT1 balance. This study aims to translate the compelling preclinical and biomarker evidence linking sFLT1 to cerebrovascular dysfunction into a targeted therapy for a high-unmet-need population.
+
+3. METHODS
+3.1. Study Design: A Phase IIb, randomized, double-blind, placebo-controlled, parallel-group trial conducted across 25 tertiary headache centers in North America and Europe.
+
+3.2. Participants:
+
+Inclusion Criteria: 1) Age 18-55; 2) ICHD-3 diagnosis of migraine with typical aura; 3) Refractory status: ≥8 aura days/month (with or without headache) for 3 months prior to screening, despite documented failure (due to efficacy or tolerability) of ≥3 standard preventive classes (beta-blockers, anticonvulsants, tricyclics, CGRP-mAbs, etc.); 4) Stable on any allowed acute medications for ≥2 months.
+
+Exclusion Criteria: 1) Other primary headache disorders >8 days/month; 2) History of ischemic stroke, TIA, or intracerebral hemorrhage; 3) Uncontrolled hypertension (BP >140/90 mmHg); 4) Significant cardiac, renal, or hepatic disease; 5) Pregnancy, lactation, or unwillingness to use highly effective contraception; 6) Known hypersensitivity to biologic therapies.
+
+3.3. Randomization and Blinding: Eligible participants are randomized 1:1 to NeuroVascin or matched placebo using an interactive web response system (IWRS) with stratified block randomization, stratified by baseline monthly aura days (8-12 vs. >12) and region. All participants, investigators, site staff, and the sponsor’s clinical team are blinded.
+
+3.4. Intervention:
+
+Active Arm: NeuroVascin, 300 mg in 1.0 mL solution, administered via subcutaneous injection in the abdomen or thigh.
+
+Control Arm: Identical placebo (vehicle solution without active ingredient).
+
+Dosing Regimen: Every 4 weeks (±3 days) for a total of 6 doses, administered at the study site by qualified personnel.
+
+3.5. Study Procedures:
+
+Screening (Day -28 to -1): Informed consent, eligibility confirmation, medical history, physical/neurological exam, vital signs, ECG, echocardiogram, lab tests (hematology, chemistry, sFLT1/VEGF/PIGF biomarkers), and headache diary training.
+
+Baseline (Day 1): Randomization, first dose administration, post-dose observation.
+
+Treatment Period (Weeks 4, 8, 12, 16, 20): Scheduled visits for subsequent doses, safety monitoring, and diary collection.
+
+Primary Endpoint Assessment (Weeks 12-24): Participants continue daily electronic diaries (e-diaries) to record aura and headache specifics.
+
+End-of-Treatment Visit (Week 24): Final dose, comprehensive assessments.
+
+Safety Follow-up (Week 28): Final safety and laboratory assessments.
+
+3.6. Endpoints:
+
+Primary Efficacy Endpoint: Change from baseline in the mean monthly number of aura days (MA-d) during the 12-week efficacy assessment period (Weeks 12-24).
+
+Key Secondary Endpoints:
+
+Change from baseline in monthly migraine days (MMD) (Weeks 12-24).
+
+Proportion of participants with ≥50% reduction in MA-d (responder rate).
+
+Change in aura severity (0-10 NRS) and duration (minutes).
+
+Change in Migraine Disability Assessment (MIDAS) score.
+
+Change in Migraine-Specific Quality of Life (MSQoL) version 2.1 scores.
+
+Exploratory Endpoints: Changes in serum levels of sFLT1, free VEGF, PIGF; association of biomarker levels with clinical response.
+
+Safety Endpoints: Incidence and severity of treatment-emergent adverse events (TEAEs), serious AEs (SAEs), changes in vital signs (especially blood pressure), laboratory abnormalities, ECG findings, and echocardiographic parameters (focusing on signs of ventricular function or afterload changes).
+
+3.7. Statistical Analysis:
+
+Sample Size Calculation: Based on preclinical data and CGRP-mAb migraine trials, we assume a mean reduction of 4.5 MA-d in the NeuroVascin arm vs. 2.5 MA-d in the placebo arm (effect size = 2.0 days). With 80% power, a two-sided alpha of 0.05, and an estimated SD of 3.5 days, 62 participants per group are required. Inflating by 20% for dropout, the total sample size is 150 (75 per arm).
+
+Analysis Populations: Efficacy analyses will use the Full Analysis Set (FAS, all randomized participants who receive ≥1 dose and have ≥1 post-baseline assessment) and the Per-Protocol Set (PPS). Safety analyses will use the Safety Set (all who receive ≥1 dose).
+
+Primary Analysis: The change in MA-d will be analyzed using a mixed model for repeated measures (MMRM), including treatment, visit, baseline MA-d, and region as fixed effects, with an unstructured covariance matrix. The primary comparison will be the least-squares mean difference between groups at Weeks 12-24. Missing data will be handled within the MMRM framework under a missing-at-random assumption. Sensitivity analyses using multiple imputation will be conducted.
+
+Secondary Analyses: Continuous secondary endpoints will be analyzed similarly using MMRM. Binary endpoints (responder rates) will be analyzed using Cochran-Mantel-Haenszel test, adjusting for stratification factors. All tests are two-sided with alpha=0.05; no adjustment for multiplicity is planned for this Phase IIb study, with results interpreted as exploratory.
+
+3.8. Safety Monitoring: An independent Data and Safety Monitoring Board (DSMB) will periodically review unblinded safety data. Protocol-defined stopping rules include a significant imbalance in major adverse cardiovascular events (MACE) or severe hypertension.
+
+3.9. Ethical Considerations: The study will be conducted in accordance with the Declaration of Helsinki, ICH-GCP guidelines, and applicable regulatory requirements. Protocol and informed consent forms will be approved by Institutional Review Boards/Ethics Committees at each site. Written informed consent is mandatory.
+
+4. ANTICIPATED RESULTS AND DISCUSSION
+We expect the NeuroVascin arm to show a statistically significant greater reduction in the primary endpoint of monthly aura days compared to placebo. We hypothesize a reduction of approximately 40-50% from baseline in the active arm versus 20-25% in the placebo arm. Improvements in key secondary endpoints, particularly aura duration and migraine-related disability, are also anticipated.
+
+Potential Significance: If positive, this study would provide the first clinical evidence that:
+
+sFLT1 is a mechanistically relevant and druggable target in refractory migraine with aura.
+
+Targeting the vascular/endothelial pathway directly can yield clinical benefit in a patient population with limited options.
+
+Biomarkers like sFLT1 may help define a distinct pathophysiological endophenotype within the migraine spectrum, paving the way for personalized medicine.
+
+Potential Limitations: 1) The refractory population, while high-need, is heterogeneous; subtypes of refractory MA may respond differently. 2) The 24-week duration is sufficient for efficacy but longer-term safety and durability of effect require Phase III confirmation. 3) The mechanism of aura generation is multifactorial; targeting a single pathway may not be effective for all patients.
+
+Safety Considerations: The primary theoretical safety risk is hypertension due to VEGF pathway modulation, mirroring preeclampsia physiology. Careful monitoring is integral to the protocol. Other potential risks include proteinuria, impaired wound healing, and the standard risks associated with monoclonal antibody therapy (injection site reactions, immunogenicity).
+
+5. CONCLUSION
+This Phase IIb trial is designed to evaluate a first-in-class therapeutic strategy for refractory migraine with aura by targeting the anti-angiogenic factor sFLT1. By investigating the efficacy and safety of NeuroVascin, this study seeks to advance our understanding of the neurovascular underpinnings of migraine aura and offer a novel therapeutic avenue for a patient population with significant unmet medical need. The results will determine the viability of advancing NeuroVascin to pivotal Phase III trials.
+
+6. REFERENCES (Selected)
+Headache Classification Committee of the International Headache Society (IHS). Cephalalgia. 2018.
+
+Charles, A. Nat Rev Neurol. 2018. (CSD & aura pathophysiology)
+
+Maynard, S.E., et al. J Clin Invest. 2003. (sFLT1 in preeclampsia)
+
+Todorovic, Z., et al. J Neurosci Res. 2021. (Endothelial dysfunction in migraine)
+
+Ferrara, N., et al. Nat Rev Drug Discov. 2004. (VEGF biology)
+
+Silberstein, S.D., et al. Headache. 2020. (Refractory migraine definitions)

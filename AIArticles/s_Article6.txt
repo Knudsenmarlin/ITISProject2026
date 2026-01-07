@@ -1,0 +1,177 @@
+Title: A Phase III, Randomized, Double-Blind, Placebo-Controlled Trial to Evaluate the Efficacy and Safety of NeuroVascAid® (NVA-101) in Enhancing Cognitive Function and Cerebral Perfusion in Patients with Mild Cognitive Impairment
+
+Protocol Number: NVA-101-MCI-003
+EudraCT Number: 2024-002157-32
+ClinicalTrials.gov ID: NCTXXXXXXXX
+
+Principal Investigator: [Name], MD, PhD
+Affiliation: [University Medical Center]
+Sponsor: [Independent Research Institute]
+
+1. Abstract
+Background: Mild Cognitive Impairment (MCI), particularly the amnestic subtype (aMCI), represents a critical window for therapeutic intervention to delay progression to Alzheimer's disease dementia. Converging evidence implicates cerebral hypoperfusion and neurovascular uncoupling as early, modifiable pathological events. NeuroVascAid® (NVA-101) is a novel, multi-target compound combining a low-dose phosphodiesterase-5 inhibitor (to enhance vasodilation), a mitochondrial stabilizer (alpha-lipoic acid), and a flavonoid with anti-inflammatory properties (epicatechin). Preclinical data suggest synergistic benefits on cerebral blood flow (CBF), mitochondrial function, and neuroinflammation.
+
+Objective: To assess the efficacy and safety of a 12-month course of NVA-101 compared to placebo in improving cognitive performance and cerebral perfusion in patients with aMCI.
+
+Methods: 320 participants (aged 60-85) with diagnosed aMCI will be randomized (1:1) to receive either oral NVA-101 or placebo twice daily for 52 weeks. The primary efficacy endpoint is the change from baseline to Week 52 on a dual composite score: 1) Cognitive Composite (averaging Z-scores from the Alzheimer’s Disease Assessment Scale-Cognitive Subscale [ADAS-Cog 13], the Neuropsychological Test Battery [NTB] executive function domain, and the Rey Auditory Verbal Learning Test [RAVLT] delayed recall), and 2) Hemodynamic Composite (combining perfusion MRI measures of CBF in the hippocampus and posterior cingulate cortex). Secondary endpoints include changes in individual cognitive tests, functional assessments (Functional Activities Questionnaire [FAQ]), hippocampal volume on MRI, and a panel of plasma biomarkers (phosphorylated tau-181, neurofilament light chain [NfL], and endothelial function markers). Safety will be monitored throughout.
+
+Expected Outcomes: We hypothesize that NVA-101 will demonstrate a statistically significant improvement in the dual composite primary endpoint compared to placebo, with an acceptable safety profile. Improvements in secondary biomarker endpoints are expected to provide mechanistic insights.
+
+Significance: This study will determine whether a targeted neurovascular intervention can modify the trajectory of aMCI, offering a novel, mechanism-based therapeutic strategy.
+
+2. Introduction
+Mild Cognitive Impairment, a transitional stage between normal aging and dementia, affects approximately 15-20% of adults over 65. The amnestic subtype (aMCI), characterized by prominent memory deficits, carries a high annual conversion rate of 10-15% to Alzheimer’s disease (AD). While amyloid-beta (Aβ) and tau pathologies are hallmarks of AD, their targeted therapies have shown limited success in MCI, highlighting the need for alternative, earlier intervention strategies.
+
+The neurovascular hypothesis posits that cerebrovascular dysfunction is not merely a comorbidity but an integral driver of AD pathogenesis. Key elements include:
+
+Chronic Cerebral Hypoperfusion: Precedes and contributes to neuronal injury and cognitive decline. It exacerbates amyloid deposition and tau hyperphosphorylation while impairing clearance of toxic metabolites via the glymphatic system.
+
+Endothelial Dysfunction: Reduced nitric oxide bioavailability, increased oxidative stress, and inflammation impair vasoreactivity, limiting the brain's ability to augment blood flow in response to neural activity (neurovascular coupling).
+
+Blood-Brain Barrier (BBB) Disruption: Allows neurotoxic plasma components to infiltrate the brain parenchyma, promoting neuroinflammation.
+
+NeuroVascAid® (NVA-101) is rationally designed to address this triad. Its components:
+
+Tadalafil (low-dose, 2.5mg): A phosphodiesterase-5 inhibitor that increases cyclic guanosine monophosphate (cGMP), promoting endothelial-dependent vasodilation and potentially improving CBF and perfusion.
+
+R-alpha-lipoic acid (300mg): A potent mitochondrial antioxidant that improves glucose metabolism, reduces oxidative stress, and may stabilize endothelial function.
+
+(-)-Epicatechin (100mg): A flavanol that upregulates endothelial nitric oxide synthase (eNOS), reduces NF-κB-mediated inflammation, and has shown neuroprotective effects in models of vascular cognitive impairment.
+
+This Phase III trial builds on a positive Phase II study (N=120) which showed a favorable signal on CBF and memory performance. The present study employs a more comprehensive dual primary endpoint and a longer duration to definitively test the hypothesis that enhancing neurovascular health can improve cognitive outcomes in aMCI.
+
+3. Materials and Methods
+3.1. Study Design
+This is a multicenter, randomized, double-blind, placebo-controlled, parallel-group Phase III trial. The total study duration is 78 weeks, comprising a 4-week screening period, a 52-week double-blind treatment period, and a 4-week post-treatment safety follow-up.
+
+3.2. Participants
+Inclusion Criteria:
+
+Age 60-85 years.
+
+Diagnosis of amnestic MCI (single- or multi-domain) based on National Institute on Aging–Alzheimer’s Association (NIA-AA) core clinical criteria: subjective memory concern, objective memory impairment (≥1.5 SD below age/education-adjusted norms on RAVLT), preserved global function (Clinical Dementia Rating [CDR] = 0.5), and essentially intact activities of daily living.
+
+Mini-Mental State Examination (MMSE) score 24-30.
+
+Modified Hachinski Ischemic Score ≤4.
+
+Stable medical regimen for at least 3 months.
+
+Informed consent provided.
+
+Exclusion Criteria:
+
+Diagnosis of dementia or other major neurological/psychiatric disorder (e.g., major depression, stroke).
+
+Significant cardiovascular disease (uncontrolled hypertension, recent MI, heart failure NYHA Class III-IV).
+
+Contraindication to MRI or use of nitrates.
+
+Severe renal or hepatic impairment.
+
+Current use of anticoagulants, other PDE5 inhibitors, or strong CYP3A4 inducers/inhibitors.
+
+3.3. Randomization and Blinding
+Participants will be randomized 1:1 via an Interactive Web Response System (IWRS) using permuted blocks stratified by site and baseline MMSE (24-26 vs. 27-30). The investigational product (NVA-101) and placebo will be identical in appearance, taste, and packaging. The blind will be maintained for all study personnel and participants until database lock.
+
+3.4. Intervention
+Active Arm: One oral capsule of NVA-101 (containing Tadalafil 2.5mg, R-ALA 300mg, Epicatechin 100mg) twice daily.
+
+Placebo Arm: One identically matched placebo capsule twice daily.
+
+Treatment Duration: 52 weeks.
+
+Concomitant Medication: Use of approved AD drugs (e.g., cholinesterase inhibitors, memantine) is not permitted. Stable doses of antihypertensives, statins, and anti-diabetics are allowed.
+
+3.5. Outcome Measures
+Primary Endpoint:
+
+Change from Baseline to Week 52 in the Dual Composite Score.
+
+Cognitive Composite (Weight: 50%): Average of the Z-scores of: a) ADAS-Cog 13 (global cognition), b) NTB Executive Function Composite (working memory, set-shifting), c) RAVLT Delayed Recall (episodic memory).
+
+Hemodynamic Composite (Weight: 50%): Average of the Z-scores of the percent change in Cerebral Blood Flow (mL/100g/min), as measured by arterial spin labeling (ASL) MRI, in the bilateral hippocampi and the posterior cingulate cortex/precuneus.
+
+Secondary Endpoints (Change from Baseline to Week 52):
+
+Individual components of the primary composite scores.
+
+CDR-Sum of Boxes (CDR-SB): Global staging.
+
+Functional Activities Questionnaire (FAQ): Instrumental activities of daily living.
+
+Brain Volumetrics (Structural MRI): Percent change in hippocampal and whole brain volume.
+
+Plasma Biomarkers: p-tau181, NfL, soluble vascular cell adhesion molecule-1 (sVCAM-1).
+
+Safety and Tolerability: Incidence of treatment-emergent adverse events (TEAEs), serious adverse events (SAEs), laboratory abnormalities, vital signs, and ECG changes.
+
+3.6. Study Procedures and Assessments
+Screening (Weeks -4 to -1): Informed consent, eligibility checks, medical history, physical/neurological exam, vital signs, ECG, laboratory tests (hematology, chemistry, biomarkers), baseline cognitive testing (MMSE, CDR, ADAS-Cog, NTB, RAVLT, FAQ), and MRI.
+
+Baseline/Randomization (Day 1): Qualification confirmation, randomization, first dose administration.
+
+Clinic Visits (Weeks 12, 24, 38, 52): Cognitive assessments (subset), safety monitoring (TEAEs, vital signs, lab work), compliance check (pill count).
+
+Key Assessment Visits (Weeks 24 and 52): Full cognitive battery (as per screening), MRI scan, and plasma biomarker collection.
+
+Follow-up (Week 56): Final safety assessment.
+
+3.7. MRI Acquisition and Analysis
+MRI will be performed on 3T scanners using harmonized protocols across sites. Sequences will include: 3D T1-weighted MPRAGE (for volumetry and segmentation), pseudo-continuous ASL (for CBF quantification), and T2-FLAIR (for white matter hyperintensity quantification). Centralized, automated processing will be performed by blinded analysts using validated software (e.g., FSL, FreeSurfer, SPM).
+
+3.8. Statistical Analysis
+Sample Size Calculation: Based on Phase II data, a moderate effect size (Cohen's d=0.40) on the dual composite is assumed. With 80% power, a two-sided alpha of 0.05, and an estimated 15% dropout rate, 160 participants per arm (320 total) are required.
+
+Analysis Populations:
+
+Intent-to-Treat (ITT): All randomized participants.
+
+Per-Protocol (PP): Completers with ≥80% compliance and no major protocol deviations.
+
+Safety Population: All who received ≥1 dose.
+
+Primary Analysis: A mixed-model for repeated measures (MMRM) will be applied to the dual composite score, with treatment, visit, site, baseline score, and treatment-by-visit interaction as fixed effects, and participant as a random effect. The primary comparison (NVA-101 vs. placebo at Week 52) will use a two-sided test at α=0.05.
+
+Secondary and Exploratory Analyses: Similar MMRM or ANCOVA models will be used for continuous secondary endpoints. Categorical endpoints will use Chi-square or Fisher’s exact tests. Exploratory analyses will examine correlations between cognitive, perfusion, and biomarker changes.
+
+Missing Data: The MMRM approach inherently handles missing data under the missing-at-random (MAR) assumption. Sensitivity analyses, including multiple imputation and tipping-point analysis, will be conducted.
+
+3.9. Ethical Considerations
+The protocol will be approved by the Institutional Review Board/Ethics Committee at each site. The study will be conducted in accordance with the Declaration of Helsinki and Good Clinical Practice guidelines. Written informed consent will be obtained from all participants, who will have the right to withdraw at any time without prejudice.
+
+4. Expected Results and Discussion
+We anticipate that the NVA-101 group will show a statistically significant improvement in the dual composite primary endpoint compared to the placebo group at 52 weeks. Specifically, we expect:
+
+Cognitive Outcomes: Stabilization or mild improvement on the cognitive composite, driven primarily by the memory (RAVLT) and executive function (NTB) components, with less decline on the global measure (ADAS-Cog).
+
+Hemodynamic Outcomes: A significant increase in ASL-measured CBF in the targeted medial temporal and default mode network regions, indicating improved perfusion.
+
+Secondary Outcomes: Slower rates of hippocampal atrophy, a more stable CDR-SB, and favorable changes in plasma biomarkers (modest reduction in p-tau181 and NfL, decrease in sVCAM-1) in the active treatment arm.
+
+Safety: NVA-101 is expected to be well-tolerated, with the most common TEAEs being mild headache, flushing, or dyspepsia related to the vasodilatory component, with no significant increase in SAEs.
+
+Potential Implications and Significance:
+If positive, this study would provide Level I evidence supporting the neurovascular hypothesis as a tractable therapeutic target in prodromal AD. It would position NVA-101, a novel multi-target agent, as a potential first-in-class therapy to slow progression in MCI by addressing upstream vascular and metabolic dysfunction. Success would also validate the use of a dual cognitive-perfusion endpoint and specific plasma biomarkers for future trials in this population.
+
+Limitations:
+The 52-week duration, while longer than many previous MCI trials, may still be insufficient to detect robust differences in conversion to dementia. The study excludes participants with significant vascular co-pathology (per Hachinski score), which may limit generalizability to a "mixed pathology" population common in clinical practice.
+
+Future Directions: A positive outcome would justify a larger, longer Phase IV study with dementia conversion as the primary endpoint. It would also spur research into personalized approaches, potentially identifying "neurovascular subtype" responders through baseline perfusion or biomarker profiles.
+
+5. Conclusion
+This Phase III trial is designed to provide a definitive test of a novel, mechanism-based intervention for MCI. By targeting the interrelated pathways of hypoperfusion, oxidative stress, and inflammation, NVA-101 represents a promising shift in strategy for early AD intervention. The results will have significant implications for clinical management, drug development, and our understanding of the early pathophysiology of cognitive decline.
+
+References (Illustrative – not exhaustive for this example):
+
+Iadecola, C. (2013). The pathobiology of vascular dementia. Neuron, 80(4), 844-866.
+
+Kisler, K., et al. (2017). Cerebral blood flow regulation and neurovascular dysfunction in Alzheimer disease. Nature Reviews Neuroscience, 18(7), 419-434.
+
+Petersen, R. C., et al. (2018). Mild cognitive impairment: a concept in evolution. Journal of Internal Medicine, 275(3), 214-228.
+
+[Phase II NVA-101 Study], Journal of Neurology, Neurosurgery & Psychiatry, 2023.
+
+Sperling, R. A., et al. (2011). Toward defining the preclinical stages of Alzheimer’s disease. Alzheimer's & Dementia, 7(3), 280-292.
+
+Conflicts of Interest Statement: The study sponsor declares no direct commercial interest in NVA-101 at this stage. All authors are independent academic researchers.

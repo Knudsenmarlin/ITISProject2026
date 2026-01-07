@@ -1,0 +1,148 @@
+A Randomized, Double-Blind, Placebo-Controlled Phase II Trial to Evaluate the Efficacy and Safety of NeuroVax™, a Novel Peptide-Based Immunotherapy, in Patients with Early-Stage Parkinson’s Disease
+
+1. Abstract
+
+Background: Parkinson's disease (PD) is a progressive neurodegenerative disorder characterized by the loss of dopaminergic neurons in the substantia nigra pars compacta and the accumulation of misfolded α-synuclein (α-syn) aggregates. Current therapies are symptomatic and do not halt disease progression. Emerging evidence implicates neuroinflammation, particularly microglial activation and adaptive T-cell responses against α-syn, as key drivers of pathogenesis. NeuroVax™ is a novel formulation of three short, modified peptides derived from regions of α-synuclein involved in MHC-II presentation, designed to induce immune tolerance and reduce pathogenic T-cell reactivity.
+
+Objective: To assess the efficacy, safety, and immunogenicity of NeuroVax™ administered subcutaneously over 12 months in patients with early-stage PD.
+
+Methods: 150 participants with early-stage PD (Hoehn & Yahr stage 1-2, diagnosed within 3 years) were randomized 2:1 to receive either NeuroVax™ (n=100) or placebo (n=50) via monthly subcutaneous injections for 12 months. The primary efficacy endpoint was the change from baseline to Month 12 in the Movement Disorder Society-Unified Parkinson's Disease Rating Scale (MDS-UPDRS) Part III (motor examination) score in the practically defined OFF state. Secondary endpoints included changes in: DaTscan dopamine transporter binding ratio, non-motor symptoms (MDS-UPDRS Part I), activities of daily living (Part II), quality of life (PDQ-39), and cerebrospinal fluid (CSF) levels of oligomeric α-syn. Safety and immunogenicity (α-syn-specific regulatory T-cell induction) were monitored throughout.
+
+Results: At 12 months, the NeuroVax™ group showed a statistically significant reduction in the rate of motor progression compared to placebo, with a mean difference in MDS-UPDRS Part III change of -4.2 points (95% CI: -6.8 to -1.6; p=0.002). DaTscan binding loss in the putamen was 35% less in the treatment group (p=0.01). CSF oligomeric α-syn levels decreased by 22% in the NeuroVax™ group versus a 5% increase in placebo (p<0.001). NeuroVax™ was well-tolerated, with injection-site reactions being the most common adverse event. Immunological assays confirmed a significant expansion of FoxP3+ regulatory T-cells responsive to α-syn peptides.
+
+Conclusion: NeuroVax™ demonstrated a favorable safety profile and significant slowing of motor progression, dopaminergic degeneration, and reduction in pathological α-syn burden in early PD. These findings support the disease-modifying potential of antigen-specific immunotherapy targeting α-synuclein and warrant further investigation in a Phase III trial.
+
+Trial Registration: ClinicalTrials.gov Identifier: NCTXXXXXXXX
+
+Keywords: Parkinson’s disease; Immunotherapy; Alpha-synuclein; Disease-modifying therapy; Randomized controlled trial; Neuroinflammation.
+
+2. Introduction
+
+Parkinson's disease remains one of the most prevalent neurodegenerative disorders, with a pathophysiology extending far beyond classical dopaminergic deficit. The aggregation of the presynaptic protein α-synuclein into Lewy bodies and neurites is a pathological hallmark. Genetic and biochemical evidence strongly suggests that the propagation of misfolded α-synuclein via prion-like mechanisms drives disease progression. Concurrently, post-mortem and in vivo imaging studies have robustly documented sustained activation of microglia and infiltration of T-lymphocytes, indicating a chronic neuroinflammatory state.
+
+This inflammation is now recognized as a principal contributor to neuronal death, rather than a mere bystander effect. Crucially, both CD4+ and CD8+ T-cells have been found to recognize epitopes from α-synuclein, suggesting it becomes a target of adaptive immunity, potentially due to loss of immune tolerance. This aberrant immune response is thought to exacerbate microglial activation and directly damage neurons. Therefore, re-establishing immune tolerance to α-synuclein presents a rational strategy for a disease-modifying therapy.
+
+Active immunization strategies aim to stimulate the patient's own immune system to generate a protective response. Previous attempts in Alzheimer's disease targeting amyloid-β highlighted risks of excessive pro-inflammatory reactions (e.g., meningoencephalitis). In contrast, a tolerogenic approach seeks to promote the expansion of regulatory T-cells (Tregs) that can suppress harmful inflammatory responses. NeuroVax™ consists of three synthetically manufactured peptides, corresponding to regions of α-synuclein (amino acids 61-80, 101-120, 121-140) identified as dominant T-cell epitopes in PD patients. These peptides are modified to enhance binding to MHC-II molecules and are formulated with a non-inflammatory adjuvant (Calcium Phosphate Nanoparticles) known to favor Treg induction over effector T-cell responses.
+
+Preclinical studies in humanized mouse models of α-synucleinopathy demonstrated that vaccination with these peptides led to a significant increase in α-syn-specific Tregs, reduced microgliosis, decreased α-syn pathology, protection of dopaminergic neurons, and improved motor performance without inducing harmful autoimmunity.
+
+This Phase II trial is the first to evaluate the clinical translation of this tolerogenic peptide immunotherapy in patients with early-stage Parkinson's disease.
+
+3. Methods
+
+3.1. Study Design
+This was a multicenter, randomized, double-blind, placebo-controlled, parallel-group study conducted at 20 academic movement disorder centers across North America and Europe. The study comprised a 4-week screening period, a 12-month double-blind treatment period, and a 6-month safety follow-up extension (data not reported here). The protocol was approved by the institutional review board at each site and conducted in accordance with the Declaration of Helsinki and Good Clinical Practice guidelines. All participants provided written informed consent.
+
+3.2. Participants
+Key inclusion criteria: 1) Diagnosis of idiopathic PD per UK Parkinson's Disease Society Brain Bank criteria. 2) Disease duration ≤ 3 years from diagnosis. 3) Hoehn & Yahr stage 1 or 2 in the OFF state. 4) Age 40-75 years. 5) On stable symptomatic therapy (if any) for at least 8 weeks prior to screening, with anticipated stability throughout the study. 6) Demonstrated DaTscan deficit consistent with PD.
+
+Key exclusion criteria: 1) Atypical parkinsonism. 2) History of deep brain stimulation or other PD-related brain surgery. 3) Significant neurological or psychiatric comorbidity. 4) Active autoimmune disease or immunosuppressive therapy. 5) Contraindications to MRI or lumbar puncture.
+
+3.3. Randomization and Blinding
+Eligible participants were randomized 2:1 (NeuroVax™:Placebo) via an interactive web response system using a computer-generated block randomization schedule, stratified by site and baseline Hoehn & Yahr stage. The investigational product (NeuroVax™) and placebo (sterile saline with histidine buffer) were provided in identical, single-use, pre-filled syringes. All participants, investigators, site staff, and outcome assessors were blinded to treatment assignment.
+
+3.4. Intervention
+Participants received a 0.5 mL subcutaneous injection in the upper arm every 4 weeks for 13 doses (Months 0-12). The NeuroVax™ dose contained 150 µg of each peptide (450 µg total) adsorbed onto Calcium Phosphate Nanoparticles.
+
+3.5. Outcome Measures
+
+Primary Endpoint:
+
+Change from Baseline to Month 12 in the MDS-UPDRS Part III (Motor Examination) score, assessed in the practically defined OFF state (≥12 hours overnight off all dopaminergic medication).
+
+Secondary Endpoints:
+
+Change in striatal dopamine transporter binding on [123I]FP-CIT SPECT (DaTscan), specifically the mean specific binding ratio in the posterior putamen.
+
+Change in CSF levels of oligomeric α-synuclein (measured by validated ELISA).
+
+Change in MDS-UPDRS Parts I (Non-motor experiences), II (Motor experiences of daily living), and Total score.
+
+Change in Parkinson’s Disease Questionnaire (PDQ-39) Summary Index.
+
+Time to initiation or meaningful escalation of symptomatic dopaminergic therapy.
+
+Exploratory Endpoints:
+
+Immunogenicity: Frequency and function of α-synuclein peptide-specific CD4+CD25+FoxP3+ regulatory T-cells in peripheral blood mononuclear cells (PBMCs) using flow cytometry and in vitro suppression assays.
+
+Serum and CSF biomarkers: Pro-inflammatory cytokines (IL-1β, IL-6, TNF-α), neurofilament light chain (NfL).
+
+Subgroup analyses based on genetic risk factors (e.g., LRRK2, GBA status).
+
+Safety Endpoints:
+
+Incidence and severity of adverse events (AEs), serious AEs (SAEs), and AEs of special interest (including potential autoimmune phenomena).
+
+Clinical laboratory tests, vital signs, physical and neurological examinations.
+
+Brain MRI at baseline and Month 12 to monitor for potential inflammatory changes.
+
+3.6. Statistical Analysis
+A sample size of 150 participants was calculated to provide 90% power to detect a 4-point difference in MDS-UPDRS Part III change (assuming a standard deviation of 6.5, 10% dropout, and 2:1 randomization), using a two-sided alpha of 0.05. The primary analysis was performed on the Full Analysis Set (all randomized participants who received at least one dose, analyzed by assigned treatment) using a mixed model for repeated measures (MMRM), including treatment, time, baseline score, stratification factors, and treatment-by-time interaction as fixed effects. Missing data were handled under the missing-at-random assumption by the MMRM model. Sensitivity analyses included a per-protocol set and multiple imputation. Secondary endpoints were analyzed using similar MMRM or ANCOVA models, with adjustment for multiple testing using the Hochberg procedure. Safety was analyzed in the Safety Set (all who received at least one dose). All analyses were performed using SAS version 9.4.
+
+4. Results
+
+4.1. Participant Disposition and Baseline Characteristics
+Of 312 individuals screened, 150 were randomized (NeuroVax™: n=100; Placebo: n=50). Baseline demographics and disease characteristics were well-balanced between groups (Table 1). The mean age was 61.2 years, 62% male, mean disease duration 1.8 years, mean baseline MDS-UPDRS Part III OFF score 28.4. 138 participants (92%) completed the 12-month treatment period. Reasons for discontinuation were similar between groups (NeuroVax™: 7%; Placebo: 8%).
+
+Table 1: Baseline Characteristics
+(Characteristic | NeuroVax™ (n=100) | Placebo (n=50))
+Age, years (mean ± SD) | 60.8 ± 7.1 | 61.9 ± 6.8
+Male, n (%) | 63 (63%) | 30 (60%)
+Disease Duration, years (mean ± SD) | 1.7 ± 0.9 | 1.9 ± 0.8
+Hoehn & Yahr Stage 1/2, n | 42/58 | 20/30
+MDS-UPDRS Part III OFF (mean ± SD) | 28.1 ± 8.3 | 29.0 ± 9.1
+DaTscan Putamen SBR (mean ± SD) | 1.52 ± 0.41 | 1.48 ± 0.38
+
+4.2. Efficacy Outcomes
+
+Primary Endpoint: The least-squares mean (LSM) change from baseline to Month 12 in MDS-UPDRS Part III score was +3.1 points (worsening) in the NeuroVax™ group versus +7.3 points in the placebo group. The LSM difference was -4.2 points (95% CI: -6.8 to -1.6; p=0.002), representing a 57% reduction in the rate of motor progression (Figure 1).
+
+Secondary Endpoints:
+
+DaTscan: The percent reduction in putamen specific binding ratio (SBR) from baseline was significantly lower in the NeuroVax™ group (-5.7%) compared to placebo (-8.8%) (between-group difference: 35% less loss; p=0.01).
+
+CSF Biomarkers: Oligomeric α-synuclein decreased by 22.1% in the NeuroVax™ group and increased by 4.8% in the placebo group (p<0.001). Neurofilament light chain (NfL) increase was attenuated in the treatment group (+2.1 pg/mL vs +5.6 pg/mL in placebo; p=0.03).
+
+Clinical Scores: Significant benefits favoring NeuroVax™ were also observed for MDS-UPDRS Total score (p=0.005) and Part II (activities of daily living; p=0.01). Trends favoring treatment were seen in Part I and PDQ-39 but did not survive multiple testing correction.
+
+Time to Escalation: A lower proportion of NeuroVax™-treated participants required initiation or ≥50% dose escalation of dopaminergic therapy (15% vs 32% in placebo; HR=0.48, p=0.02).
+
+4.3. Immunogenicity
+Flow cytometric analysis of PBMCs revealed a significant, sustained increase in the population of CD4+CD25+FoxP3+ T-cells that proliferated and produced IL-10 in response to α-syn peptides in the NeuroVax™ group (mean 2.1-fold increase from baseline at Month 12, p<0.001), with no change in the placebo group. In vitro, these T-cells demonstrated potent suppressive capacity against effector T-cell responses to α-syn.
+
+4.4. Safety
+NeuroVax™ was well-tolerated. The most frequent AEs were mild-to-moderate, transient injection-site reactions (erythema, itching: NeuroVax™ 45%, Placebo 12%). Rates of systemic AEs (headache, fatigue) were similar between groups. No treatment-related SAEs, no cases of meningoencephalitis, vasogenic edema, or clinically significant autoimmune reactions were reported. No concerning trends emerged in laboratory tests or brain MRI scans.
+
+5. Discussion
+
+This Phase II trial provides the first clinical evidence that tolerogenic peptide immunotherapy targeting α-synuclein can slow multiple measures of disease progression in early Parkinson's disease. The significant effect on the primary motor endpoint, coupled with objective biomarker evidence of attenuated dopaminergic degeneration (DaTscan) and reduced pathological α-syn burden (CSF oligomers), strongly supports the disease-modifying potential of NeuroVax™.
+
+The -4.2 point difference in MDS-UPDRS Part III progression is clinically meaningful, comparable to or exceeding the effect sizes of many symptomatic therapies in early PD. Importantly, this benefit was observed in participants already on stable symptomatic care, indicating an additive effect on the underlying disease process. The concordant 35% reduction in the rate of DaTscan decline is a robust, objective corroboration of neuroprotection, as DaTscan binding is a well-validated proxy for dopaminergic terminal integrity.
+
+The mechanistic premise of the therapy is strongly supported by the immunogenicity data. The successful induction of α-syn-specific, IL-10-producing FoxP3+ Tregs aligns perfectly with the intended tolerogenic mechanism of action. These Tregs are postulated to migrate into the CNS, suppress neuroinflammatory microglia, and mitigate T-cell-mediated cytotoxicity, thereby breaking the cycle of inflammation and neurodegeneration. The concurrent reduction in CSF oligomeric α-syn may reflect reduced neuronal stress or enhanced clearance mechanisms secondary to attenuated inflammation.
+
+The safety profile was highly favorable. The absence of severe inflammatory CNS events, a major concern with earlier immunotherapies in neurodegeneration, validates the strategic choice of a modified peptide/tolerogenic adjuvant approach. This suggests selective immune modulation without widespread immune activation.
+
+Limitations: The study duration of 12 months, while sufficient to detect a signal, is short for a progressive disease like PD. Longer follow-up is needed to determine if the treatment effect is sustained or augmented. The sample size, though adequate for Phase II, limits the ability to detect effects in genetic subgroups. Furthermore, the requirement for monthly subcutaneous injections and the need for specialized immunomonitoring present logistical considerations.
+
+6. Conclusion
+
+NeuroVax™ demonstrated a favorable safety profile and met its primary efficacy endpoint, significantly slowing motor progression in early PD over 12 months. The positive signals across clinical, imaging, and fluid biomarkers provide compelling evidence of a disease-modifying effect mediated by the induction of antigen-specific immune tolerance. These results justify and inform the design of a larger, longer-duration Phase III trial to confirm the efficacy and clinical benefit of this novel immunotherapeutic strategy for Parkinson's disease. This study marks a significant step towards addressing the critical unmet need for therapies that can alter the progressive course of PD.
+
+7. References (Selected Key References)
+
+Poewe, W., et al. (2017). Parkinson disease. Nature Reviews Disease Primers.
+
+Sulzer, D., et al. (2017). T cells from patients with Parkinson’s disease recognize α-synuclein peptides. Nature.
+
+Kountouras, J., et al. (2020). Tolerogenic Immunotherapy for Parkinson’s Disease: Preclinical Insights. Science Translational Medicine.
+
+Goetz, C.G., et al. (2008). Movement Disorder Society-sponsored revision of the Unified Parkinson's Disease Rating Scale (MDS-UPDRS). Movement Disorders.
+
+Lang, A.E., & Espay, A.J. (2018). Disease Modification in Parkinson's Disease: Current Approaches, Challenges, and Future Considerations. Movement Disorders.
+
+Figures and Tables Legends
+Figure 1: Least-squares mean change from baseline in MDS-UPDRS Part III score (OFF state) over 12 months. Error bars represent SEM.
+Table 1: Baseline Demographics and Clinical Characteristics.
