@@ -1,0 +1,9 @@
+Introduction: The Coronavirus Disease 2019 (COVID-19) is associated with severe hypercoagulability. There is currently limited evidence supporting the routine use of therapeutic anticoagulation in the setting of COVID-19.
+
+Objectives: The primary objective was to compare the incidence of thromboembolic events in adult patients with COVID-19 treated with an unfractionated heparin (UFH) infusion versus prophylactic dose anticoagulation. Secondary objectives included exploration of the efficacy and safety of an UFH infusion through the evaluation of organ function and incidence of minor and major bleeding.
+
+Methods: Retrospective observational cohort study with propensity score matching of COVID-19 patients who received an UFH infusion targeting an aPTT between 40 and 60 seconds.
+
+Results: Fifty-six patients were included in this study. There was no difference in the composite of thromboembolic events comprised of venous thromboembolism, arterial thrombosis, and catheter-related thrombosis between the UFH and control group (17.9% vs. 3.6%, P = 0.19). There was a significant increase in median D-dimer concentrations from day 1 to day 7 in the control group (475 ng/mL [291-999] vs. 10820 ng/mL [606-21033], P = 0.04). Patients treated with UFH had a higher incidence of minor bleeding (35.7% vs. 0%, P < 0.005) and required more units of packed red blood cell transfusion (0.8 units ± 1.6 vs. 0 units, P = 0.01).
+
+Conclusion: Continuous infusion of UFH for patients with COVID-19 infection did not decrease the overall incidence of thromboembolic complications. UFH was associated with stabilization of D-dimer concentrations and increased rates of minor bleeding and transfusions.

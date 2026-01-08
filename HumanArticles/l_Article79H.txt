@@ -1,0 +1,9 @@
+Background: The diagnosis of congenital hyperinsulinism (CHI) may be hampered by a plasma (p-) insulin detection limit of 12-18 pmol/L (2-3 mU/L).
+
+Objective: To evaluate the diagnostic performance of a sensitive insulin immunoassay and to find the optimal p-insulin cut-off for the diagnosis of CHI.
+
+Methods: Diagnostic fasting tests, performed without medication or i.v.-glucose, were investigated in children with a clinical diagnosis of CHI, or idiopathic ketotic hypoglycemia (IKH). The CHI diagnosis was either clinical or by the alternative, p-insulin-free criteria; hypoglycemia plus disease-causing genetic mutations and/or CHI-compatible pancreatic histopathology. We included diagnostic p-insulin samples with simultaneous p-glucose <3.2 mmol/L and used a sensitive insulin assay (Cobas e411 immunoassay analyzer; lower detection limit 1.2 pmol/L; normal range 15.1-147.1 pmol/L). Receiver operating characteristics area under the curve (ROC AUC) values and optimal cut-offs were analyzed for the performance of p-insulin to diagnose CHI.
+
+Results: In 61 CHI patients, the median (range) p-insulin was 76.5 (17-644) pmol/L compared to 1.5 (1.5-7.7) pmol/L in IKH patients (n=15). The ROC AUC was 1.0 for the diagnosis of CHI defined both by the clinical diagnosis (n=61) and by alternative criteria (n=57). The optimal p-insulin cut-offs were 12.3 pmol/L, and 10.6 pmol/L, at p-glucose <3.2 mmol/L (n=61), and <3.0 mmol/L (n=49), respectively.
+
+Conclusions: The sensitive insulin assay performed excellent in diagnosing CHI with optimal p-insulin cut-offs at 12.3 pmol/L (2.0 mU/L), and 10.6 pmol/L (1.8 mU/L), at p-glucose <3.2 mmol/L, and <3.0 mmol/L, respectively. A sensitive insulin assay may serve to simplify the diagnosis of CHI.

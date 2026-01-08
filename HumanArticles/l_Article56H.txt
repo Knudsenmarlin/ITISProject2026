@@ -1,0 +1,8 @@
+Background and objectives: Worldwide, trauma is one of the leading causes of morbidity and mortality. The aim of the present study is to identify the predictors of mortality of trauma patients requiring Intensive Care Unit (ICU) admission.
+
+Methods: This retrospective study was conducted in the ICU of our institution in Greece during a six-year period (2010-215).
+
+Results: Among 326 patients, trauma was caused by road traffic accidents in .5%, followed by falls (21.1%) and violence (7.4%). Thirty-day mortality was 27.3%. Multivariate analysis showed that higher New Injury Severity Score (NISS), severe head/neck injury, acute kidney injury, septic shock and hemorrhagic shock were significantly associated with mortality while higher Revised Injury Severity Classification, version II (RISC II) and the administration of enteral nutrition were associated with survival. NISS showed the higher accuracy in predicting 30-day mortality followed by RISC II, while scores based only in physiological variables had lower predictive ability.
+
+Conclusions: Increased mortality was strongly associated with the severity of the injury upon admission. Traumatic brain injury, septic shock and acute kidney injury have also been found among the strongest predictors of mortality. NISS can be considered as a statistically superior score in predicting mortality of severely injured patients.
+

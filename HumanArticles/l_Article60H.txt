@@ -1,0 +1,9 @@
+Objective: Our aim was to describe the racial and ethnic differences in presentation, baseline and operative characteristics, and outcomes after aortoiliac aneurysm repair.
+
+Summary of background data: Previous studies have demonstrated racial and ethnic differences in prevalence of abdominal aortic aneurysms and showed more complex iliac anatomy in Asian patients.
+
+Methods: We identified all White, Black, Asian, and Hispanic patients undergoing aortoiliac aneurysm repair in the VQI from 2003 to 2019. We compared baseline comorbidities, operative characteristics, and perioperative outcomes by race and ethnicity.
+
+Results: In our 60,435 patient cohort, Black patients, followed by Asian patients, were most likely to undergo repair for aortoiliac (W:23%, B:38%, A:31%, H:22%, P < 0.001) and isolated iliac aneurysms (W:1.0%, B:3.1%, A:1.5%, H:1.6%, P < 0.001), and White and Hispanic patients were most likely to undergo isolated aortic aneurysm repair (W:76%, B:59%, A:68%, H:76%, P < 0.001). Black patients were more likely to undergo symptomatic repair and underwent rupture repair at a smaller aortic diameter. The iliac aneurysm diameter was largest in Black and Asian patients. Asian patients were most likely to have aortic neck angulation above 60 degree, graft oversizing above 20%, and completion endoleaks. Also, Asian patients were more likely to have a hypogastric artery aneurysm and to undergo hypogastric coiling.
+
+Conclusion: Asian and Black patients were more likely to undergo repair for aortoiliac and isolated iliac aneurysms compared to White and Hispanic patients who were more likely to undergo repair for isolated aortic aneurysms. Moreover, there were significant racial differences in the demographics and anatomic characteristics that could be used to inform operative approach and device development.
