@@ -1,0 +1,13 @@
+Purpose: To examine the impact of the iStent (Glaukos) on the recent glaucoma surgical expenditure for Medicare Part B beneficiaries.
+
+Design: Retrospective, observational, population-based analysis.
+
+Participants: All applicable cases in the Centers for Medicare and Medicaid Services Part B Summary Data Files.
+
+Methods: The Part B National Summary Data Files from 2007 to 2017 were obtained through the Centers for Medicare and Medicaid Services. Glaucoma surgical procedures, including trabeculectomy, glaucoma drainage implants (GDIs), and select minimally invasive glaucoma surgeries (MIGS) including the iStent, were queried from the database using Current Procedural Terminology (CPT) codes. We used Chow's test to confirm significant changes in expenditure trajectories. We built a mixed-effects regression model to examine the effect of demographic factors on each state's iStent adoption speed.
+
+Main outcome measures: Proportion of iStent in total glaucoma surgical spending for individual states for each year.
+
+Results: Total Medicare part B payment for the selected glaucoma procedures increased from $52.0 million in 2007 to $179.9 million in 2017. The percentage for trabeculectomy and GDIs decreased from 92.3% to 21.2%. Conversely, the iStent, approved by the Food and Drug Administration in 2012, increased to represent 57.9% of total payment by 2017. There were significant changes in the slope of glaucoma surgical Medicare payment (P < 0.00001) and iStent payment (P < 0.0001) trajectories in 2012. Mixed-effect regression analysis showed a wide range among the states' rates of increase in iStent proportion between 2012 and 2017 (range, 5.12%-14.54% per year). Higher male proportion in the population was associated with faster increases in iStent proportions (12.4% per 5% increase in male proportion, 95% confidence interval [CI], 4.3-20.5, P = 0.003). Higher median age of the population was associated with slower increases (-3.6% per 1-year increase in median age, 95% CI, -0.4 to -6.8, P = 0.026).
+
+Conclusions: Increasing payment for the iStent represents the majority of the increase in glaucoma surgical spending in the recent decade. Male gender and age significantly affect the state-wise speed of adoption for the iStent. The impact of the iStent on the comprehensive glaucoma Medicare expenditure in the same time period warrants further study.

@@ -1,0 +1,7 @@
+Background: The Science, PE, & Me! (SPEM) curriculum is a concept-based physical education curriculum that offers students coherent educational experiences for constructing health-related fitness knowledge through movement experiences. The purpose of this study was to evaluate students' motivational response to the SPEM curriculum from the situational interest perspective.
+
+Methods: The study used a cluster randomized controlled design in which 30 elementary schools in one of the largest metropolitan areas in the eastern United States were randomly assigned to an experimental or comparison condition. Although all students in the 3rd, 4th, and 5th grades in the targeted schools were eligible to participate in the study, a random sample of students from the experimental (n = 1749; 15 schools) and comparison groups (n = 1985; 15 schools) provided data. Students' motivational response to the SPEM curriculum or comparison curriculum was measured using the previously validated Situational Interest Scale-Elementary. Data were analyzed using structural mean modeling.
+
+Results: The results demonstrated that the experimental group (as reference group) showed significantly higher enjoyment (z = -2.01), challenge (z = -6.54), exploration (z = -12.195), novelty (z = -8.80), and attention demand (z = -7.90) than the comparison group.
+
+Conclusion: The findings indicate that the SPEM curriculum created a more situationally interesting context for learning than the comparison physical education curriculum.

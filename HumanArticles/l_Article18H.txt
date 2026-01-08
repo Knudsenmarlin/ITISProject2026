@@ -1,0 +1,13 @@
+Background: Identifying altered motor development at an early stage is crucial for infants born extremely preterm (EPT), as they face a high risk of long-term neurodevelopmental impairment. The Prechtl General Movement Assessment (GMA), including the Motor Optimality Score Revised (MOS-R), can provide important insights into these infants' later neurodevelopmental function.
+
+Aims: To compare age-specific movements and postures in infants born EPT compared to term-born controls at three months corrected age.
+
+Study design: A retrospective observational study design.
+
+Subjects: 53 infants born EPT (mean gestational age 25 weeks; 23-26) were included and matched for gender and recording age with 53 term-born controls (mean gestational age 40 weeks, 37-41).
+
+Outcome measures: GMA including the MOS-R at three months corrected age (re-analysis of video-recordings).
+
+Results: Of the infants born EPT, 19% showed aberrant fidgety movements (FMs); all term-born infants had normal FMs. There was a significant difference in MOS-R (p≤0.001) between controls (median = 26, IQR 26-28) and EPT infants (median = 18, IQR 17-21), as well as in all subcategories of the MOS-R. The EPT group had a significantly higher number of infants showing atypical movement and postural patterns as well as a reduced repertoire for the age compared to the controls. All infants born EPT moved monotonously and jerky. P-values were all <0.001.
+
+Conclusion: Infants born EPT have an altered early motor development. The MOS-R may contribute to further understanding of motor performance in this group of children since it can detect neurological- and motor alterations at a very early age.

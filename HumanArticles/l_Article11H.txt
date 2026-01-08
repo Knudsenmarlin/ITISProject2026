@@ -1,0 +1,8 @@
+Objective: This study examined the effects of resistance training (RT) performed at 24 or 48h post-match on recovery in female soccer players.
+
+Methods: In a randomized cross-over design, 10 professional female soccer players undertook matches followed by three conditions: Control (no RT), RT-24h and RT-48h post-match. RT was a high-speed and low-load session, consisting of 3 sets of 6 repetitions of lower-body exercises at 50%1RM. During training, one exercise (half-squat) was performed on a force platform to determine mean and peak forces. Tests were undertaken pre, 24, 48 and 72h post-match including countermovement jump (CMJ), 20m sprint, C-reactive protein (CRP) and delayed onset muscle soreness (DOMS). Two-way repeated-measures ANOVA and Effect size (ES) analyses compared the time-course of recovery.
+
+Results: Despite no significant differences between conditions, ES for changes from pre to 72h were larger for CMJ, 10 and 20m sprint time, and DOMS in RT48h (ES=0.38-2.13) than in RT24h (ES=0.08-0.66) and in Control (ES=0.09-0.36). No differences in forces of half-squat exercise existed between conditions (p>0.05; ES=0.05-0.06).
+
+Conclusion: The trend for suppressed recovery of speed, power and perceptual responses at 72h post-match suggests RT48h is less ideal in female soccer players, particularly during congested micro-cycles.
+

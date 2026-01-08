@@ -1,0 +1,9 @@
+Background: Triple chronotherapy (wake night [one night without sleep], sleep phase advance, and early morning bright light exposure) demonstrated rapid efficacy primarily in bipolar depression, but has not been as well studied in unipolar depression. Our primary hypothesis is that triple chronotherapy is associated with a significantly greater Week 1 remission rate compared to the alternative protocol.
+
+Methods: Unipolar depressed, nonpsychotic adult outpatients were randomized to triple chronotherapy or an alternative protocol (assigned sleep times without wake night, bright light exposure with blue-green wavelengths filtered out). Symptoms were assessed with Structured Interview Guide for Hamilton Depression Rating Scale with Atypical Supplement (SIGH-ADS) at each visit and a modified form (m-SIGH) daily for the first week. Response was defined as a 50% decrease in m-SIGH score, and remission as m-SIGH≤7, modified Clinical Global Impression-Improvement (m-CGI-I)≤2, and no depressed mood on m-SIGH.
+
+Results: 44 patients (84.1% major depressive disorder, 75.0% persistent depressive disorder; 54.5% female; age mean±SD 38.3 ± 15.2 years) were randomized to triple chronotherapy (N = 22) or an alternative protocol (N = 22). Week 1 remission rate was numerically higher but not statistically significant in the triple chronotherapy versus alternative protocol group (25.0% vs. 6.7%, Chi-square=1.76, df=1, p = 0.294). m-SIGH scores and response and remission rates on Days 2-7 were numerically improved without reaching statistical significance in the triple chronotherapy versus alternative protocol group.
+
+Limitations: Predominantly white, educated sample.
+
+Conclusions: This small pilot study demonstrated triple chronotherapy's feasibility and tolerability in unipolar depressed outpatients. Larger randomized trials are warranted to further characterize acute and long-term efficacy.

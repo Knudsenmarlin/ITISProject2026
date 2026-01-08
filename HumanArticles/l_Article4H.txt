@@ -1,0 +1,9 @@
+Background: In inflammatory bowel disease (IBD) a high percentage of women are diagnosed during their reproductive age. IBD in remission is the ideal scenario when planning a pregnancy.
+
+Aims: To describe the clinical characteristics of pregnancy/newborn and assess disease activity at the time of conception and throughout the pregnancy in patients with IBD treated at a tertiary centre in Chile.
+
+Methods: We retrospectively reviewed women diagnosed with IBD who were pregnant or delivered between 2017 and 2020. Demographic, clinical, obstetric and delivery data were obtained from the IBD registry, approved by the local IRB. Descriptive statistics and association tests were performed (χ2, p ≤ 0.05).
+
+Results: Sixty women with IBD were included. At the beginning of pregnancy, 21 (35%) had active disease and 39 (65%) were in remission. Of those with active disease, 16 (66%) remained active and 6 had spontaneous abortions. In those who were in remission, 26 (69%) remained in this condition. Nine patients (15%) discontinued treatment, and 6 of these had inflammatory activity during pregnancy. Preconception counselling was performed in 23 of the 60 patients, being higher in the group that remained in remission during pregnancy (65% vs. 35%, p = 0.02). Patients who had a flare during pregnancy had more probability of preterm birth (<37 weeks) and newborn with lower weight compared with the group that always remained in remission (89% vs. 74%, p = 0.161) and (2.885 vs 3.370 g; p = 0.0014).
+
+Conclusion: Remission presents better outcomes in pregnancy and preconception counselling would allow a better IBD control during pregnancy.

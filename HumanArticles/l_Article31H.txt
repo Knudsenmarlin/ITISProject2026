@@ -1,0 +1,8 @@
+Background and objectives: Epidural Volume Extension (EVE) involves instillation of normal saline into the epidural space soon after an intrathecal injection, with the aim to augment the sensory block height. Its clinical relevance lies in the possibility of using reduced intrathecal dose and yet achieving the desired sensory block level. Intrathecal dose is a known determinant of the level of sensory block. Whether EVE is dependent on intrathecal dose is not known.
+
+Methods: We conducted a randomized, controlled, double-blind study to compare the maximum sensory level (Smax) achieved with or without application of EVE to two different reduced intrathecal doses. Eighty four adult male patients of ASA status I or II with body weight between 50-70kg and height in the range of 150-180cm, scheduled for orthopedic lower limb surgery using combined spinal epidural anesthesia were randomized to receive, either intrathecal dose (5 or 8mg) with or without EVE, in accordance to group allocation.
+
+Results: Smax was lowered by application of EVE to 5mg intrathecal bupivacaine (T8.9±4.3 vs. T6.4±1.9 with and without EVE respectively; p = 0.030). Smax was similar when EVE was applied to 8mg intrathecal bupivacaine than without it (T5.8±1.8 vs. T6.4±2.2 respectively; p= 0.324).
+
+Conclusion: EVE should not be applied to 5mg plain bupivacaine during a combined spinal epidural block in patients undergoing lower limb orthopedic surgery as it may result in a decrease in the maximum sensory level.
+

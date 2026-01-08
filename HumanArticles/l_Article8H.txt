@@ -1,0 +1,13 @@
+Background: The effect of context on speech processing has been studied using different speech materials and response criteria. The Repeat-Recall Test (RRT) evaluates listener performance using high context (HC) and low context (LC) sentences; this may offer another platform for studying context use (CU).
+
+Objective: This article aims to evaluate if the RRT may be used to study how different signal-to-noise ratios (SNRs), hearing aid technologies (directional microphone and noise reduction), and listener working memory capacities (WMCs) interact to affect CU on the different measures of the RRT.
+
+Design: Double-blind, within-subject repeated measures design.
+
+Study sample: Nineteen listeners with a mild-to-moderately severe hearing loss.
+
+Data collection: The RRT was administered with participants wearing the study hearing aids under two microphone (omnidirectional vs. directional) by two noise reduction (on vs. off) conditions. Speech was presented from 0 degree at 75 dB sound pressure level and a continuous speech-shaped noise from 180 degrees at SNRs of 0, 5, 10, and 15 dB. The order of SNR and hearing aid conditions was counterbalanced across listeners. Each test condition was completed twice in two 2-hour sessions separated by 1 month.
+
+Results: CU was calculated as the difference between HC and LC sentence scores for each outcome measure (i.e., repeat, recall, listening effort, and tolerable time). For all outcome measures, repeated measures analyses of variance revealed that CU was significantly affected by the SNR of the test conditions. For repeat, recall, and listening effort measures, these effects were qualified by significant two-way interactions between SNR and microphone mode. In addition, the WMC group significantly affected CU during recall and rating of listening effort, the latter of which was qualified by an interaction between the WMC group and SNR. Listener WMC affected CU on estimates of tolerable time as qualified by significant two-way interactions between SNR and microphone mode.
+
+Conclusion: The study supports use of the RRT as a tool for measuring how listeners use sentence context to aid in speech processing. The degree to which context influenced scores on each outcome measure of the RRT was found to depend on complex interactions between the SNR of the listening environment, hearing aid features, and the WMC of the listeners.

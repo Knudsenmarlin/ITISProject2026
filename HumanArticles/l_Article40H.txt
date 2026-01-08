@@ -1,0 +1,13 @@
+Objectives: The objectives of this study was to explore the accuracy of the Cornell Assessment for Pediatric Delirium (CAP-D), Pediatric Confusion Assessment Method for the Intensive Care Unit (pCAM-ICU), and Preschool Confusion Assessment Method for the Intensive Care Unit (psCAM-ICU) when implemented in routine care as delirium screening tools, and to assess patient characteristics and clinical variables that may affect their validity.
+
+Design: This is a prospective observational study.
+
+Setting: The study was conducted in a 36-bed, mixed paediatric intensive care unit (PICU) at an Australian tertiary hospital.
+
+Patients: The study included critically ill children developmentally aged 6 months to 17 years, with a PICU length of stay >18 h.
+
+Interventions: No interventions were provided in the study.
+
+Measurements and main results: Patients were screened for delirium by their bedside nurse (CAP-D and pCAM-ICU/psCAM-ICU) once daily, for up to 5 d. Delirium status identified using screening instruments was compared with delirium diagnosis using the diagnostic criteria for delirium (Diagnostic and Statistical Manual of Mental Disorders, 5th Edition). In this sample, the CAP-D retained its high sensitivity (91.3%) and good specificity (75.2%), whereas the psCAM-ICU and pCAM-ICU had moderate sensitivity (58.8% and 75.0%, respectively) and excellent specificity (89.8% and 84.9%, respectively). There was moderate agreement between the CAP-D and the psCAM-ICU (κ = 0.52, p < .001) and good agreement between the CAP-D and the pCAM-ICU (κ = 0.80, p < .01).
+
+Conclusions: Although the CAP-D, psCAM-ICU, and pCAM-ICU all appear promising in their validation studies, when implemented in routine care, their performance can be variable. The CAP-D performed well in routine clinical practice, but follow-up diagnosis is required to confirm delirium. The psCAM-ICU and pCAM-ICU both provide valuable, objective assessments of delirium in critically ill children; however, further evaluation of their implementation in routine clinical practice is needed.

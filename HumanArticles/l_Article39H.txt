@@ -1,0 +1,9 @@
+Background: Interoceptive dysfunction is emerging as an important biomarker for mental illnesses, such as depression which is a leading cause of disability and death worldwide. Little empirical research explains the relationship between interoception and depression.
+
+Methods: Using multivariable linear regression models and cross-sectional baseline data from a randomized control trial of primary care patients (N = 281), we analyzed the relationship between depression severity (none/slight, mild, and moderate/severe via the PROMIS depression scale) and the Multidimensional Assessment of Interoceptive Awareness (MAIA) subscales (noticing, not distracting, not worrying, attention regulation, emotional awareness, selfregulation, body listening and trusting).
+
+Results: Adjusted results suggest moderate/severe depression was inversely associated with body trusting (p < .001), body listening (p < .01), noticing (p < .01), emotional awareness (p < .01), and self-regulation (p < .05). Mild depression was inversely associated with body trusting (p <.01). After correction for multiple comparisons, the relationship between MAIA body trusting and mild and moderate/severe depression remained significant.
+
+Limitations: Our findings may not be generalizable to other populations or healthcare settings. Additionally, findings cannot be interpreted as causal due to our inability to establish temporality.
+
+Conclusions: Lack of body trust appears important for understanding how individuals with depression interpret or respond to interoceptive stimuli and may represent the leading edge of interoceptive dysregulation seen in depressive disorders. Our findings support a hypothesis about mechanisms of action underlying hypoactivation in depression. Further, these results support clinical identification of subtypes of depression, such as those with high levels of co-occurring anxiety.
