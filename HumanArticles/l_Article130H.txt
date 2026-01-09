@@ -1,0 +1,13 @@
+Objective: To identify the sociodemographic, clinical and epidemiological characteristics associated with the presence of infection by the SARS-CoV-2 virus in family physicians who carry out their work in Primary Care (PC) or in Hospital Emergencies.
+
+Desing: Observational analytical case-control study. SITE: Primary care.
+
+Participants: 969 Primare Care Physicians, Hospital Emergency physicians and other extrahospitalry centers that had PCR for the detection of the SARS-CoV-2. Of these, 133 participated as cases (PCR positive) and 836 as controls (PCR negative).
+
+Interventions: No.
+
+Main measurements: Sociodemographic and work, contact with a COVID-19 patient, symptoms present during the process, first manifested symptom, previous chronic pathologies, and tobacco use.
+
+Results: 13.7% (95% CI: 11.6-16.0) were cases infected with SARS-CoV-2. The most frequently declared symptoms by those infected were a feeling of fatigue/tiredness (69.2%; 95% CI: 60.9-77.4%), cough (56.4%; 95% CI: 47.6-65.2%) and headache (55.6%; 95% CI: 46.8-64.4%).Using logistic regression, the variables independently associated with SARS-CoV-2 virus infection in Family Physicians were: previous contact with a COVID-19 patient (OR: 2.3; 95% CI: 1.2-4.2), present fatigue / tiredness (OR: 2.2; 95% CI: 1.2-3.9), smell alteration (4.6; 95% CI: 1.7-12.5), taste alteration (OR: 32.0; 95% CI: 9.6-106.8), cough (OR: 3.0; 95% CI: 1.7-5.3) and fever (OR: 6.1; 95% CI: 3.2-11.4).
+
+Conclusions: Symptoms independently related to SARS-CoV-2 virus infection in Family Physicians were fatigue, fever, cough, and altered taste and smell. The presence of these symptoms could facilitate the diagnosis of suspected COVID-19 disease and the earlier selection of those that require confirmatory tests.

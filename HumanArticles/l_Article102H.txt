@@ -1,0 +1,8 @@
+Objective: To evaluate new mothers' experiences of infant feeding support.
+
+Design: A postal survey developed for this study was sent to all new mothers in ten local government areas in Victoria, Australia when their baby was six months of age. Questions explored infant feeding methods, feeding support services, and experiences of infant feeding support. This survey made up one component of the Supporting breastfeeding In Local Communities (SILC) cluster randomised controlled trial.
+
+Findings: 997/4127 women (24%) completed the survey between 15 April 2013 and 31 July 2013. Women received infant feeding support from multiple sources, including professionals, family members, and peers. Overall, 88% reported receiving adequate infant feeding support. Women who reported not receiving adequate infant feeding support were less likely to be giving any breast milk at six months compared to those reporting adequate support (OR = 0.59; 95% CI 0.40, 0.88). Adjusting for breastfeeding intention and parity did not alter the association (Adj. OR = 0.60; 95% CI 0.40, 0.90). Women were most satisfied when they received accessible, available, consistent professional infant feeding support provided in a non-judgemental and reassuring way. Women were dissatisfied when there were barriers restricting access to support, or when they received conflicting advice or support that made them feel guilty, pressured or judged.
+
+Key conclusions: Regardless of infant feeding method, women wanted accessible, non-judgemental support. Given that receiving adequate support was associated with more breast milk feeding at six months, care providers should ensure accessible infant feeding support is available to all new mothers.
+

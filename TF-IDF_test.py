@@ -98,7 +98,7 @@ def average_TDFIF_score(*folder):
 
 
 if __name__ == "__main__":
-    print(find_combined_TFIDF_score('HumanArticles\l_Article2H.txt'))
+    print(find_combined_TFIDF_score('HumanArticles/l_Article2H.txt'))
     print(average_TDFIF_score('HumanArticles'))
     print(average_TDFIF_score('ChatGPTArticles'))
     print(average_TDFIF_score('DeepSeekArticles'))

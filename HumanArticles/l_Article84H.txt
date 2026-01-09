@@ -1,0 +1,8 @@
+Background: Although a number of successful handoff interventions have been reported, the handoff process remains vulnerable because it relies on memory. The aim of this study was to investigate the effect of deliberate cognitive processing (i.e., analytical, conscious, and effortful thinking) on recall of information from a simulated handoff.
+
+Methods: This two-phased experiment was executed in the Netherlands in 2015. A total of 78 pediatric residents were randomly divided into an intervention group (n = 37) and a control group (n = 41). In phase 1, participants received written handoffs from 8 patients. The intervention group was asked to develop a contingency plan for each patient, deliberately processing the information. The control group received no specific instructions. In phase 2, all participants were asked to write down as much as they recalled from the handoffs. The outcome was the amount and accuracy of recalled information, calculated by scoring for idea units (single information elements) and inferences (conclusions computed by participants based on two or more idea units).
+
+Results: Participants in the intervention group recalled significantly more inferences (7.24 vs. 3.22) but fewer correct idea units (21.1% vs. 25.3%) than those in the control group. There was no difference with regard to incorrectly recalled information.
+
+Conclusion: Our study revealed that deliberate cognitive processing leads to creation of more correct inferences, but fewer idea units. This suggests that deliberate cognitive processing results in interpretation of the information into higher level concepts, rather than remembering specific pieces of information separately. This implies better understanding of patients' problems.
+

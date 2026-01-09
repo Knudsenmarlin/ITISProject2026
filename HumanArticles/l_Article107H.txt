@@ -1,0 +1,7 @@
+Objectives: Patients with systemic lupus erythematosus (SLE) often display modest elevations of C-reactive protein (CRP) despite raised disease activity and increased interleukin (IL-) 6. We asked to what extent IL-6 levels, the CRP polymorphism rs1205, and the type I interferon (IFN) gene signature affects the basal CRP levels in patients with SLE during a quiescent phase of the disease.
+
+Methods: CRP and IL-6 were analyzed in plasma from 57 patients meeting established classification criteria for SLE. The CRP polymorphism rs1205 was assessed and gene expression analyzed including four type I IFN-regulated genes (IGS).
+
+Results: CRP was increased in patients with detectable IL-6 levels (p=0.001) and decreased among IGS-positive subjects (p=0.033). A multiple linear regression model revealed IL-6 to have a positive association with CRP levels, whereas both IGS-positivity and CRP genotype (rs1205) AA/GA were negatively associated with CRP-levels.
+
+Conclusion: Our data offer an explanation to the modest CRP levels seen in viral infections and IFN-α driven autoimmunity and corroborate prior observations showing an IFN-α dependent downregulation of CRP. The latter observation, together with the fact that the CRP-lowering polymorphism rs1205 is overrepresented in human SLE, could explain low basal CRP and inadequate CRP-responses among patients with active SLE.
