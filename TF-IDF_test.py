@@ -14,6 +14,8 @@ AIWordsList = ['delve', 'underscore', 'showcase', 'unveil', 'intricate', 'meticu
 AIWords = ' '.join(AIWordsList)
 AIWordsStemmed = [stemmer.stem(word) for word in word_tokenize(AIWords)]
 
+
+
 def txt_to_words(filename):
     file = open(filename, encoding="utf-8", errors="replace")
     file = file.read().replace('\n', ' ')
@@ -66,11 +68,12 @@ def combine_dictionaries(*dicts):
                 finalDict[key] = finalDict.get(key) + tempDict.get(key)
     return finalDict
 
+documentsWithTerm = count_documents_with_term('HumanArticles', 'ChatGPTArticles', 'DeepSeekArticles')
+totalDocuments = count_total_documents('HumanArticles', 'ChatGPTArticles', 'DeepSeekArticles')
+
 def find_combined_TFIDF_score(document):
     TFIDFDict = dict()
     occurancesTerm, totalWordsInDocument = count_words(txt_to_words(document))
-    documentsWithTerm = count_documents_with_term('HumanArticles', 'ChatGPTArticles', 'DeepSeekArticles')
-    totalDocuments = count_total_documents('HumanArticles', 'ChatGPTArticles', 'DeepSeekArticles')
     for word in AIWordsStemmed:
         termFrequency = occurancesTerm[word] / totalWordsInDocument
         if documentsWithTerm.get(word) is None:
@@ -95,6 +98,7 @@ def average_TDFIF_score(*folder):
     scoreMean = np.mean(scoreList)
     scoreStd = np.std(scoreList, ddof=1)
     return scoreMean, scoreStd
+
 
 
 if __name__ == "__main__":
