@@ -85,7 +85,6 @@ def find_combined_TFIDF_score(document):
     combinedTFIDF = 0
     for key in TFIDFDict:
         combinedTFIDF += TFIDFDict[key]
-    print(combinedTFIDF)
     return combinedTFIDF
     
 def average_TDFIF_score(*folder):
