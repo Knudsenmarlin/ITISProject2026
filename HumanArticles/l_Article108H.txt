@@ -1,0 +1,9 @@
+Aim: To compare the vertical marginal discrepancy of retrievable cement/screw-retained design (RCSRD) and cement-retained (CR) implant-supported single metal copings cemented on implant abutments.
+
+Materials and methods: Single metal copings were fabricated for 20 4.5 × 10 mm titanium dental implants. Two groups of 10 implants each were randomly allocated. One group received RCSRD metal copings and the other group received CR metal copings. Both types of restorations were fabricated on solid abutments with 5.5 mm of diameter. The copings were cemented with resin cement. After the cementation procedure, cement excess was carefully removed in both groups. Inspections of coping-abutment vertical marginal discrepancy were measured using scanning electronic microscopy (SEM) under 800× magnification. The independent sample Student's t test was used to detect differences between groups (p < 0.05).
+
+Results: The RCSRD implant-supported metal coping group (57.80 ± 2.34 μm) showed statistically better vertical marginal discrepancy than the CR implant-supported metal coping group (64.40 ± 2.23 μm) (p = 0.001).
+
+Conclusion: The RCSRD implant-supported metal copings offer less vertical marginal discrepancy than the CR copings group. This new technique would decrease the marginal discrepancy with less bacterial filtration and biomechanical problems.
+
+Clinical significance: Retrievable cement/screw-retained design is another alternative technique for dental implant rehabilitation that combines the advantages of CR and SR prostheses. The hybrid design offers less vertical marginal discrepancy for better control of bacterial filtration and biomechanical problems.

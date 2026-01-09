@@ -1,0 +1,7 @@
+Objectives: To determine the association between sociodemographic and reproductive factors with unwanted additional fertility (UAF) in Peru.
+
+Materials and methods: We carried out an observational, cross-sectional analytical study based on the 2018 Demographic and Family Health Survey (DHS) in Peru. The UAF variable was defined as the numerical difference between the general fertility rate and the total fertility rate. This variable was divided into 2 categories, UAF was considered when the numerical difference was positive. The Poisson regression was used, both crude and adjusted.
+
+Results: We analyzed data from 6,944 women with an average age of 44.3 years (range, 40 to 49). The prevalence of UAF was found to be 72.5% (95% CI: 70.4%-74.4%). In the adjusted model, patients in the top wealth quintile (aPR 0.80; 95% CI: 0.69-0.93) were found to have a lower probability of having unwanted pregnancies when compared to those in the middle quintile. On the other hand, patients from rural areas (aPR 1.07; 95% CI: 1.01-1.14) had a higher probability of having unwanted pregnancies when compared to those from urban áreas.
+
+Conclusions: The prevalence of UAF in Peruvian women between 40 and 49 years old who participated in the 2018 DHS is high. Patients from rural areas have a higher probability of having unwanted pregnancies, and those in the top wealth quintile have a lower probability.

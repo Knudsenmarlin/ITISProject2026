@@ -1,0 +1,7 @@
+Objective: Our objective was to analyze the effect of radioiodine (RAI) therapy on parathyroid hormone (PTH) secretion.
+
+Methods: A total of 137 patients were included and divided into 2 groups based on pretherapy PTH levels. The residual thyroid tissue volume was classified into 4 grades (0-3), and a value of 0 indicated that there was no apparent residual tissue. We analyzed the PTH level changes among different time points in each group and the factors that could predict the PTH level changes.
+
+Results: In 113 patients with normal parathyroid gland function, the PTH level at baseline, 1 day, 7 days, 1 month, 3 months, and 6 months after RAI therapy did not show any significant difference; in 24 patients with decreased parathyroid gland function, the level of PTH immediately decreased after the implementation of RAI therapy but gradually returned to a pre-RAI therapy level within 6 months. On the seventh day after therapy, the mean value of PTH in patients with a residual thyroid tissue volume of extent of 0/1 was 8.0 ± 2.3 pg/mL, which was significantly higher than that in patients with a residual thyroid tissue volume of extent of 2/3 (P = .011). Similar phenomena were observed 1 month, 3 months, and 6 months after therapy.
+
+Conclusion: RAI therapy had a significant transient adverse effect on parathyroid gland function in patients with decreased PTH secretion pretherapy, and the extent was associated with the amount of residual thyroid tissue.

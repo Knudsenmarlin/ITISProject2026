@@ -1,0 +1,7 @@
+Objectives: Diabetes mellitus (DM) is associated with autonomic neuropathy and metabolic abnormalities. These predispose the patients to prolongation of QTc and risk of arrhythmias and sudden cardiac death. Vitamin D may also cause QTc prolongation. We hypothesized that concomitant Vitamin D deficiency and Type 2 DM may act in synergy to prolong QTc interval.
+
+Methods: Newly diagnosed Type 2 DM patients were recruited from Department of Endocrinology. Lead II ECG was acquired for 5 min during supine rest using a digital data acquisition system. QTc interval extraction was performed using software. 25-hydroxy Vitamin D estimation was done using Chemiluminescence method. Patients were divided into two groups- Vitamin D deficient and insufficient (VDD/I) and optimal (VDO) as per standard criteria. QTc intervals were compared between the two groups.
+
+Results: Sixty-five patients participated in the study. Age was comparable between the groups (p=0.67, Unpaired t-test). There was no significant difference amongst QTc intervals between the groups (p=0.19, Mann Whitney test). Also, there was no significant correlation between Vitamin D levels and QTc intervals assessed using Spearman's correlation coefficient.
+
+Conclusions: While it seems plausible, coexisting Vitamin D deficiency and Type 2 DM probably do not act in synergy to prolong QTc interval. These findings merit future research on larger cohorts to investigate the relationship between Vitamin D status and newly diagnosed Type 2 DM on QTc intervals.

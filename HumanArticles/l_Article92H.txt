@@ -1,0 +1,7 @@
+Background: Decaffeinated green tea extract (dGTE) can increase fat oxidation during leg exercise, but dGTE is unsuitable for many people (e.g., those with injuries/disabilities), and its effects on arm exercise and women are unknown.
+
+Methods: Eight adults (23-37 years old, 4 women) performed an incremental arm cycle test to measure peak oxygen uptake (VO2peak), followed by four 1-h trials at 50% VO2peak. Subjects were randomly assigned to 650 mg of dGTE or placebo (PLA) for 4 weeks followed by a 4-week washout and crossover trial. Blood samples were obtained pre-exercise and post-exercise for glycerol and free fatty acid analysis. Respiratory gases were collected continuously.
+
+Results: VO2 showed no differences across trials ((0.83-0.89) ± (0.19-0.25) L/min, p = 0.460), neither did energy expenditure ((264-266) ± (59-77) kcal, p = 0.420) nor fat oxidation (dGTE = 0.11 to 0.12 g/min vs. PLA = 0.10 to 0.09 g/min, p = 0.220). Fat oxidation as percentage of energy expenditure was not different for dGTE vs. PLA (23% ± 12% to 25% ± 11% vs. 23% ± 10% to 21% ± 9%, p = 0.532). Glycerol concentration increased post-exercise in all trials, independent of treatments (pre = (3.4-5.1) ± (0.6-2.6) mg/dL vs. post = (7.9-9.8) ± (2.6-3.7) mg/dL, p = 0.867, η2 = 0.005 for interaction), as did free fatty acid ((3.5-4.8) ± (1.4-2.2) mg/dL vs. (7.2-9.1) ± (2.6-4.5) mg/dL, p = 0.981, η2 = 0.000).
+
+Conclusion: Chronic dGTE supplementation had no effect on lipolysis and fat oxidation during arm cycle exercise in men and women.
