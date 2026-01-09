@@ -15,7 +15,7 @@ AIWords = ' '.join(AIWordsList)
 AIWordsStemmed = [stemmer.stem(word) for word in word_tokenize(AIWords)]
 
 def txt_to_words(filename):
-    file = open(filename)
+    file = open(filename, encoding="utf-8", errors="replace")
     file = file.read().replace('\n', ' ')
     clean_text = re.sub(r'[^a-zA-Z ]', '', file)
     clean_text = clean_text.lower()
