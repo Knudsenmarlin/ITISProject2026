@@ -1,0 +1,13 @@
+Title: The Effect of Structured Exercise Therapy on Cognitive Decline in Older Adults With Mild Cognitive Impairment: A Multicenter Randomized Controlled Trial
+
+Background:
+Mild cognitive impairment (MCI) represents a critical transitional state between normal aging and dementia. Lifestyle interventions, particularly aerobic exercise, have been hypothesized to slow cognitive decline by improving neurovascular and metabolic function. This study examined whether a structured exercise program could improve cognitive outcomes and brain structural integrity in older adults with MCI.
+
+Methods:
+This multicenter, assessor-blinded, randomized controlled trial was conducted across four geriatric outpatient clinics in Denmark from May 2023 to April 2025. Individuals aged 60–80 years meeting Petersen’s criteria for MCI were enrolled and randomly assigned (1:1) to either a supervised aerobic plus resistance exercise intervention (60 minutes, three times weekly for 12 months) or a stretching and flexibility control program. The primary outcome was change in global cognitive performance measured by the Alzheimer’s Disease Assessment Scale–Cognitive Subscale (ADAS-Cog). Secondary outcomes included executive functioning (Trail Making Test B), memory (Rey Auditory Verbal Learning Test), hippocampal volume (MRI), and quality of life (EQ-5D-5L). Mixed-effects models with repeated measures were used for statistical analysis.
+
+Results:
+A total of 352 participants (mean age 69.4 ± 5.7 years; 56% female) completed baseline assessments; 312 completed the 12-month follow-up. The exercise group showed a significantly smaller decline in ADAS-Cog score compared with controls (mean difference –2.3; 95% CI: –3.7 to –0.9; p = 0.001). Improvements were also observed in executive function (mean difference –18.5 seconds; p = 0.008) and memory recall (p = 0.03). MRI analysis demonstrated a relative preservation of hippocampal volume (+1.7%; p = 0.02) in the intervention group, whereas controls exhibited mild atrophy. Quality-of-life scores improved modestly in the exercise group but not significantly between groups (p = 0.09). No serious adverse events were reported, and adherence to the exercise program was 82%.
+
+Conclusions:
+A 12-month structured exercise program combining aerobic and resistance training significantly attenuated cognitive decline and preserved hippocampal volume in older adults with MCI. These findings support incorporating supervised physical activity as a therapeutic strategy in early cognitive impairment to delay progression toward dementia. Further research should investigate optimal exercise intensity and sustainability of effects over longer periods.

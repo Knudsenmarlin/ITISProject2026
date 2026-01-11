@@ -1,0 +1,13 @@
+Title: The Effect of a Low-Sodium Dietary Intervention on Blood Pressure and Renal Function in Patients With Early-Stage Chronic Kidney Disease: A Randomized Controlled Trial
+
+Background:
+Excess sodium intake contributes to hypertension and renal disease progression. While sodium restriction is recommended for patients with chronic kidney disease (CKD), the optimal level of sodium reduction and its long-term benefits remain uncertain. This study assessed the impact of a moderate sodium restriction on blood pressure, renal function, and urinary albumin excretion in adults with early-stage CKD.
+
+Methods:
+This parallel-group, open-label, randomized controlled trial was conducted at two nephrology centers in Denmark between February 2023 and May 2025. Adults aged 30–75 years with stage 2–3 CKD (estimated glomerular filtration rate [eGFR] 45–89 mL/min/1.73 m²) and clinic systolic blood pressure (SBP) ≥130 mmHg on stable antihypertensive therapy were randomized (1:1) to a low-sodium diet (target < 2 g/day sodium; n = 120) or usual care with standard dietary advice (n = 120) for 24 weeks. The primary endpoint was change in mean ambulatory SBP. Secondary outcomes included changes in eGFR, urinary albumin-to-creatinine ratio (UACR), diastolic BP, and plasma renin and aldosterone levels. Twenty-four-hour urinary sodium excretion was measured for adherence verification.
+
+Results:
+Of 240 randomized participants, 227 completed the study (mean age 62.5 ± 10.1 years; 59% male). Mean urinary sodium excretion decreased by 1.8 ± 0.7 g/day in the intervention group versus 0.4 ± 0.6 g/day in controls (p < 0.001). At week 24, the low-sodium group achieved a greater reduction in mean ambulatory SBP (–8.7 ± 9.1 mmHg vs. –3.2 ± 8.3 mmHg; between-group difference = –5.5 mmHg; 95% CI: –7.9 to –3.1; p < 0.001). Diastolic BP also decreased significantly (–3.4 mmHg; p = 0.02). eGFR remained stable between groups (mean difference = –0.3 mL/min/1.73 m²; p = 0.56), while UACR declined by 24% in the low-sodium group (p = 0.01). Plasma renin and aldosterone levels increased modestly but within physiologic ranges. No episodes of hyperkalemia or hypotension were reported.
+
+Conclusions:
+Moderate sodium restriction significantly lowered systolic and diastolic blood pressure and reduced albuminuria without affecting renal function in patients with early-stage CKD. These results reinforce dietary sodium reduction as an effective, safe, and scalable intervention to improve cardiovascular and renal outcomes in this population.

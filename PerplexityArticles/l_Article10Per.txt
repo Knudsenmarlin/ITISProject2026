@@ -1,0 +1,13 @@
+Title: Impact of Intranasal Ketamine on Treatment‑Resistant Depression: A Double‑Blind, Randomized Controlled Trial
+
+Background:
+Treatment‑resistant depression (TRD) remains a significant clinical challenge, with limited rapid‑acting therapeutic options. Ketamine, an N‑methyl‑D‑aspartate (NMDA) receptor antagonist, has shown promise in producing rapid antidepressant effects. However, evidence comparing intranasal ketamine to placebo under rigorous randomized conditions remains limited. This study evaluated the efficacy, safety, and tolerability of intranasal ketamine in adults with TRD.
+
+Methods:
+In this multicenter, double‑blind, placebo‑controlled randomized clinical trial conducted across four psychiatric centers in Denmark between January 2024 and March 2025, adults aged 18–65 years with major depressive disorder nonresponsive to at least two antidepressant trials were enrolled. Participants (n = 196) were randomly assigned (1:1) to receive either intranasal ketamine (56 mg twice weekly) or placebo for 4 weeks, in addition to ongoing stable antidepressant therapy. The primary outcome was change in Montgomery–Åsberg Depression Rating Scale (MADRS) score from baseline to day 28. Secondary outcomes included clinical response (≥50% reduction in MADRS), remission (MADRS ≤10), anxiety symptoms (Hospital Anxiety and Depression Scale–Anxiety, HADS‑A), and safety endpoints. Analyses were performed using mixed‑effects models for repeated measures.
+
+Results:
+At day 28, the ketamine group demonstrated a significantly greater reduction in MADRS score (mean difference –8.9 points; 95% CI: –11.6 to –6.2; p < 0.001) compared with placebo. Clinical response occurred in 54% of ketamine‑treated patients versus 26% in the placebo group (odds ratio 3.4; 95% CI: 1.8–6.2; p < 0.001), and remission in 22% versus 8% (p = 0.02), respectively. Improvements in HADS‑A were also greater for ketamine (mean difference –4.1; p = 0.004). Adverse events were generally transient, including mild dissociation (17%) and nausea (9%), with no serious safety concerns reported.
+
+Conclusions:
+Intranasal ketamine produced rapid and clinically meaningful antidepressant effects in adults with TRD, with acceptable tolerability and safety. The findings support intranasal ketamine as an effective adjunctive option for patients with limited response to conventional antidepressants. Long‑term follow‑up studies are warranted to determine durability of response and optimal maintenance strategies.

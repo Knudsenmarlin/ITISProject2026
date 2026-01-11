@@ -1,0 +1,13 @@
+Title: Comparative Effectiveness of Telehealth-Based Cardiac Rehabilitation Versus Center-Based Programs in Post–Myocardial Infarction Patients: A Randomized Controlled Trial
+
+Background:
+Participation in traditional center-based cardiac rehabilitation (CBCR) remains suboptimal due to logistical and accessibility barriers. Advances in telemedicine have enabled the development of telehealth-based cardiac rehabilitation (THCR) programs that combine remote monitoring and virtual exercise supervision. This study evaluated the effectiveness of THCR compared with standard CBCR in improving functional capacity, quality of life, and cardiovascular risk profiles in adults recovering from acute myocardial infarction (AMI).
+
+Methods:
+A multicenter, parallel-group, open-label, randomized controlled trial was conducted at three cardiac centers in Denmark between February 2023 and January 2025. Adults aged 35–80 years within 6 weeks of an index AMI were randomly assigned (1:1) to receive either a 12-week THCR program delivered via a monitored mobile health platform or standard CBCR. Both programs included exercise sessions, medication review, and lifestyle counseling. The primary endpoint was change in peak oxygen consumption (VO₂peak, mL/kg/min) at 12 weeks. Secondary outcomes included changes in the 6-minute walk distance (6MWD), health-related quality of life (EQ-5D-5L), lipid profile, blood pressure, and adherence rates. All analyses followed an intention-to-treat approach using mixed-effects models.
+
+Results:
+Of the 298 enrolled patients (mean age 59.8 ± 9.4 years; 76% male), 283 completed the 12-week assessment. The THCR group demonstrated noninferior improvement in VO₂peak compared with CBCR (mean change +3.4 ± 2.8 vs. +3.6 ± 3.0 mL/kg/min; adjusted mean difference –0.2 [95% CI: –0.8 to 0.5]; p for noninferiority < 0.001). Similarly, 6MWD increased significantly in both groups (+48 m vs. +52 m; p = 0.41). Quality-of-life scores improved comparably (+0.12 vs. +0.13; p = 0.63). Adherence was higher in the THCR group (89% vs. 77%; p = 0.01), and no significant between-group differences in adverse cardiovascular events were observed.
+
+Conclusions:
+Telehealth-based cardiac rehabilitation produced improvements in functional capacity and quality of life comparable to traditional center-based programs, with significantly higher adherence and accessibility. These findings support the use of telehealth delivery as a viable and scalable alternative for post–myocardial infarction care, particularly in patients facing geographical or logistical barriers to in-person participation.

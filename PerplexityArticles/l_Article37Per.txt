@@ -1,0 +1,11 @@
+Title: Efficacy and Safety of a Digital Cognitive Behavioral Therapy Intervention for Insomnia in Adults: A Randomized Controlled Trial
+
+Abstract:
+
+Background: Insomnia is among the most prevalent sleep disorders globally, contributing to reduced quality of life, impaired cognitive function, and increased healthcare utilization. Digital delivery of cognitive behavioral therapy for insomnia (dCBT-I) has emerged as an accessible alternative to traditional face-to-face interventions, but real-world effectiveness and safety data remain limited.
+
+Methods: In this multicenter, parallel-group, randomized controlled trial, 428 adults aged 18–70 years with chronic insomnia were assigned to receive either a 6-week digital CBT-I program (n = 214) or sleep hygiene education (SHE; n = 214). The primary outcome was the change in the Insomnia Severity Index (ISI) from baseline to week 8. Secondary outcomes included changes in sleep efficiency (via actigraphy), fatigue severity, anxiety, depression symptoms (HADS), and global functioning (SF-36). Safety was evaluated by tracking adverse events and treatment-emergent sleep disturbances.
+
+Results: Participants receiving dCBT-I showed a mean ISI reduction of −8.9 points (SD 5.2) versus −3.1 points (SD 4.8) in the SHE control group (p < 0.001). Improvements were also observed in sleep efficiency (+12.3% vs. +4.5%, p < 0.001), daytime fatigue, and mood symptoms. Clinically significant insomnia remission (ISI ≤ 7) was achieved in 46% of the dCBT-I group compared with 18% of controls (p < 0.001). No serious adverse events were reported, and dropout rates were similar between groups (11% vs. 13%).
+
+Conclusion: The digital CBT-I intervention demonstrated significant efficacy in reducing insomnia symptoms and improving secondary measures of sleep and mental health compared to sleep hygiene education. These findings support the integration of dCBT-I into routine primary care as an effective, low-risk, scalable treatment option for insomnia.

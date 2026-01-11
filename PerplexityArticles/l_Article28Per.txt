@@ -1,0 +1,14 @@
+Title: Impact of Daily Step Count on Glycemic Control and Cardiovascular Risk Factors in Adults With Type 2 Diabetes: A Prospective Randomized Controlled Trial
+
+Background:
+Physical inactivity is a key modifiable risk factor in type 2 diabetes mellitus (T2DM). While structured exercise improves glycemic control, adherence remains challenging. Wearable devices that encourage step-based activity could provide a feasible intervention to improve metabolic outcomes. This study investigated whether increasing daily step count via wearable activity tracking improves glycemic control and cardiovascular risk markers in adults with T2DM.
+
+Methods:
+This open-label, parallel-group, randomized controlled trial was conducted at three urban endocrinology clinics in Denmark between January 2023 and June 2025. Adults aged 40–75 years with T2DM (HbA1c 7.0–10.0%) on stable oral therapy were randomized 1:1 to receive either step-count feedback and coaching using a wearable fitness tracker (intervention group) or usual care with standard lifestyle counseling (control). The intervention aimed to achieve ≥10,000 daily steps for 24 weeks. The primary endpoint was change in HbA1c from baseline to 24 weeks. Secondary endpoints included changes in body mass index (BMI), systolic blood pressure (SBP), lipid profile, and quality of life (SF-12). Intention-to-treat analysis was performed using mixed-effects models.
+
+Results:
+A total of 280 participants were enrolled (mean age 58.4 ± 8.2 years; 49% female). At 24 weeks, the intervention group recorded a mean step count increase of +3,800 steps/day (95% CI, +2,900 to +4,700; p < 0.001). HbA1c decreased by –0.9% ± 0.7 in the intervention group versus –0.4% ± 0.6 in controls (mean difference –0.5%, 95% CI, –0.7 to –0.3; p < 0.001). SBP decreased by 6.3 mmHg (p = 0.02) and BMI by 1.1 kg/m² (p = 0.01). HDL cholesterol increased slightly (+0.08 mmol/L; p = 0.04), whereas triglycerides decreased by 0.18 mmol/L (p = 0.03). Quality-of-life scores improved significantly in the intervention arm (p = 0.01). No hypoglycemic events or adverse effects were reported.
+
+Conclusions:
+Increasing daily step count through wearable-based feedback and lifestyle coaching significantly improved glycemic control, blood pressure, and lipid profile in adults with type 2 diabetes over 24 weeks. These findings suggest that step-tracking interventions are effective, safe, and scalable tools for enhancing cardiometabolic health in primary care settings.
+

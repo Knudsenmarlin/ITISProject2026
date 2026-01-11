@@ -1,0 +1,10 @@
+Title: Impact of a Digital Cognitive Behavioral Therapy Program on Insomnia Severity and Daytime Functioning: A Randomized Controlled Trial
+
+Background: Digital cognitive behavioral therapy for insomnia (dCBT-I) offers scalable access to evidence-based treatment, but long-term clinical efficacy data compared with standard sleep hygiene education remain limited. This study evaluated the efficacy and safety of a clinician-supervised dCBT-I program in adults with chronic insomnia.
+
+Methods: A prospective, parallel-group, randomized controlled trial was conducted across three European sleep centers between March 2022 and September 2025. Adults aged 21–65 years meeting DSM-5 criteria for chronic insomnia were randomized 1:1 to receive an 8-week dCBT-I intervention or standard sleep hygiene education via an online platform. The primary outcome was change in Insomnia Severity Index (ISI) score at 8 weeks. Secondary endpoints included sleep efficiency (measured by actigraphy), daytime fatigue (Epworth Sleepiness Scale), mood (PHQ-9), and patient satisfaction. Treatment adherence and adverse events were also assessed.
+
+Results: A total of 524 participants were randomized, and 496 completed post-treatment assessment. At week 8, mean ISI scores improved by −10.1 points (95% CI, −10.9 to −9.3) in the dCBT-I group versus −4.3 points (95% CI, −5.0 to −3.5) in the control group (p < 0.001). Participants receiving dCBT-I also demonstrated significant improvements in actigraphic sleep efficiency (+9.6%), daytime fatigue (−3.2 points), and depressive symptoms (−2.8 points) compared with controls. Treatment adherence exceeded 80%, with no serious adverse events reported. At 6-month follow-up, treatment benefits were sustained.
+
+Conclusions: Clinician-supervised digital CBT for insomnia produced clinically meaningful and durable reductions in insomnia severity and daytime impairment compared with standard sleep hygiene education. The findings support broader implementation of digital behavioral interventions as first-line treatments for chronic insomnia.
+

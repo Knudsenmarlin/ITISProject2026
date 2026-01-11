@@ -1,0 +1,14 @@
+Title: Efficacy of Omega-3 Fatty Acid Supplementation in Reducing Depressive Symptoms Among Adults With Major Depressive Disorder: A Double-Blind Randomized Controlled Trial
+
+Background:
+Major depressive disorder (MDD) is a leading cause of disability worldwide. Inflammation and altered lipid metabolism have been implicated in its pathophysiology, suggesting potential therapeutic benefits of omega-3 polyunsaturated fatty acids (n-3 PUFAs). Prior studies have produced inconsistent results due to heterogeneity in formulation and dosage. This trial evaluated the efficacy of high-dose eicosapentaenoic acid (EPA)-dominant omega-3 supplementation as adjunctive therapy in adults with MDD.
+
+Methods:
+This double-blind, placebo-controlled, parallel-group randomized clinical trial was conducted at three psychiatric centers in Denmark between April 2023 and February 2025. Adults aged 18–65 years meeting DSM-5 criteria for MDD and receiving stable antidepressant therapy for ≥6 weeks were randomized 1:1 to receive either 4 g/day of omega-3 fatty acids (3.2 g EPA, 0.8 g docosahexaenoic acid [DHA]) or placebo for 12 weeks. The primary outcome was change in Montgomery–Åsberg Depression Rating Scale (MADRS) score from baseline to week 12. Secondary outcomes included clinical response (≥50% MADRS reduction), remission (MADRS ≤10), inflammation markers (CRP, IL-6), and adverse events. Data were analyzed using mixed-effects models under an intention-to-treat framework.
+
+Results:
+A total of 276 participants were randomized (n=138 per group; mean age 43.5 ± 11.7 years; 62% female). At week 12, participants receiving omega-3 supplementation exhibited a greater reduction in MADRS score compared with placebo (mean difference –4.8 points; 95% CI –6.9 to –2.7; p < 0.001). Clinical response was achieved in 54% of the omega-3 group versus 32% of the placebo group (odds ratio 2.54; p = 0.003), and remission in 23% versus 12%, respectively (p = 0.04). Serum CRP and IL-6 concentrations decreased significantly in the omega-3 group (p < 0.05 for both), consistent with an anti-inflammatory effect. Adverse events were mild and similar between groups, predominantly gastrointestinal discomfort.
+
+Conclusions:
+High-dose EPA-rich omega-3 fatty acid supplementation significantly improved depressive symptoms and inflammatory profiles when used as adjunctive therapy in patients with MDD. These findings support the role of omega-3 PUFAs as a safe and effective addition to conventional pharmacologic treatment. Further studies should assess long-term maintenance effects and identify subgroups most likely to benefit.
+

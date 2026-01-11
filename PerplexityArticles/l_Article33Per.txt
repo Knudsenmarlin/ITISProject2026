@@ -1,0 +1,13 @@
+Title: Effects of Mediterranean Diet Intervention on Cognitive Decline in Older Adults at Risk for Dementia: A Randomized Controlled Trial
+
+Background:
+Dietary patterns rich in monounsaturated fats, polyphenols, and antioxidants—such as the Mediterranean diet—are associated with reduced risk of neurodegenerative disease. However, evidence from randomized controlled trials on cognitive outcomes remains limited. This study investigated whether adherence to a Mediterranean diet slows cognitive decline compared with usual dietary care in older adults with mild cognitive impairment (MCI).
+
+Methods:
+This 18‑month, single‑blind, parallel‑group randomized controlled trial was conducted at three memory clinics in Denmark between January 2023 and April 2025. Adults aged 60–80 years with diagnosed MCI (Petersen criteria, MMSE ≥ 24) were randomized (1:1) to either a Mediterranean diet intervention supported by nutritional counseling and monthly cooking workshops or to a control group receiving general healthy‑eating advice. The primary outcome was change in global cognitive function assessed by the Alzheimer’s Disease Assessment Scale–Cognitive Subscale (ADAS‑Cog). Secondary outcomes included memory and executive function scores, serum antioxidant levels, lipid profile, and inflammatory biomarkers (CRP, IL‑6). Dietary adherence was tracked using a 14‑item Mediterranean Diet Score (MDS). Analyses followed the intention‑to‑treat principle using mixed‑effects linear models.
+
+Results:
+Of 360 participants randomized (intervention = 180; control = 180), 334 completed follow‑up. Mean age was 69.2 ± 6.1 years; 58% were female. At 18 months, the Mediterranean diet group exhibited a smaller increase in ADAS‑Cog score (1.1 ± 3.2 vs 2.9 ± 3.5; between‑group difference = –1.8; 95% CI: –2.6 to –1.0; p < 0.001), indicating less cognitive decline. Improvements were observed in memory recall (+0.7 ± 1.3 points; p = 0.01) and executive function (p = 0.03). MDS increased significantly in the intervention group (+4.5 ± 1.8 vs +0.8 ± 1.5; p < 0.001). Reductions were seen in serum IL‑6 (–18%; p = 0.02) and CRP (–15%; p = 0.03), alongside modest HDL increases (+0.09 mmol/L; p = 0.04). No significant between‑group differences were seen in BMI or total cholesterol. Adherence exceeded 85%, with no diet‑related adverse events.
+
+Conclusions:
+Implementation of a Mediterranean diet intervention over 18 months significantly attenuated cognitive decline and improved inflammatory and metabolic profiles in older adults with mild cognitive impairment. These findings support dietary modification as a low‑risk, non‑pharmacological approach to slowing progression toward dementia.

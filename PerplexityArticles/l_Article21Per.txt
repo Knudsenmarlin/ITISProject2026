@@ -1,0 +1,13 @@
+Title: Effect of Mindfulness-Based Cognitive Therapy on Chronic Pain and Psychological Distress in Patients With Fibromyalgia: A Randomized Controlled Trial
+
+Background:
+Fibromyalgia is a chronic pain syndrome characterized by widespread musculoskeletal pain, fatigue, and psychological distress. Pharmacologic therapies often provide limited relief, prompting interest in mind–body interventions such as mindfulness-based cognitive therapy (MBCT). This study evaluated the efficacy of MBCT on pain severity, functional impairment, and psychological well-being among adults with fibromyalgia.
+
+Methods:
+This single-blind, parallel-group randomized controlled trial was conducted between June 2023 and May 2025 at a tertiary rheumatology center in Denmark. Adults aged 25–65 years fulfilling the 2016 American College of Rheumatology criteria for fibromyalgia were randomized (1:1) to receive either an 8-week MBCT program (weekly 2-hour sessions plus daily home practice) or an active control intervention involving supportive group education. The primary outcome was change in average pain intensity (Numerical Rating Scale, NRS 0–10) at 8 weeks. Secondary outcomes included Fibromyalgia Impact Questionnaire–Revised (FIQR), Perceived Stress Scale (PSS-10), Hospital Anxiety and Depression Scale (HADS), sleep quality (Pittsburgh Sleep Quality Index, PSQI), and follow-up measures at 3 months post-intervention. Intention-to-treat analyses used mixed-effects linear models adjusted for baseline values.
+
+Results:
+A total of 210 participants were enrolled (mean age 47.6 ± 8.3 years; 83% female). At 8 weeks, the MBCT group reported greater reductions in pain intensity (–1.9 ± 1.7 vs. –0.8 ± 1.5 points in controls; mean difference –1.1, 95% CI –1.6 to –0.6; p < 0.001). Improvements were also observed in functional status (ΔFIQR –12.4 vs. –5.6; p = 0.002), stress (ΔPSS –4.8 vs. –2.0; p = 0.01), and HADS anxiety score (–3.2 vs. –1.5; p = 0.03). Sleep quality improved modestly (p = 0.04). Benefits persisted at 3-month follow-up with no major adverse events. Adherence to MBCT sessions was 88%, and participant satisfaction exceeded 90%.
+
+Conclusions:
+Mindfulness-based cognitive therapy significantly reduced pain severity, stress, and functional impairment in adults with fibromyalgia compared with an active control. These findings highlight MBCT as a safe and effective adjunctive intervention that addresses both physical and emotional aspects of fibromyalgia. Larger trials are warranted to confirm durability and mechanisms of effect.

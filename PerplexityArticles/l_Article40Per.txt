@@ -1,0 +1,12 @@
+Title: Impact of Early Nutritional Intervention on Functional Recovery after Ischemic Stroke: A Randomized Controlled Trial
+
+Abstract:
+
+Background: Malnutrition and unintentional weight loss are common among patients recovering from ischemic stroke and are associated with poorer neurological outcomes, prolonged hospitalization, and increased mortality. Early nutritional intervention may enhance recovery, yet evidence from randomized controlled trials remains limited. This study assessed the effect of individualized dietary counseling initiated during the acute phase of stroke on functional recovery and nutritional status.
+
+Methods: In this multicenter, assessor-blinded, randomized controlled trial, 360 adults admitted within 72 hours of ischemic stroke onset were recruited from six tertiary hospitals in Denmark. Participants were randomly assigned (1:1) to receive either early individualized nutritional intervention from a registered dietitian (ENI; n = 180) or standard hospital diet (SHD; n = 180). The ENI group underwent dietary planning emphasizing caloric sufficiency, protein optimization, and micronutrient adequacy for 12 weeks post-discharge. The primary endpoint was improvement in the Modified Rankin Scale (mRS) at 3 months. Secondary outcomes included nutritional risk screening (NRS-2002), muscle mass (bioimpedance analysis), handgrip strength, and 3-month readmission rates. Adverse events and adherence were monitored.
+
+Results: Of the 360 randomized participants, 342 (95.0%) completed the 3-month follow-up. The ENI group showed greater functional recovery, with 61.4% achieving favorable mRS scores (≤2) compared with 44.7% in the SHD group (adjusted odds ratio 2.12, 95% CI 1.34–3.36, p = 0.001). Mean handgrip strength increased by 4.6 kg versus 1.9 kg in controls (p = 0.004). Moderate-to-severe malnutrition rates declined from 38% to 14% in the ENI group versus 37% to 26% in controls (p = 0.009). Readmission rates were lower among ENI participants (8.8% vs. 15.5%, p = 0.03). No adverse events related to the intervention were reported. Participant adherence to prescribed nutrition plans exceeded 85%.
+
+Conclusion: Early individualized nutritional counseling initiated during the acute phase of ischemic stroke significantly improved functional outcomes, nutritional status, and reduced readmissions. These findings highlight the importance of integrating dietary assessment and targeted intervention into standard post-stroke care to optimize recovery trajectories.
+

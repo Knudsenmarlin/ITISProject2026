@@ -1,0 +1,13 @@
+Title: Efficacy of High-Dose Vitamin D Supplementation on Fatigue and Cognitive Function in Post-COVID-19 Patients: A Randomized Controlled Trial
+
+Background:
+Persistent fatigue and cognitive impairment are common sequelae of post-acute COVID-19 syndrome ("long COVID"). Emerging evidence suggests a potential link between vitamin D deficiency and neuroinflammatory processes contributing to these symptoms. However, the therapeutic role of vitamin D supplementation in symptom remission among post-COVID-19 patients remains unclear. This study aimed to evaluate the efficacy of high-dose vitamin D supplementation in improving fatigue and cognitive function in adults with long COVID.
+
+Methods:
+This double-blind, placebo-controlled randomized clinical trial was conducted at two tertiary hospitals in the Capital Region of Denmark between May 2024 and March 2025. A total of 312 participants (mean age 44.1 ± 10.9 years; 61% female) with persistent fatigue (>3 months post-COVID-19) and serum 25(OH)D <50 nmol/L were enrolled and randomized (1:1) to receive either weekly oral vitamin D3 (50,000 IU) or placebo for 12 weeks. Primary outcomes included changes in fatigue severity (Fatigue Assessment Scale, FAS) and cognitive performance (Montreal Cognitive Assessment, MoCA). Secondary outcomes included mood (Patient Health Questionnaire-9, PHQ-9), inflammatory biomarkers (IL-6, CRP), and serum vitamin D levels. Outcomes were analyzed using mixed-effects models adjusted for baseline covariates.
+
+Results:
+After 12 weeks, the vitamin D group showed significantly greater improvement in fatigue (mean FAS reduction –6.3; 95% CI: –8.5 to –4.1) compared with placebo (–2.1; 95% CI: –3.9 to –0.4; p < 0.001). Cognitive scores improved by +2.4 points (95% CI: 1.1 to 3.7; p = 0.002) relative to placebo. Serum IL-6 and CRP levels were reduced by 18% and 21%, respectively, in the treatment group (p < 0.05). No significant changes in mood were detected, and adverse events were mild and transient.
+
+Conclusions:
+High-dose vitamin D supplementation improved fatigue and cognitive function and modestly reduced inflammatory markers in patients with post-COVID-19 symptoms. These findings suggest vitamin D may play an adjunctive therapeutic role in long COVID recovery, particularly among individuals with baseline deficiency. Further studies with larger sample sizes and longer follow-ups are warranted to confirm long-term benefits and optimal dosing regimens.

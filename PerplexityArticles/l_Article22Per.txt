@@ -1,0 +1,13 @@
+Title: Effects of High‑Intensity Interval Training on Cardiorespiratory Fitness and Insulin Sensitivity in Adults With Prediabetes: A Randomized Controlled Trial
+
+Background:
+Prediabetes is a major risk factor for the development of type 2 diabetes and cardiovascular disease. Lifestyle modification remains the cornerstone of prevention, but adherence to moderate‑intensity exercise programs is often suboptimal. High‑intensity interval training (HIIT) has emerged as an efficient alternative with potential metabolic benefits. This study investigated whether a 12‑week HIIT intervention improves insulin sensitivity and cardiorespiratory fitness compared with moderate‑intensity continuous training (MICT) in adults with prediabetes.
+
+Methods:
+This single‑blind, two‑center, randomized controlled trial was conducted in Copenhagen and Aarhus, Denmark, from February 2023 to July 2025. Adults aged 30–65 years with fasting glucose 5.6–6.9 mmol/L or HbA1c 5.7–6.4% were randomized (1:1) to either a supervised HIIT program (4 × 4‑minute intervals at 85–95% HRmax, three sessions per week) or an isocaloric MICT program (40 minutes at 60–70% HRmax, three sessions per week) for 12 weeks. The primary outcome was change in insulin sensitivity assessed by the homeostatic model assessment of insulin resistance (HOMA‑IR). Secondary outcomes included maximal oxygen uptake (VO₂max), fasting glucose, HbA1c, lipid profile, body composition, and quality of life (SF‑36). Analyses were conducted on an intention‑to‑treat basis using mixed‑effects models.
+
+Results:
+A total of 240 participants were randomized (HIIT: n = 120; MICT: n = 120), with 225 completing the intervention (94% retention). After 12 weeks, the HIIT group demonstrated a significantly greater improvement in insulin sensitivity than the MICT group (mean ΔHOMA‑IR –1.4 ± 0.9 vs. –0.8 ± 0.7; between‑group difference –0.6 [95% CI –0.9 to –0.3]; p < 0.001). VO₂max increased by 4.6 ± 2.1 mL kg⁻¹ min⁻¹ in the HIIT group compared with 2.9 ± 1.8 mL kg⁻¹ min⁻¹ in the MICT group (p = 0.002). Both groups showed modest but significant improvements in fasting glucose and HbA1c without intergroup differences. Reductions in body fat percentage were greater with HIIT (–2.8% vs. –1.6%; p = 0.01). No major adverse events occurred, and adherence exceeded 88% across groups.
+
+Conclusions:
+A 12‑week HIIT regimen resulted in superior improvements in insulin sensitivity, aerobic capacity, and body composition compared with MICT in adults with prediabetes. HIIT appears to be a safe and time‑efficient exercise strategy for diabetes prevention and metabolic health enhancement. Long‑term trials are warranted to determine sustainability and cardiovascular outcomes.

@@ -1,0 +1,13 @@
+Title: Effects of a Digital Cognitive Behavioral Therapy Intervention on Sleep Quality and Anxiety in Adults With Insomnia: A Randomized Controlled Trial
+
+Background:
+Chronic insomnia affects approximately 10% of the general population and is strongly associated with heightened anxiety and impaired daily functioning. While cognitive behavioral therapy for insomnia (CBT-I) is recommended as the first-line treatment, limited access to qualified therapists restricts availability. Digital CBT-I platforms may offer scalable and effective alternatives; however, real-world evidence comparing their efficacy to standard in-person care remains limited.
+
+Methods:
+In this single-blind, randomized controlled trial conducted across three urban sleep clinics in Denmark, 276 adults (aged 18–65 years) meeting DSM-5 criteria for insomnia were assigned (1:1) to receive either a 6-week digital CBT-I intervention or standard face-to-face CBT-I. Primary outcomes were sleep quality (measured by the Pittsburgh Sleep Quality Index, PSQI) and anxiety symptoms (Generalized Anxiety Disorder-7, GAD-7) assessed at baseline, post-treatment, and 3-month follow-up. Secondary outcomes included sleep onset latency, total sleep time, and adherence rates. Data were analyzed using intention-to-treat models.
+
+Results:
+At 6 weeks, digital CBT-I participants demonstrated a greater reduction in PSQI scores compared with standard CBT-I (mean difference: –2.7 [95% CI: –3.9 to –1.5], p < 0.001). Improvements in anxiety (ΔGAD-7 = –3.1 [–4.5 to –1.7]) and total sleep time (+42 minutes, p = 0.009) were likewise significant. Treatment adherence exceeded 85% for the digital group versus 79% for in-person therapy. Effects were sustained at 3-month follow-up. No serious adverse events were reported.
+
+Conclusions:
+A structured digital CBT-I program significantly improved sleep quality and anxiety symptoms compared with traditional in-person therapy, supporting its role as an effective and accessible therapeutic option for adults with insomnia. Further large-scale and cost-effectiveness studies are warranted to confirm these findings and guide implementation in routine clinical practice.

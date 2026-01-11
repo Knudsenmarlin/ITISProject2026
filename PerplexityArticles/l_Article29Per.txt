@@ -1,0 +1,13 @@
+Title: Effects of a Mobile Health Intervention on Blood Pressure Control in Patients With Hypertension: A Randomized Controlled Trial
+
+Background:
+Despite the availability of effective antihypertensive therapy, blood pressure (BP) control rates remain suboptimal worldwide. Mobile health (mHealth) applications may enhance self‑management by improving medication adherence, self‑monitoring, and lifestyle modification. This study evaluated the impact of an mHealth intervention integrating remote BP monitoring and personalized feedback compared with standard care on systolic BP control in adults with primary hypertension.
+
+Methods:
+This 24‑week, open‑label, parallel‑group, randomized controlled trial was conducted in three outpatient clinics in Denmark between January 2023 and May 2025. Adults aged 30–75 years with diagnosed hypertension (office systolic BP 140–179 mmHg or diastolic BP 90–109 mmHg) receiving stable antihypertensive medication were randomized (1:1) to an mHealth intervention or usual care. The intervention group received a Bluetooth‑enabled BP monitor synchronized to a smartphone application providing automated reminders, lifestyle prompts, and weekly digital feedback from study clinicians. The primary outcome was change in mean systolic BP (SBP) from baseline to 24 weeks. Secondary outcomes included diastolic BP (DBP), medication adherence (Morisky Medication Adherence Scale‑8), body weight, and lifestyle risk factors. Analyses followed the intention‑to‑treat principle using mixed‑effects linear regression.
+
+Results:
+A total of 360 participants were randomized (mean age = 56.7 ± 10.1 years; 52% male). At 24 weeks, the mHealth group achieved a greater reduction in SBP than usual care (–11.4 ± 9.3 mmHg vs. –6.2 ± 8.8 mmHg; mean difference = –5.2 mmHg; 95% CI: –7.6 to –2.8; p < 0.001). DBP reduction was also greater (–6.0 ± 6.8 mmHg vs. –3.4 ± 6.0 mmHg; p = 0.01). Medication adherence scores improved significantly in the intervention group (+1.6 ± 1.2 vs. +0.5 ± 1.1; p < 0.001). Weight reduction (–1.9 kg; p = 0.04) and increased weekly physical activity (+48 minutes; p = 0.01) were observed in the mHealth group only. No serious adverse events occurred.
+
+Conclusions:
+A 24‑week mobile health intervention combining remote blood pressure monitoring with clinician feedback resulted in significantly greater reductions in systolic and diastolic blood pressure compared with standard care. Enhanced adherence and modest lifestyle improvements suggest mHealth platforms can be effective adjuncts in hypertension management. Long‑term studies are warranted to evaluate durability, cost‑effectiveness, and scalability in real‑world clinical settings.

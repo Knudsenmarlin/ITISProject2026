@@ -1,0 +1,13 @@
+Title: Early Use of High‑Flow Nasal Cannula Oxygen Therapy in Acute Hypoxemic Respiratory Failure: A Multicenter Randomized Controlled Trial
+
+Background:
+High‑flow nasal cannula (HFNC) oxygen therapy has gained popularity for managing acute hypoxemic respiratory failure (AHRF), but its effectiveness compared with conventional oxygen therapy (COT) remains uncertain in non‑critical care settings. This study aimed to determine whether early implementation of HFNC improves oxygenation and reduces the need for intubation among adults with AHRF.
+
+Methods:
+This multicenter, open‑label, randomized controlled trial was conducted across six Danish hospitals from March 2023 to April 2025. Adults aged 18 years and older admitted with AHRF (PaO₂/FiO₂ ratio ≤300 mmHg on room air) were randomized (1:1) to receive either HFNC (flow 50–60 L/min, FiO₂ titrated to SpO₂ 92–96%) or COT using standard face masks. The primary endpoint was the proportion of patients requiring endotracheal intubation within 7 days of randomization. Secondary endpoints included improvement in oxygenation (PaO₂/FiO₂ ratio at 24 h), 28‑day mortality, ICU transfer rate, and patient comfort (visual analog scale). Analyses followed the intention‑to‑treat principle using multivariate logistic regression models adjusted for baseline severity (SOFA score) and age.
+
+Results:
+A total of 410 patients were randomized (205 per group; mean age 61.3 ± 12.4 years; 58% male). Intubation occurred in 48 (23.4%) patients in the HFNC group versus 82 (40.0%) in the COT group (relative risk 0.59; 95% CI: 0.43–0.80; p = 0.001). The mean PaO₂/FiO₂ ratio improved more significantly with HFNC (+72 ± 46 vs. +38 ± 41; p < 0.001), and 28‑day mortality was lower in the HFNC group (11.7% vs. 18.5%; p = 0.045). Patients receiving HFNC reported higher comfort scores (7.8 ± 1.1 vs. 6.2 ± 1.4; p < 0.001). No significant differences in ICU length of stay or adverse events were observed between groups.
+
+Conclusions:
+Early application of high‑flow nasal cannula oxygen therapy in adults with acute hypoxemic respiratory failure significantly reduced the need for intubation and improved oxygenation and patient comfort compared with conventional oxygen therapy. These findings support the routine early use of HFNC as a first‑line respiratory support strategy outside the intensive care unit. Further cost‑effectiveness and long‑term outcome evaluations are warranted.
