@@ -1,0 +1,13 @@
+Title: Effect of High-Dose Vitamin D Supplementation on Bone Mineral Density and Fall Risk in Older Adults: A Randomized Controlled Trial
+
+Background:
+Vitamin D plays a key role in calcium homeostasis and bone metabolism, but optimal dosing for fall prevention and bone health in older adults remains uncertain. This study evaluated whether high-dose monthly vitamin D supplementation improves bone mineral density (BMD) and reduces fall risk compared with standard-dose supplementation.
+
+Methods:
+This double-blind, randomized controlled trial was conducted at two geriatric outpatient clinics in Denmark between February 2023 and April 2025. Community-dwelling adults aged ≥65 years with baseline vitamin D insufficiency (serum 25[OH]D 25–50 nmol/L) were assigned (1:1) to receive either high-dose vitamin D₃ (100,000 IU orally every month) or standard-dose vitamin D₃ (24,000 IU monthly) for 12 months. Primary outcomes were change in total hip and lumbar spine BMD measured by dual-energy X-ray absorptiometry (DXA). Secondary outcomes included incidence of falls, serum 25(OH)D concentration, calcium levels, and adverse events. Analyses were conducted on an intention-to-treat basis using linear mixed models and Cox regression.
+
+Results:
+A total of 412 participants were randomized (mean age 73.8 ± 6.4 years; 61% female). At 12 months, mean serum 25(OH)D increased to 102 nmol/L in the high-dose group and 78 nmol/L in the standard-dose group (p < 0.001). Changes in total hip BMD did not differ significantly between groups (–0.8% vs. –0.6%; mean difference –0.2%; 95% CI: –0.5 to 0.1; p = 0.17). Lumbar spine BMD modestly increased in both groups without between-group difference (p = 0.42). Fall incidence was higher in the high-dose group (IRR = 1.34; 95% CI: 1.05–1.71; p = 0.02). Hypercalcemia occurred in two participants (1%) receiving high-dose supplementation, both resolving without complications. No serious adverse drug reactions were observed.
+
+Conclusions:
+Among older adults with vitamin D insufficiency, monthly high-dose vitamin D₃ supplementation did not improve bone mineral density compared with a standard dose and was associated with an increased risk of falls. These findings suggest that standard-dose vitamin D replacement remains adequate for bone health in this population, and excessive dosing should be avoided.

@@ -1,0 +1,13 @@
+Title: Efficacy of Sleep Hygiene Education and Cognitive Behavioral Therapy for Insomnia in Shift Workers: A Randomized Controlled Trial
+
+Background:
+Shift work disrupts circadian rhythms and is a recognized risk factor for chronic insomnia, fatigue, and reduced occupational performance. While cognitive behavioral therapy for insomnia (CBT‑I) is effective in the general population, evidence supporting its tailored use for shift workers is limited. This study examined the efficacy of combined CBT‑I and sleep hygiene education (SHE) intervention versus standard health education (HE) in improving sleep quality and daytime functioning among rotating shift workers.
+
+Methods:
+This parallel‑group, assessor‑blinded, randomized controlled trial was conducted at two occupational health centers in Denmark from March 2023 to May 2025. Adult rotating shift workers (ages 20–60) with diagnosed insomnia disorder (DSM‑5 criteria) were randomized 1:1 to receive either an 8‑week structured CBT‑I + SHE program or HE sessions focusing on general health and stress management. The primary outcome was improvement in sleep quality measured by the Pittsburgh Sleep Quality Index (PSQI) at week 8. Secondary outcomes included insomnia severity (Insomnia Severity Index, ISI), actigraphy‑measured total sleep time (TST), fatigue (Multidimensional Fatigue Inventory, MFI‑20), and work productivity (Work Limitations Questionnaire, WLQ). Data were analyzed on an intention‑to‑treat basis using mixed‑effects regression.
+
+Results:
+A total of 260 participants (mean age = 39.5 ± 8.2 years; 58% female) were randomized (CBT‑I + SHE = 130; HE = 130). At 8 weeks, PSQI scores decreased significantly in the CBT‑I + SHE group compared with HE (mean difference = –3.9; 95% CI: –4.8 to –3.0; p < 0.001). ISI scores declined by –8.2 ± 4.1 versus –3.5 ± 3.9 (p < 0.001). Actigraphy showed an increase in mean nightly TST of +43 minutes in the intervention group versus +11 minutes in controls (p = 0.006). Fatigue reduction (ΔMFI‑20 = –7.1; p = 0.01) and self‑reported work productivity improvement (p = 0.03) were also significant. Benefits persisted at 3‑month follow‑up in exploratory analyses. No adverse events were reported.
+
+Conclusions:
+A combined program of CBT‑I and sleep hygiene education significantly improved subjective and objective sleep outcomes, reduced fatigue, and enhanced work functioning among shift workers with insomnia. These findings support the integration of structured behavioral sleep interventions into occupational health programs for shift‑working populations. Future work should assess cost‑effectiveness and scalability in broader workplace settings.

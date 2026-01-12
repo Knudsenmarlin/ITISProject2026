@@ -1,0 +1,13 @@
+Title: Impact of Virtual Reality–Based Physical Therapy on Post-Stroke Motor Recovery: A Randomized Controlled Trial
+
+Background:
+Stroke remains a leading cause of long-term disability worldwide, with motor impairment being a major determinant of functional outcome. Conventional rehabilitation can be resource-intensive and limited by patient engagement. Virtual reality–based physical therapy (VRPT) offers an interactive and motivational modality that may enhance neuroplasticity and functional improvement. This study evaluated the efficacy of VRPT compared with standard physical therapy (SPT) in improving upper-limb motor recovery after ischemic stroke.
+
+Methods:
+This single-blind, randomized controlled trial was conducted at three rehabilitation centers in Denmark between February 2023 and May 2025. Adults aged 40–80 years with first-ever ischemic stroke and persistent upper-limb motor deficits (Fugl-Meyer Upper Extremity [FM-UE] score 20–50) within 3 months post-stroke were randomly assigned (1:1) to a 6-week VRPT intervention or an equal-duration SPT program. The VRPT group performed task-specific and gamified exercises using motion-capture systems, while the SPT group received traditional therapist-guided exercises. The primary outcome was change in FM-UE score at week 6. Secondary outcomes included hand-grip strength, Modified Barthel Index (MBI), quality of life (EQ-5D-5L), and adherence. Analyses used mixed-effects models under an intention-to-treat framework.
+
+Results:
+A total of 238 participants were enrolled (mean age 64.3 ± 9.1 years; 46% female). At 6 weeks, the VRPT group achieved greater improvement in FM-UE score (mean change +12.8 ± 7.5) compared with SPT (+8.6 ± 6.9; between-group difference +4.2 points; 95% CI: 2.5–5.8; p < 0.001). Significant between-group differences were also observed in hand-grip strength (+3.9 kg; p = 0.02) and MBI (+8.4 points; p = 0.01). Quality-of-life improvement favored VRPT (+0.09 vs. +0.05; p = 0.04). Adherence exceeded 90% in both groups, with higher patient satisfaction reported in the VRPT arm (87% vs. 72%; p = 0.02). No adverse events related to intervention occurred.
+
+Conclusions:
+Virtual reality–based physical therapy led to significantly greater upper-limb motor improvement and functional recovery than standard therapy among patients recovering from subacute ischemic stroke. The findings suggest VRPT is a safe, engaging, and effective adjunct to conventional rehabilitation, with potential to enhance accessibility and patient motivation in post-stroke care.

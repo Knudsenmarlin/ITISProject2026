@@ -1,0 +1,13 @@
+Title: The Effect of Continuous Glucose Monitoring on Glycemic Control in Patients With Type 1 Diabetes Using Multiple Daily Injections: A Randomized Controlled Trial
+
+Background:
+Continuous glucose monitoring (CGM) provides real-time blood glucose data and has been shown to improve glycemic outcomes in patients using insulin pumps. However, evidence remains limited for individuals managing type 1 diabetes (T1D) with multiple daily injections (MDI). This study evaluated whether real-time CGM improves glycemic control compared with standard self-monitoring of blood glucose (SMBG) in adults with T1D on MDI therapy.
+
+Methods:
+This open-label, multicenter, parallel-group randomized controlled trial was conducted in three diabetes clinics in Denmark between February 2023 and April 2025. Adults aged 18–70 years with T1D for ≥1 year, HbA1c 7.0–10.0%, and using MDI were randomized (1:1) to receive either CGM using a Dexcom G7 device or standard SMBG for 26 weeks. Both groups received structured education on glucose monitoring and insulin adjustment. The primary outcome was change in HbA1c from baseline to week 26. Secondary outcomes included time in range (TIR, 3.9–10.0 mmol/L), time below range (TBR < 3.9 mmol/L), glycemic variability, and treatment satisfaction (Diabetes Treatment Satisfaction Questionnaire, DTSQ). Intention-to-treat analyses were performed using mixed-effects models.
+
+Results:
+A total of 310 participants were enrolled (155 per group; mean age = 43.6 ± 12.1 years; 51% male). At 26 weeks, HbA1c decreased by –0.7 ± 0.5% in the CGM group compared with –0.3 ± 0.5% in the SMBG group (mean between‑group difference = –0.4%; 95% CI: –0.5 to –0.2; p < 0.001). CGM users achieved greater mean TIR (68.4% ± 9.6 vs. 56.1% ± 10.3; p < 0.001) and less TBR (2.6% ± 1.8 vs. 4.1% ± 2.1; p = 0.01). Glycemic variability (standard deviation of glucose) improved by 16%. Patient satisfaction was significantly higher in the CGM group (p < 0.001). No severe hypoglycemia or serious device‑related adverse events occurred.
+
+Conclusions:
+Among adults with type 1 diabetes using multiple daily insulin injections, continuous glucose monitoring resulted in clinically significant improvements in glycemic outcomes, reduced hypoglycemia, and enhanced treatment satisfaction compared with standard blood glucose monitoring. These findings support wider adoption of CGM technology in the management of adults with T1D treated with MDI.

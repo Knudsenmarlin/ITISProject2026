@@ -1,0 +1,11 @@
+Title: Effect of Combined Aerobic and Resistance Exercise on Glycemic Control and Vascular Function in Patients with Type 2 Diabetes: A Randomized Controlled Trial
+
+Abstract:
+
+Background: Type 2 diabetes mellitus (T2DM) is associated with poor glycemic control and increased cardiovascular risk. While aerobic and resistance training independently improve metabolic health, data on their synergistic effect on vascular function remain limited. This study evaluated the efficacy of a combined exercise intervention on glycemic control and endothelial function in adults with T2DM.
+
+Methods: We conducted a 24-week, single-blind, randomized controlled trial across three tertiary centers in Denmark. A total of 312 adults aged 40–70 years with T2DM (HbA1c 7.0–10.0%) were randomized (1:1) to either a combined aerobic-resistance exercise group (EX; n = 156) or a standard-of-care control group (CON; n = 156). The EX group participated in supervised 60-minute sessions three times weekly, including moderate-intensity aerobic training and progressive resistance exercise. The primary endpoint was change in HbA1c from baseline to 24 weeks. Secondary outcomes included fasting glucose, lipid profile, flow-mediated dilation (FMD), body composition, and quality of life (QoL). Safety endpoints included adverse events and exercise-related complications.
+
+Results: Of 312 participants, 296 (94.9%) completed the intervention. Compared with CON, participants in the EX group achieved a greater mean HbA1c reduction (−1.1% vs. −0.3%, p < 0.001) and significant improvements in FMD (+4.5% vs. +1.2%, p = 0.002), fasting glucose (−1.8 mmol/L vs. −0.5 mmol/L, p = 0.001), and HDL cholesterol (+0.12 mmol/L vs. +0.03 mmol/L, p = 0.018). Body fat percentage decreased by 3.8% in the EX group and 1.1% in CON (p < 0.001). QoL indices improved across physical and emotional domains (p < 0.05). No major adverse events occurred, and minor musculoskeletal discomfort was reported by 9 participants (5.8%) in the EX group.
+
+Conclusion: Combined aerobic and resistance training significantly improved glycemic control, vascular function, and quality of life compared with standard care in adults with T2DM. The intervention was well tolerated, supporting its inclusion as a core component of diabetes management.

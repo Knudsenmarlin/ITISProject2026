@@ -1,0 +1,13 @@
+Title: Effect of Vitamin B12 Supplementation on Cognitive Function in Older Adults With Subclinical Deficiency: A Double-Blind, Randomized Controlled Trial
+
+Background:
+Subclinical vitamin B12 deficiency is common among older adults and has been associated with cognitive decline. Although B12 supplementation is widely used, evidence supporting its cognitive benefits in the absence of overt deficiency remains limited. This trial aimed to evaluate the efficacy of oral vitamin B12 supplementation on cognitive performance, homocysteine levels, and quality of life in older adults with low-normal serum B12 levels.
+
+Methods:
+This double-blind, placebo-controlled, randomized clinical trial was conducted at two geriatric outpatient centers in Denmark between April 2023 and May 2025. Participants aged 65–85 years with serum B12 concentrations between 150–300 pmol/L and without diagnosed dementia were randomized (1:1) to receive either 1000 µg/day of oral methylcobalamin or placebo for 12 months. The primary outcome was change in global cognitive performance measured by the Montreal Cognitive Assessment (MoCA). Secondary outcomes included domain-specific cognitive scores (memory, executive function), plasma homocysteine concentration, depressive symptoms (Geriatric Depression Scale, GDS), and health-related quality of life (SF-12). Data were analyzed using mixed-effects linear models under an intention-to-treat framework.
+
+Results:
+A total of 310 participants were enrolled (B12 group: n=155; placebo: n=155); mean age was 73.1 ± 5.6 years, and 59% were female. After 12 months, the B12 supplementation group demonstrated no significant difference in MoCA score change compared with placebo (mean difference = 0.4 points; 95% CI: –0.2 to 1.0; p = 0.18). However, plasma homocysteine levels decreased significantly (–3.2 µmol/L; 95% CI: –4.1 to –2.4; p < 0.001). No significant changes were observed in memory or executive function domains (p > 0.05). Quality of life and depressive symptom scores improved modestly but not significantly between groups. Adherence exceeded 90%, and no serious adverse events were reported.
+
+Conclusions:
+Vitamin B12 supplementation significantly reduced homocysteine concentrations but did not improve cognitive performance in older adults with subclinical deficiency over 12 months. These findings suggest that routine high-dose B12 supplementation may not confer cognitive benefits in this population unless frank deficiency is present. Long-term studies are warranted to explore potential preventive effects in preclinical cognitive decline.

@@ -1,0 +1,13 @@
+Title: Continuous Glucose Monitoring–Guided Nutrition Counseling and Glycemic Control in Adults With Type 2 Diabetes: A Multicenter Randomized Controlled Trial
+
+Background:
+Despite established benefits of lifestyle modification in type 2 diabetes mellitus (T2DM), adherence to nutritional recommendations remains a major challenge. Real-time feedback through continuous glucose monitoring (CGM) may improve food-related decision-making and glycemic outcomes by increasing patient awareness and engagement. This study evaluated whether CGM-guided nutrition counseling enhances glycemic control compared with standard dietary counseling alone.
+
+Methods:
+This multicenter, open-label, randomized controlled trial was conducted between February 2023 and June 2025 across five Danish outpatient diabetes clinics. Adults aged 30–75 years with T2DM (HbA1c 7.0–9.5%) on stable metformin therapy were randomized 1:1 to receive either CGM-guided nutrition counseling (intervention group) or standard nutrition counseling (control group) for 6 months. Both groups completed four dietary counseling sessions. The intervention group used CGM (Dexcom G6) continuously and received individualized feedback on glucose responses to meals. The primary endpoint was change in HbA1c at 6 months. Secondary outcomes included fasting glucose, time-in-range (70–180 mg/dL), body weight, and treatment satisfaction (DTSQ). Analyses followed the intention-to-treat principle using linear mixed models.
+
+Results:
+A total of 284 participants were enrolled (mean age 57.8 ± 9.8 years; 52% female). At 6 months, mean HbA1c decreased by –1.1% (95% CI: –1.4 to –0.8) in the intervention group versus –0.6% (95% CI: –0.9 to –0.3) in controls (p = 0.004). Time-in-range improved by +14.2% (95% CI: 9.1 to 19.3; p < 0.001), while fasting glucose decreased by –1.3 mmol/L (p = 0.02). Mean body weight reduction did not differ significantly between groups. Treatment satisfaction scores were significantly higher in the CGM group (mean difference +3.7 points; p = 0.01). No severe hypoglycemia occurred.
+
+Conclusions:
+Integration of continuous glucose monitoring into individualized nutrition counseling produced superior glycemic outcomes and treatment satisfaction compared with standard counseling in adults with T2DM. These findings support the incorporation of CGM feedback in dietary management strategies to optimize metabolic control and patient engagement. Larger trials assessing long-term cost-effectiveness and sustainability are warranted.

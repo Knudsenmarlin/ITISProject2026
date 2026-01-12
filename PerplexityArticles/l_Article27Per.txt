@@ -1,0 +1,13 @@
+Title: Effects of Combined Aerobic and Resistance Exercise on Depressive Symptoms and Cardiovascular Health in Patients With Major Depressive Disorder: A Randomized Controlled Trial
+
+Background:
+Major depressive disorder (MDD) is frequently associated with sedentary lifestyle and heightened cardiovascular risk. Exercise interventions improve mood and physical health, yet optimal modalities for comorbid psychological and cardiometabolic benefit remain uncertain. This study examined the effects of a combined aerobic and resistance exercise program (CARE) compared with standard care on depressive symptoms, cardiorespiratory fitness, and cardiovascular risk markers in adults with MDD.
+
+Methods:
+This 16‑week, single‑blind, randomized controlled trial was conducted at two university hospitals in Denmark between February 2023 and May 2025. Adults aged 18–60 years meeting DSM‑5 criteria for MDD with moderate or greater symptom severity (Hamilton Depression Rating Scale [HDRS] ≥17) were randomized (1:1) to receive CARE (three supervised 60‑minute sessions weekly) or standard outpatient care consisting of pharmacotherapy and psychoeducation. CARE consisted of 30 minutes of moderate‑intensity treadmill exercise and 30 minutes of progressive resistance training. The primary outcome was change in HDRS score from baseline to week 16. Secondary outcomes included VO₂max, resting blood pressure, lipid profile, inflammatory markers (C‑reactive protein, IL‑6), and health‑related quality of life (SF‑36). Analyses followed the intention‑to‑treat principle using mixed‑effects models.
+
+Results:
+Of 220 randomized participants (mean age 38.6 ± 10.8 years; 64% female), 203 completed the study. The CARE group demonstrated a greater reduction in HDRS scores compared with controls (–10.2 ± 6.7 vs. –5.8 ± 6.0; mean difference –4.4; 95% CI: –6.1 to –2.7; p < 0.001). VO₂max increased by +3.8 mL·kg⁻¹·min⁻¹ in the CARE group versus +0.9 in controls (p = 0.002). Greater improvements were observed in systolic blood pressure (–6.7 mmHg; p = 0.03), HDL cholesterol (+0.12 mmol/L; p = 0.04), and CRP (–1.8 mg/L; p = 0.01). Quality‑of‑life scores improved across all SF‑36 domains (p < 0.05). No serious adverse events occurred, and exercise adherence averaged 88%.
+
+Conclusions:
+A structured 16‑week program combining aerobic and resistance exercise significantly reduced depressive symptoms and improved cardiovascular health markers in adults with major depressive disorder. These findings underscore the therapeutic potential of multimodal exercise as an adjunctive treatment for improving both mental and physical well‑being in MDD. Future research should explore long‑term maintenance and effects on relapse prevention.

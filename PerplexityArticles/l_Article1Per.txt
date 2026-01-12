@@ -1,0 +1,9 @@
+Title: Effects of Early Integrated Rehabilitation on Functional Recovery After Acute Ischemic Stroke: A Multicenter Randomized Controlled Trial
+
+Background: Early initiation of multidisciplinary rehabilitation has been suggested to improve outcomes after acute ischemic stroke. However, evidence regarding the optimal timing and integrated nature of rehabilitation remains limited. This study evaluated the efficacy and safety of an early integrated rehabilitation (EIR) protocol compared to standard post-stroke care.
+
+Methods: We conducted a multicenter, assessor-blinded, randomized controlled trial across six tertiary hospitals in Northern Europe between May 2021 and December 2024. Adults (aged 40–85 years) with first-ever ischemic stroke were randomly assigned (1:1) to receive either EIR initiated within 48 hours of admission or standard rehabilitation initiated after day 7. The primary outcome was functional independence measured by the modified Rankin Scale (mRS ≤ 2) at 90 days. Secondary outcomes included motor recovery (Fugl-Meyer Assessment), cognitive function (MoCA), quality of life (EQ-5D), and all-cause mortality. Safety outcomes assessed adverse events related to early mobilization.
+
+Results: Of 810 randomized patients, 785 completed 90-day follow-up. Functional independence at 90 days was achieved in 63.4% of patients in the EIR group versus 48.2% in the control group (adjusted risk ratio 1.34; 95% CI, 1.18–1.53; p < 0.001). Significant improvements were also observed in motor and cognitive recovery scores. There were no significant between-group differences in adverse event rates or mortality.
+
+Conclusions: Early integrated rehabilitation within 48 hours of acute ischemic stroke onset significantly improved functional and cognitive outcomes without increasing adverse events. These findings support the incorporation of early multidisciplinary interventions into standard post-stroke care pathways.

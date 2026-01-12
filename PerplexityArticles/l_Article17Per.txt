@@ -1,0 +1,13 @@
+Title: Effect of Early Mobilization on Recovery and Functional Outcomes After Hip Fracture Surgery in Older Adults: A Multicenter Randomized Controlled Trial
+
+Background:
+Hip fractures in older adults are associated with prolonged disability, increased mortality, and high healthcare costs. Early mobilization following surgery has been proposed to enhance recovery and prevent complications, yet the optimal time to initiate postoperative mobilization remains uncertain. This trial aimed to assess whether mobilization within 6 hours after surgery improves functional recovery compared with standard postoperative care.
+
+Methods:
+This multicenter, parallel-group, open-label, randomized controlled trial was conducted across five orthopedic departments in Denmark between January 2023 and March 2025. Adults aged ≥65 years undergoing hip fracture surgery were randomly assigned (1:1) to early mobilization (initiated within 6 hours postoperatively under physiotherapist supervision) or standard care (mobilization on postoperative day 1 or later). The primary outcome was functional independence at 30 days, defined by a modified Barthel Index (MBI) score ≥90. Secondary outcomes included length of hospital stay, incidence of delirium, postoperative complications, and 90-day mortality. Analysis followed the intention-to-treat approach using logistic regression adjusted for baseline function and comorbidities.
+
+Results:
+A total of 512 participants were randomized (early mobilization, n = 256; standard care, n = 256); mean age was 79.6 ± 7.8 years, and 68% were female. At 30 days, functional independence was achieved in 61.7% of the early mobilization group versus 47.3% of the standard care group (adjusted odds ratio 1.77; 95% CI, 1.23–2.55; p = 0.002). The early mobilization group showed a shorter median hospital stay (8.4 vs. 10.2 days; p = 0.01), lower incidence of postoperative delirium (14.8% vs. 23.1%; p = 0.02), and a non-significant reduction in 90-day mortality (6.6% vs. 9.8%; p = 0.17). No adverse events directly related to early mobilization were reported.
+
+Conclusions:
+Early mobilization within 6 hours after hip fracture surgery significantly improved functional independence and reduced delirium rates without increasing adverse events. These findings support implementing early mobilization as a standard postoperative strategy to enhance recovery and functional outcomes in older adults undergoing hip fracture repair. Further research should explore cost-effectiveness and long-term functional trajectories.

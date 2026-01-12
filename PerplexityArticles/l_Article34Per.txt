@@ -1,0 +1,14 @@
+Title: Efficacy of a Ketogenic Diet on Seizure Frequency and Quality of Life in Adults With Drug‑Resistant Epilepsy: A Randomized Controlled Trial
+
+Background:
+While the ketogenic diet (KD) is an established therapy for pediatric epilepsy, its role in adults with drug‑resistant epilepsy (DRE) remains less clear due to concerns over adherence and metabolic side effects. This study evaluated the efficacy, tolerability, and impact on quality of life of a 6‑month KD intervention compared with standard dietary advice in adults with DRE.
+
+Methods:
+This open‑label, parallel‑group, randomized controlled trial was conducted at two tertiary epilepsy centers in Denmark from January 2023 to May 2025. Adults aged 18–60 years with confirmed DRE (≥4 seizures per month despite ≥2 antiseizure drugs) were randomized 1:1 to either a KD (4:1 fat‑to‑carbohydrate/protein ratio) or control diet based on national dietary guidelines. All participants continued stable medication regimens and received dietitian support. Primary outcome was percentage change in monthly seizure frequency after 6 months. Secondary outcomes included ≥50% responder rate, seizure‑free days, serum β‑hydroxybutyrate levels, quality of life (QOLIE‑31), and adverse effects. Data were analyzed using intention‑to‑treat mixed‑effects models.
+
+Results:
+A total of 160 participants were randomized (KD = 80; control = 80; mean age = 37.4 ± 11.6 years; 54% female). After 6 months, median seizure frequency decreased by 45.2% (IQR 32–61) in the KD group versus 12.3% (IQR 4–26) in controls (between‑group difference = –32.9%; 95% CI: –39.4 to –26.4; p < 0.001). ≥50% response occurred in 43.8% of KD participants compared with 11.3% of controls (p < 0.001). Mean β‑hydroxybutyrate levels increased to 2.9 ± 0.8 mmol/L in the KD group versus 0.2 ± 0.1 in controls (p < 0.001). QOLIE‑31 total scores improved by 6.7 ± 5.4 points in the KD group compared with 2.1 ± 4.8 in controls (p = 0.003). Common adverse events included mild gastrointestinal discomfort (22%) and transient dyslipidemia (9%); no serious adverse events were reported.
+
+Conclusions:
+The ketogenic diet significantly reduced seizure frequency and improved quality‑of‑life measures in adults with drug‑resistant epilepsy, with manageable side effects. These findings suggest that KD is a viable adjunctive treatment for refractory epilepsy in adults under clinical supervision. Future research should evaluate long‑term metabolic outcomes and adherence strategies.
+

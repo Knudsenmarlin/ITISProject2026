@@ -1,0 +1,11 @@
+Title: Effectiveness of Mindfulness-Based Stress Reduction for Chronic Pain Management in Primary Care: A Randomized Controlled Trial
+
+Abstract:
+
+Background: Chronic pain is a leading cause of disability and healthcare utilization worldwide. Pharmacologic treatments often provide limited relief and carry safety concerns, underscoring the need for nonpharmacological strategies. Mindfulness-Based Stress Reduction (MBSR) has shown promise in improving pain outcomes and psychological well-being, but large-scale evidence from primary care settings remains limited.
+
+Methods: This multicenter, parallel-group, assessor-blinded, randomized controlled trial evaluated the effectiveness of an 8-week MBSR program versus usual care in adults with chronic noncancer pain. Participants (n = 420; mean age 52.6 ± 11.3 years; 61% female) were recruited from five urban primary care clinics and randomized 1:1 to either MBSR (n = 210) or usual care (UC; n = 210). The primary outcome was the change in self-reported pain intensity (Brief Pain Inventory, BPI) at 12 weeks. Secondary outcomes included pain interference, depression (PHQ-9), anxiety (GAD-7), health-related quality of life (SF-12), and analgesic use. Safety, adherence, and satisfaction were also recorded.
+
+Results: At 12 weeks, participants in the MBSR group reported significantly greater reductions in pain intensity compared with UC (mean difference −1.8 points, 95% CI −2.4 to −1.2; p < 0.001). Improvements were also observed in pain interference (−2.3 points vs −0.8; p < 0.001), PHQ-9 scores (−3.7 vs −1.5; p < 0.001), and GAD-7 scores (−3.1 vs −1.1; p = 0.002). Mean SF-12 physical and mental component scores improved more in the intervention group (p < 0.01). Analgesic medication use decreased by 21% in the MBSR group compared with 7% in UC (p = 0.006). No serious adverse events occurred. Adherence was high (84% attendance), and 91% of participants rated the program as helpful.
+
+Conclusion: In adults receiving primary care for chronic pain, an 8-week MBSR program significantly reduced pain intensity and psychological distress while improving overall quality of life. These results support the implementation of MBSR as a safe, feasible, and effective adjunct to usual care for chronic pain management in primary care settings.

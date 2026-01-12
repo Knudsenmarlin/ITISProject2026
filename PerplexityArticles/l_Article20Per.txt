@@ -1,0 +1,13 @@
+Title: Effectiveness of Cognitive Behavioral Therapy Delivered via Telehealth for Generalized Anxiety Disorder: A Randomized Controlled Trial
+
+Background:
+Generalized anxiety disorder (GAD) is characterized by chronic worry and physical tension that significantly impair daily functioning. Cognitive behavioral therapy (CBT) is an established first-line treatment, yet access remains limited by geographic, logistical, and cost barriers. Telehealth delivery offers a potential solution, but direct evidence comparing virtual and in-person CBT outcomes in GAD remains limited. This study assessed the noninferiority of telehealth-delivered CBT (tCBT) compared with traditional in-person CBT (iCBT) in adults with GAD.
+
+Methods:
+This multicenter, assessor-blinded, randomized controlled noninferiority trial was conducted between January 2023 and April 2025 across three Danish mental health clinics. Adults aged 18–65 years meeting DSM-5 criteria for GAD were randomized (1:1) to receive 12 weekly sessions of either tCBT via a secure video platform or iCBT delivered face-to-face by licensed therapists. The primary outcome was change in Generalized Anxiety Disorder-7 (GAD-7) score from baseline to week 12. Secondary outcomes included remission rate (GAD-7 ≤5), Patient Health Questionnaire-9 (PHQ-9) score, and quality of life (WHOQOL-BREF). Adherence, therapeutic alliance, and adverse events were also assessed. Noninferiority margin was defined as a 2-point difference in mean GAD-7 score reduction. Analyses used linear mixed models under the intention-to-treat principle.
+
+Results:
+A total of 312 participants were randomized (tCBT: n = 156; iCBT: n = 156). Mean age was 37.9 ± 10.2 years, and 60% were female. At week 12, both groups showed significant reductions in GAD-7 scores (tCBT: –7.8 ± 4.2; iCBT: –8.1 ± 4.0), with between-group difference of 0.3 (95% CI: –0.8 to 1.4), meeting criteria for noninferiority (p < 0.001). Remission occurred in 46.1% of tCBT versus 48.7% of iCBT participants (p = 0.63). PHQ-9 and WHOQOL-BREF improvements did not differ significantly. Adherence rates were high (tCBT 89.1%, iCBT 86.4%), and therapeutic alliance scores were equivalent across modalities. No treatment-related adverse effects were reported.
+
+Conclusions:
+Telehealth-delivered CBT was noninferior to in-person CBT in reducing anxiety symptoms and improving quality of life for adults with GAD. These results support telehealth as a viable, accessible alternative for evidence-based psychological therapy, particularly where in-person treatment is limited. Future studies should evaluate long-term outcomes, cost-effectiveness, and implementation in primary care settings.

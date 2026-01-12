@@ -1,0 +1,13 @@
+Title: Effect of Respiratory Muscle Training on Dyspnea and Exercise Capacity in Patients With Chronic Obstructive Pulmonary Disease: A Randomized Controlled Trial
+
+Background:
+Chronic obstructive pulmonary disease (COPD) is commonly associated with exertional dyspnea and reduced functional performance. Respiratory muscle weakness contributes significantly to exercise limitation. Respiratory muscle training (RMT) has been proposed as an adjunct to standard pulmonary rehabilitation (PR), but the incremental benefit remains uncertain. This study evaluated the effects of RMT combined with PR on dyspnea, exercise tolerance, and respiratory muscle strength in moderate-to-severe COPD.
+
+Methods:
+This prospective, single-blind, randomized controlled trial was conducted across two tertiary pulmonary centers in Denmark from March 2023 to May 2025. Adults aged 45–80 years with GOLD stage II–III COPD and stable medical therapy were randomized (1:1) to either 8 weeks of RMT in addition to standard PR or PR alone. The RMT group performed threshold inspiratory and expiratory muscle exercises twice daily at 60% of maximal inspiratory pressure (PImax). The primary outcome was change in dyspnea severity assessed by the modified Medical Research Council (mMRC) scale. Secondary outcomes included 6-minute walk distance (6MWD), PImax, quality of life (St. George’s Respiratory Questionnaire, SGRQ), and arterial oxygen saturation. Analyses were conducted using intention-to-treat mixed-effects models adjusted for baseline characteristics.
+
+Results:
+A total of 200 participants were enrolled (mean age 67.8 ± 7.6 years; 58% male). After 8 weeks, the RMT + PR group exhibited a greater reduction in dyspnea scores compared with PR alone (mean change –0.9 ± 0.6 vs. –0.4 ± 0.5; between-group difference = –0.5; 95% CI: –0.7 to –0.3; p < 0.001). Improvements were also seen in 6MWD (+48 ± 36 m vs. +28 ± 34 m; p = 0.02) and PImax (+15.7 ± 5.4 cmH₂O vs. +8.3 ± 5.2 cmH₂O; p < 0.001). Quality-of-life scores (SGRQ total) improved more in the intervention group (–6.2 ± 4.8 vs. –3.1 ± 4.5; p = 0.01). No significant change in oxygen saturation was detected. Adherence exceeded 85%, and no adverse events were reported.
+
+Conclusions:
+Adding respiratory muscle training to standard pulmonary rehabilitation significantly reduced dyspnea severity and enhanced exercise tolerance and respiratory muscle strength in patients with moderate-to-severe COPD. These findings support incorporating RMT as a complementary component of comprehensive pulmonary rehabilitation programs. Longer-term studies are warranted to determine sustainability and impact on exacerbation frequency and hospitalization rates.

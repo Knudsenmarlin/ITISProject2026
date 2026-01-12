@@ -1,0 +1,14 @@
+Title: Effect of Intermittent Fasting on Glycemic Control and Weight Management in Adults With Type 2 Diabetes: A Randomized Controlled Trial
+
+Background:
+Intermittent fasting (IF) has gained attention as a dietary strategy for weight management and metabolic improvement. While evidence supports benefits in healthy and overweight adults, data on its safety and glycemic effects in patients with type 2 diabetes mellitus (T2DM) remain limited. This study aimed to evaluate the efficacy and safety of a 16:8 IF regimen on glycemic control, weight reduction, and cardiometabolic outcomes in adults with T2DM.
+
+Methods:
+This 24-week, open-label, parallel-group, randomized controlled trial was conducted at two endocrinology clinics in Denmark between June 2023 and May 2025. Adults (age 35–70 years) with T2DM (HbA1c 7.0–10.0%) on stable metformin therapy were randomly assigned (1:1) to either a 16:8 IF intervention (16-hour fasting window, 8-hour eating window) combined with standard dietary counseling or a control group receiving standard dietary advice alone. The primary outcome was change in HbA1c from baseline to 24 weeks. Secondary outcomes included fasting glucose, body weight, lipid profile, blood pressure, insulin resistance (HOMA-IR), and adverse events. Analyses were conducted using intention-to-treat mixed-effects models adjusted for baseline values.
+
+Results:
+A total of 298 participants were randomized (IF n = 149; control n = 149). Mean age was 56.2 ± 8.9 years, and 53% were women. At 24 weeks, the IF group showed a greater reduction in HbA1c compared with controls (–1.0% vs. –0.5%; mean difference –0.5%, 95% CI –0.7 to –0.3; p < 0.001). Mean body weight decreased by 5.4 ± 3.1 kg in the IF group versus 2.3 ± 2.8 kg in controls (p < 0.001). HOMA-IR improved by 22% in the IF group versus 9% in controls (p = 0.01). No significant differences were observed in LDL or HDL cholesterol, although triglycerides declined modestly with IF (–0.24 mmol/L; p = 0.04). Hypoglycemia occurred in 5 participants in the IF group (3.4%) versus 3 (2.0%) in controls, all mild events without hospitalization.
+
+Conclusions:
+A 16:8 intermittent fasting regimen combined with standard nutritional counseling produced significant improvements in glycemic control, insulin sensitivity, and weight reduction over 24 weeks in adults with type 2 diabetes. The intervention was well-tolerated with low incidence of hypoglycemia, suggesting intermittent fasting may be a feasible adjunctive strategy for metabolic management in T2DM. Larger, long-term studies are warranted to assess sustainability and cardiovascular outcomes.
+
