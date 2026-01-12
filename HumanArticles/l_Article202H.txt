@@ -1,0 +1,8 @@
+Introduction: Continuous shortwave diathermy (CSWD) efficacy relies on change in temperature, which had been evaluated previously. However, the studies are not comparable enough, consequently the primary goal of this study was to analyze which SWD capacitive technique arrangement is the most effective in skin temperature change.
+
+Method: A randomized, single-blinded crossover trial conducted in a university research laboratory. Twenty young healthy male subjects were randomly allocated using a website to receive 20 min of CSWD application to the anterior aspect of the thigh through coplanar, contraplanar and longitudinal arrangement. Skin temperature was collected under the proximal electrode and at the thigh center over 25 min after electrodes removal, using an infrared thermography camera.
+
+Results: There were two losses to follow up, remaining 18 subjects for analysis (age = 21.4 ± 2.09 years, BMI = 23.6 ± 2.46 kg/m2). Under the electrode all arrangements achieved vigorous heating (coplanar = 7.9 ± 1.76 °C; contraplanar = 6.52 ± 2.68 °C; longitudinal = 7.46 ± 1.8 °C) immediately after electrodes removal and temperature decreased with a similar rate across arrangements. At the thigh center, coplanar arrangement achieved mild heating (1-2 °C) until 17 min after electrodes removal; meanwhile, the other arrangements did not increase temperature sufficiently for post intervention therapeutic effects. No unintended effect was detected.
+
+Conclusions: Coplanar arrangement increased skin temperature the most, heated the greatest area, and had the slowest temperature decay. If the body part accommodates any of the capacitive technique arrangements, coplanar should be used to treat superficial tissues.
+

@@ -1,0 +1,7 @@
+Objectives: Checklists have been used to decrease adverse events associated with medical procedures. Simulation provides a safe setting in which to evaluate a new checklist. The objective of this study was to determine if the use of a novel peri-intubation checklist would decrease practitioners' rates of omission of tasks during simulated airway management scenarios.
+
+Methods: Fifty-four emergency medicine (EM) practitioners from two academic centers were randomized to either their usual approach or use of our checklist, then completed three simulated airway management scenarios. A minimum of two assessors documented the number of tasks omitted and the time until definitive airway management. Discrepancies between assessors were resolved by single assessor video review. Participants also completed a post-simulation survey.
+
+Results: The average percentage of omitted tasks over three scenarios was 45.7% in the control group (n = 25) and 13.5% in the checklist group (n = 29)-an absolute difference of 32.2% (95% CI 27.8, 36.6%). Time to definitive airway management was longer in the checklist group in the first two of three scenarios (difference of 110.0 s, 95% CI 55.0 to 167.0; 83.0 s, 95% CI 35.0 to 128.0; and 36.0 s, 95% CI -18.0 to 98.0 respectively).
+
+Conclusions: In this dual-center, randomized controlled trial, use of an airway checklist in a simulated setting significantly decreased the number of important airway tasks omitted by EM practitioners, but increased time to definitive airway management.

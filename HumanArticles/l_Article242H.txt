@@ -1,0 +1,13 @@
+Objectives: To assess the transfer accuracy of three-dimensional (3D) printed transfer trays and compare them with transfer trays made up of polyvinyl siloxane (PVS) for use in indirect bonding.
+
+Design: This was a two-arm parallel prospective randomised controlled trial.
+
+Setting: The trial was undertaken at the outpatient department of a dental college.
+
+Participants: A total of 30 patients (18 men, 12 women) were randomly allocated to two groups.
+
+Methods: The inclusion criteria included patients with permanent and fully erupted dentition (age range = 17-24 years), Angles class I malocclusion with crowding <3 mm requiring non-extraction treatment, good oral hygiene and no previous history of orthodontic treatment. Blinding was applicable only for outcome assessment. Indirect bonding was performed by the primary investigator for both the groups. Digital images of the pre-transfer and post-transfer brackets were obtained by means of an intra-oral scanner and compared using software. Superimpositions of pre- and post-transfer images were done to determine the transfer error for linear and angular variables for all tooth types.
+
+Results: A total of 600 teeth were bonded, 300 each for both groups. Statistically significant differences were observed in all dimension between the two groups, with 3D-printed trays being more accurate than PVS trays except in the vertical dimension (P < 0.05). The prevalence of clinically unacceptable transfer errors revealed that most of the transfer errors were in the vertical dimensions for 3D-printed trays.
+
+Conclusion: 3D-printed trays are more accurate than PVS trays except for transfers in vertical dimension.

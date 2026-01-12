@@ -1,0 +1,9 @@
+Objective: The primary aim was to describe the variability within clinical presentation of patients with subacromial pain in primary care, secondly to investigate associations between clinical presentation and self-reported pain intensity, shoulder function, level of anxiety and depression, and health-related quality of life.
+
+Design and setting: A cross-sectional study based on data from two clinical studies in primary care, one randomized controlled trial and one implementation study. Three components: active range of motion (AROM), rotator cuff function and scapular kinematics were analyzed to describe variability within clinical presentation and patient-reported measurements were used to investigate the impact on daily life.
+
+Participants: Patients aged 30-67 years, describing pain for more than two weeks, with positive signs for a minimum of three out of the following five clinical tests: impingement sign according to Neer, impingement test according to Hawkins-Kennedy, Pattes maneuver, Jobe's test, and painful arc.
+
+Results: Among the 164 patients included, 24% displayed dysfunction in one, 50% two and 24% in all three components. Limited AROM was seen in 46%, rotator cuff dysfunction in 91% and scapular dyskinesia in 57% of the patients.
+
+Conclusions: These results reveal a heterogeneity among primary care patients with subacromial pain confirming a large variability regarding the components AROM, rotator cuff function and scapular kinematics. All three components appear unique (not significantly correlated) where a rotator cuff dysfunction is very frequent while limited AROM and scapular dyskinesia are more inconsistent. There are significant, but rather weak, associations between clinical presentation and impact on daily life.

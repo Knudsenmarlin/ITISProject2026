@@ -1,0 +1,9 @@
+Background: The COVID-19 pandemic had a relevant health impact in a large part of the planet and there are several studies aimed at understanding its diffusion; however, to date, the problem has not been explored in the correctional setting, with particular concern for the Italian context.
+
+Aim: To assess and investigate the risk of exposure to COVID-19 in nurses working in the Italian prison system.
+
+Methods: A multicenter observational descriptive study was conducted, enrolling a convenience sample composed of nurses registered with SIMSPE onlus (Italian Society of Penitentiary Medicine and Health), working in any Italian prison facility at the time of the survey.
+
+Results: 204 nurses participating in the survey (response rate 49.27%). Most nurses working in prisons (92.65%) were exposed to the risk of Covid-19 virus infection, since they came directly into contact with positive patients (90.69%) and in situations where they were exposed during care procedures in which aerosol was produced by the patient (56.21%). The number of nurses who "always" complied with safety rules for prevention of infection did not differ significantly (p >0.05 for each comparison) in situations involving or not involving aerosol exposure.
+
+Conclusions: The results highlight the relevance of these issues in the Italian prison context and the need for further investigation. The knowledge of the dimension of this phenomenon, unexplored before this study in this context, represents the first step to be able to identify organizational strategies to manage it effectively or, if possible, to prevent it.

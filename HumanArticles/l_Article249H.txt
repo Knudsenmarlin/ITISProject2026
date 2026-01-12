@@ -1,0 +1,8 @@
+Background: Analyze the effects of a 12-week dance intervention on the sleep quality and the level of pain among women with breast cancer.
+
+Methods: Non-randomized clinical trial including 21 breast cancer survivors allocated in intervention group (n = 11) or control group (n = 10). Intervention group received a 12-week mix dance intervention and the control group maintained their routine activities. Data collection was realized through the application of a questionnaire before and after 12 weeks, involving pain (VAS) and sleep quality (Pittsburgh Sleep Quality Index). The Two-way ANOVA with repeated measures and Šidák correction, and multiple linear regression was used.
+
+Results: No significant effects were found on sleep quality and pain after the 12-week intervention with a mix dance protocol. Also, no significant difference was found between intervention and control group during post-intervention. The multiple linear regression analysis, controlled by stage of treatment, did not present a significant relationship between sleep quality and pain. Additionally, some spontaneous reports provided by the participants demonstrated a subjective improvement in their social life and general well-being.
+
+Conclusion: The 12-week mix dance intervention did not seem to directly influence the sleep quality and pain of breast cancer survivors in this study; however, no adverse events were reported. Perhaps, a dance protocol focusing only in one modality of dance may be more effective for breast cancer survivors on sleep quality and pain.
+

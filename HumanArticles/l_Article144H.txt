@@ -1,0 +1,9 @@
+Background: Few studies have examined the effect of rTMS on impaired emotional processing in apathetic Parkinson's disease (PD) patients, which impelled us to use a combination of repetitive transcranial magnetic stimulation (rTMS) with event-related potentials (ERPs) to gain insight into the underlying mechanisms.
+
+Methods: Apathetic and non-apathetic patients diagnosed with PD performed a facial emotion categorization task, and ERP data were collected before and after HF-rTMS or sham stimulation over the right dorsolateral prefrontal cortex (DLPFC). We observed the behavioural results and early components of P100 and N170.
+
+Results: After rTMS, accuracy (ACC) was higher for negative expressions, and reaction times (RTs) were shorter for all expressions in both apathetic and non-apathetic patients. P100 amplitudes significantly increased except for negative expressions in the right hemisphere, and hemisphere lateralization was reversed in apathetic patients. P100 amplitudes increased for all expressions bilaterally in non-apathetic patients. N170 amplitudes in apathetic patients increased, and hemisphere lateralization was normalized. Neither the apathetic sham group nor the non-apathetic cohort of patients showed changes in P100 or N170 lateralization.
+
+Limitations: The effects of rTMS on PD patients relative to normal subjects should be compared and observed over a long period of time.
+
+Conclusions: HF-rTMS over the right DLPFC is beneficial for emotional processing in both apathetic and non-apathetic PD patients but shows different sensitivities. The effect of rTMS on emotional processing impairments in apathetic PD patients is profound. Treatment with rTMS may be an important, novel nonpharmaceutical approach for apathy in PD patients.

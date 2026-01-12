@@ -1,0 +1,8 @@
+Introduction: Elderly patients with COVID-19 has a worse clinical evolution, being more susceptible to develop serious manifestations. The differences between the elderly and very elderly population, mortality and associated prognostic factors of SARS-CoV-2 infection have not been enough studied yet.
+
+Methods: An observational study of 416 elderly patients admitted consecutively to Hospital General Universitario de Ciudad Real for COVID-19 respiratory infection from March 1st to April 30th, 2020. Data were collected including patient demographic information, medical history, clinical characteristics, laboratory data, therapeutic interventions and clinical outcomes during the hospitalization and after discharge, until June 15, 2020 with the aim of analyzing mortality, and associated prognostic factors.
+
+Results: The mean age was 84.43±5.74 years old; elderly patients (75-84 years) were 50.2% of the sample and very elderly (≥85 years) the remaining 49.8%. In Cox regression model, mortality rate was higher in very elderly group (HR = 2.58; 95% CI: 1.23-5.38; P = .01), hypertensive (HR = 3, 45; 95% CI: 1.13-10.5; P = .03) and chronic kidney disease patients (HR = 3.86; 95% CI: 1.3-11.43; P = .02). In contrast, calcium antagonists (HR = 0.27; 95% CI: 0.12-0.62; P = .002) and anticoagulant therapy during hospitalization (HR = 0.26; 95% CI: 0.08 0, 83; P = .02) were associated with a longer time free of mortality.
+
+Conclusions: Mortality rate was higher in very eldery patients compared with eldery; and in hypertensive and chronic kidney disease patients. Anticoagulation therapy and calcium chanel bloquers treatment during hospitalization were associated with a higher survival in the short-term follow-up in patients hospitalized with COVID-19.
+

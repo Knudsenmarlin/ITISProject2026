@@ -1,0 +1,9 @@
+Background: Interprofessional teamwork training of nursing undergraduates is essential to improving healthcare. The absence of clear role definitions and poor interprofessional communications have been listed as the main reasons behind abandonment of the profession by recently graduated nurses.
+
+Purpose: The aim of this parallel randomized clinical trial was to evaluate the impact of Situation-Background-Assessment-Recommendation (SBAR) role-play training on interprofessional teamwork skills (role-related and communication-related) and non-technical skills (patient assessment, patient intervention, patient safety, and critical thinking).
+
+Method: The intervention group were taught teamwork skills, role and task assignment skills, and use of the SBAR worksheet in a 1-hour role-play training session, while the control group received conventional lecture-based training. Teamwork and non-technical skills were then assessed in high-fidelity simulation scenarios using the KidSIM Team Performance Scale (teamwork skills) and the Clinical Simulation Evaluation Tool (non-technical skills). Cohen's d (d) was used to examine effect size differences.
+
+Results: Compared to the control group, the intervention group improved in 4 teamwork items - 'verbalize out loud' (p < 0.001, d = 0.99), 'paraphrase' (p < 0.001, d = 0.77), 'cross-monitoring' (p < 0.001, d = 0.72), and 'role clarity' (p = 0.002, d = 0.66) - and in a single non-technical skill (patient intervention: p = 0.004, d = 0.66), while also reporting greater confidence in performing patient assessments (p = 0.02, d = 0.56).
+
+Conclusions: Role-play and SBAR training for undergraduate nurses improved patient intervention, enhanced information sharing in an interprofessional team, and raised awareness of their own and other team members' roles.

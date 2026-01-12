@@ -1,0 +1,13 @@
+Context: In cases of sputum smear-negative and sputum-scarce (SSN/SC) pulmonary tuberculosis (PTB), bronchoalveolar lavage (BAL) fluid may be helpful in establishing diagnosis. No specific recommendations for BAL samples have yet been formulated due to limited literature.
+
+Aims: 1. To find a sensitive and specific protocol for same-day diagnosis of PTB using BAL in SSN/SC clinically suspected patients. 2. To evaluate the need to routinely perform MGIT for all BAL samples.
+
+Settings and design: Prospective observational study design in a tertiary care hospital in New Delhi.
+
+Methods and material: Fibreoptic bronchoscopy was performed and BAL collected from 175 clinically suspected SSN/SC PTB patients. BAL samples were subjected to: ZN Stain, Xpert MTB/RIF CBNAAT, BACTEC MGIT 960 liquid culture and M. tuberculosis complex DNA Real time PCR. The results of the various diagnostic tests were analysed using a) MGIT as gold standard and b) a composite reference standard (CRS) for a final diagnosis of PTB.
+
+Statistical analysis used: Microsoft Excel 2016 and SPSS version 21.0 were used. Sensitivity, specificity and predictive values were calculated and compared using McNemar test. A p value of <0.05 was considered statistically significant.
+
+Results: 34 Cases had a final diagnosis of TB as per the CRS. Using CRS, MGIT had a sensitivity of 50.0% (32.4%-67.6%). There was no statistically significant difference between sensitivities of CBNAAT and PCR; both were more sensitive than ZN stain. Sensitivity and specificity of CBNAAT was 79.4% (62.1%-91.3%) and 100.0% (97.4%-100.0%) respectively. The preferred protocol for the hospital is CBNAAT and ZN stain. There was no statistically significant difference in sensitivity by adding PCR or MGIT to this protocol.
+
+Conclusions: We found it a good strategy to perform CBNAAT and ZN stain on BAL fluid for accurate and same-day PTB diagnosis. CBNAAT is useful for ruling PTB in even when BAL cultures are negative. It is prudent to continue to routinely perform MGIT for all BAL samples.

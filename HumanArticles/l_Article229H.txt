@@ -1,0 +1,7 @@
+Background: Electrical stimulation and aerobic exercise have been indicated to be beneficial in the management of erectile dysfunction individually. However, there is a scarcity of evidence comparing the two treatment approaches. This study investigated the effects of Electrical Stimulation (ES) compared with Eerobic Exercise (AE) in the management of individuals with Erectile Dysfunction (ED).
+
+Methods: This study was a single-blind parallel randomized clinical trial. Thirty (30) patients diagnosed with ED (Mean age of 39.17 ± 6.21 years) were recruited and randomized into two groups, A and B with 15 participants in each group. Group A received ES while Group B received AE. International Index of Erectile Function (IIEF-5) was used to assess the sexual functions of the participants at baseline and after 6 weeks of intervention. Within-group and between-group differences were analyzed using dependent and independent t-tests respectively.
+
+Results: The result indicated a significant difference between groups A and B [20.83 (1.83) Vs 14.33 (2.07), p=0.001] after 6 weeks of intervention. However, the mean effect was significantly higher in the ES group than in the AE group.
+
+Conclusion: The finding of this study indicated that ES is more effective than AE in the management of individuals with ED.Trial Registration: Pan African Clinical Trial Registry (PACTR201906776769795).

@@ -1,0 +1,8 @@
+Purpose: To study the difference between the distinct ways of delivering postoperative instructions to reduce the side effects of wisdom tooth extraction, including pain, bleeding and swelling, and improve the degree of satisfaction of the patients.
+
+Methods: A group of 150 patients who underwent wisdom tooth extraction in the Department of Oral and Maxillofacial Surgery of Xiangya Hospital, Central South University between Jan. 2018 to Oct. 2018 were selected in this research randomly. They were divided into 3 groups randomly and 50 patients in each group. Patients in group 1 received verbal postoperative instructions, patients in group 2 received written postoperative instructions, and patients in group 3 received verbal plus written postoperative instructions. The information of age, sex and education level was collected for each patient. The side effects of pain, bleeding and swelling, and the satisfactory degree of the patients were recorded 7 days after surgery. SPSS 22.0 software package was used for statistical analysis.
+
+Results: There were 81 women and 69 men among 150 patients. The mean age was 24.6±2.6 years. The results showed that the degree of pain of group 1 was significantly higher than group 2 (P=0.001) and group 3 (P=0.000). The satisfactory degree of group 1 was the lowest, and group 3 was the highest.
+
+Conclusions: The way of delivering postoperative instructions affects pain and satisfactory degree after wisdom tooth extraction.
+

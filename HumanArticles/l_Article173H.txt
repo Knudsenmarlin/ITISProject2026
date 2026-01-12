@@ -1,0 +1,9 @@
+Background: In spite of being a principal producer and exporter of vaccines and billions spent over decades, India is home to one-third of the world's under-five children (U5C) with no immunization.
+
+Objectives: The objective of this study was to find the outcome of child-to-child and child-to-parent Information, Education and Communication (IEC) strategy on the current percentage of immunization coverage (IC).
+
+Methods: A mixed design research with multilevel concurrent sampling was conducted in Pune. Based on school students' households, 44 clusters having U5C were divided randomly into 11 experimental/control groups each. IEC strategy to students was independent variable and IC among U5C was dependent variable. Data were collected from 1092 students and 2352 U5C parents over 6 years. Vaccination card and Bacillus Calmette-Guérin mark were considered as evidence to conclude on full, partial and no IC. Change in knowledge quotient (KQ) among students/parents and U5C IC before and after IEC strategy assessed.
+
+Results: Rural/urban age-appropriate full IC of U5C was 51% and 67% before and 88% and 85% in post-IEC, respectively. The mean KQ change score of 8-12/20 in students is likely to increase full IC by 37% and 18%, decrease partial coverage at 14% and 12%, and improve none coverage at 23% and 16%, from its existing level positively in experimental groups. Numerous factors discouraged parents to pursue their U5C immunization.
+
+Conclusions: Advocacy through school students can be an economically viable alternative marketing strategy for inadequate U5C IC than billions spent on treating vaccine-preventable diseases and impractical options.
