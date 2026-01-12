@@ -106,8 +106,56 @@ def average_TDFIF_score(*folder):
     scoreStd = np.std(scoreList, ddof=1)
     return scoreMean, scoreStd
 
+def average_document_length(*folder):
+    documentLengthList = np.array([])
+    for folderName in folder:
+        folder_path = Path(folderName)
+        for f in folder_path.glob('*.txt'):
+            totalWordsInDocument = count_words(txt_to_words(f))[1]
+            documentLengthList = np.append(documentLengthList, totalWordsInDocument)
+    return np.mean(documentLengthList)
+
+averageDocumentLength = average_document_length('HumanArticles', 'ChatGPTArticles', 'DeepSeekArticles')
+
+def find_combined_BM25_score(document, k, b):
+    OkapiBM25Dict = dict()
+    occurancesTerm, totalWordsInDocument = count_words(txt_to_words(document))
+    for word in AIWordsStemmed:
+        termFrequencyOkapi = (occurancesTerm[word] * (k + 1)) / (occurancesTerm[word] + (k * (1 - b + (b * (totalWordsInDocument / averageDocumentLength)))))
+        if documentsWithTerm.get(word) is None:
+            inverseDocumentFrequencyOkapi = math.log((totalDocuments + 0.5) / (0.5))
+        else:
+            inverseDocumentFrequencyOkapi = math.log((totalDocuments - documentsWithTerm[word] + 0.5) / (documentsWithTerm[word] + 0.5))
+        OkapiBM25 = termFrequencyOkapi * inverseDocumentFrequencyOkapi
+        OkapiBM25Dict[word] = OkapiBM25
+    combinedBM25 = 0
+    for key in OkapiBM25Dict:
+        combinedBM25 += OkapiBM25Dict[key]
+    return combinedBM25
+
+def average_BM25_score(*folder, k, b):
+    scoreList = np.array([])
+    for folderName in folder:
+        folder_path = Path(folderName)
+        for f in folder_path.iterdir():
+            if f.is_file():
+                scoreList = np.append(scoreList, find_combined_BM25_score(f, k, b))
+    scoreMean = np.mean(scoreList)
+    scoreStd = np.std(scoreList, ddof=1)
+    return scoreMean, scoreStd
+
+
 if __name__ == "__main__":
     print(find_combined_TFIDF_score('HumanArticles/l_Article2H.txt'))
+    print(find_combined_BM25_score('HumanArticles/l_Article2H.txt', k=1.2, b=0.75))
+    print(find_combined_TFIDF_score('HumanArticles/l_Article3H.txt'))
+    print(find_combined_BM25_score('HumanArticles/l_Article3H.txt', k=1.2, b=0.75))
     print(average_TDFIF_score('HumanArticles'))
     print(average_TDFIF_score('ChatGPTArticles'))
     print(average_TDFIF_score('DeepSeekArticles'))
+    print(average_document_length('HumanArticles'))
+    print(average_document_length('ChatGPTArticles'))
+    print(average_document_length('DeepSeekArticles'))
+    print(average_BM25_score('HumanArticles', k=1.2, b=0.75))
+    print(average_BM25_score('ChatGPTArticles', k=1.2, b=0.75))
+    print(average_BM25_score('DeepSeekArticles', k=1.2, b=0.75))
