@@ -161,5 +161,3 @@ if __name__ == "__main__":
     print(average_BM25_score('DeepSeekArticles', k=1.2, b=0.75)[0])
     print(average_BM25_score('PerplexityArticles', k=1.2, b=0.75)[0])
     print(scoresHumanArticles, scoresChatGPTArticles, scoresPerplexityArticles, scoresDeepSeekArticles)
-
-''
