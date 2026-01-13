@@ -1,0 +1,7 @@
+Background: The shortage of donor kidneys has led to the use of marginal donors, e.g., those whose kidneys are donated after circulatory death. Preservation of the graft by hypothermic machine perfusion (HMP) provides a viable solution to reduce warm ischemic damage. This pilot study was undertaken to assess the feasibility and patient safety of the AirdriveTM HMP system in clinical kidney transplantation.
+
+Methods: Five deceased-donor kidneys were preserved using the oxygenated Airdrive HMP system between arrival at the recipient center (Amsterdam UMC) and implantation in the patient. The main study end-points were adverse effects due to the use of Airdrive HMP. Secondary end-points were clinical outcomes and perfusion parameters. All events occurring during the transplantation procedure or within 1 month of follow-up were monitored.
+
+Results: Five patients were included in this pilot study. No technical failures were observed during the preservation period using the Airdrive HMP. Mean perfusion parameters were: duration 8.5 h (3-15 h), pressure 25 mm Hg (18-25 mm Hg), flow 49.77 mL/min (19-58 mL/min), resistance 0.57 mm Hg/min/mL (0.34-1.3 mm Hg/min/mL), and temperature 8.2 °C (2-13°C). Mean cold ischemia time (CIT) was 20.2 h (11-29.5 h). No adverse events or technical failures were observed during preservation and transplantation or during the 1-month follow-up.
+
+Conclusions: This pilot study showed the feasibility of the use of the Airdrive HMP system with no adverse events in clinical kidney transplantation.

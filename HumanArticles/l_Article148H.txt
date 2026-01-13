@@ -1,0 +1,9 @@
+Introduction: The tear proteomics and neuromediators are associated with clinical dry eye parameters following refractive surgery.
+
+Purpose: To investigate and compare the tear proteomic and neuromediator profiles following small incision lenticule extraction (SMILE) versus laser-assisted in-situ keratomileusis (LASIK).
+
+Methods: In this randomized controlled trial with paired-eye design, 70 patients were randomized to receive SMILE in one eye and LASIK in the other eye. Tear samples were collected preoperatively, and 1 week, 1, 3, 6 and 12 months postoperatively, and were examined for protein concentration changes using sequential window acquisition of all theoretical fragment ion mass spectrometry (SWATH-MS). The data were analyzed with DAVID Bioinformatics Resources for enriched gene ontology terms and over-represented pathways. Tear neuromediators levels were correlated with clinical parameters.
+
+Results: Post-SMILE eyes had significantly better Oxford staining scores and tear break-up time (TBUT) than post-LASIK eyes at 1 and 3 months, respectively. Tear substance P and nerve growth factor levels were significantly higher in the LASIK group for 3 months and 1 year, respectively. SMILE and LASIK shared some similar biological responses postoperatively, but there was significant up-regulation in leukocyte migration and wound healing at 1 week, humoral immune response and apoptosis at 1 month, negative regulation of endopeptidase activity at 3 to 6 months, and extracellular structure organization at 1 year in the post-LASIK eyes. Tear mucin-like protein 1 and substance P levels were significantly correlated with TBUT (r = -0.47, r = -0.49, respectively).
+
+Conclusion: Significant differences in the tear neuromediators and proteomics were observed between SMILE and LASIK, even though clinical dry eye signs have subsided and became comparable between 2 procedures.

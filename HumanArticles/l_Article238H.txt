@@ -1,0 +1,15 @@
+Objectives: To determine if three short daily sessions of physiotherapy for rehabilitation inpatients after hip fracture is more effective than providing one long daily session in improving mobility.
+
+Design: A single-blinded randomised controlled trial.
+
+Setting: Two inpatient rehabilitation wards at a hospital in Melbourne, Australia.
+
+Participants: Seventy-six rehabilitation inpatients after hip fracture. The key exclusion criterion was not being allowed to weight bear.
+
+Interventions: All participants received multidisciplinary rehabilitation. Experimental participants received three 15-minute sessions of physiotherapy 5 days per week until discharge. Control participants received one 45-minute session of physiotherapy 5 days per week until discharge.
+
+Main outcome measures: The primary outcome, mobility, was assessed with the de Morton Mobility Index 2 weeks after admission and at discharge. Secondary outcomes were Functional Independence Measure mobility (transfers, ambulation, steps), physical activity measured with an accelerometer, length of stay, discharge destination, readmissions within 30 days of discharge, and patient and physiotherapist satisfaction.
+
+Results: Sixty-seven (88%) participants completed mobility assessment at discharge and 34 (45%) at 2 weeks. There were a greater proportion of missed sessions in the experimental group (84% adherence vs 95%). There was no between-group difference in mobility at discharge (MD -1.9 points, 95%CI-6.9 to 3.2) or at 2 weeks (MD -3.5 points, 95%CI-15.4 to 8.4). There were no between-group differences in any secondary outcomes.
+
+Conclusions: Providing inpatient physiotherapy rehabilitation in three shorter sessions resulted in more missed sessions and likely did not improve mobility outcomes compared with providing one longer session for patients recovering from hip fracture.

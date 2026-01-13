@@ -1,0 +1,8 @@
+Background: Artemisinin-based combination therapy (ACT) is widely used in India and many generic preparations are available. Delayed response has been reported, suggesting inadequate response to artesunate (AS) or genotypic resistance. We designed a prospective observational study to assess the therapeutic response, elaborate pharmacokinetics of AS and identify Plasmodium falciparum kelch 13 (pfk13) propeller gene polymorphisms among hospitalized Indian patients with severe malaria.
+
+Methods: We collected blood samples from adult patients with severe P. falciparum or mixed (P. falciparum and P. vivax) malaria on ACT. We calculated the parasite clearance (CL) half-life using the Worldwide Antimalarial Resistance Network (WWARN) online parasite clearance estimator (PCE). We used the liquid chromatography tandem mass spectrophoto-metry method for simultaneous quantification of AS and dihydroartemisinin. We genotyped longitudinally archived DNA samples obtained pre-treatment (day 0) to study the point mutations in the pfk13 propeller domain.
+
+Results: A total of 54 patients with malaria were included, with a majority fulfilling the definitions of severe malaria. The median parasite CL slope half-life was estimated to be 6.44 hours (interquartile range 4.79-10.24). AS pharmacokinetics, assessed in 17 patients, were found to be similar in the groups with rapid (<48 hours) and slow CL (>48 hours) of parasites. No known mutations associated with artemisinin resistance in Southeast Asia were observed in our study participants.
+
+Conclusions: Slow parasite CL was seen with a high parasite burden without genotypic evidence of AS resistance. There is a need to standardize definitions of therapeutic efficacy of AS in cases of severe malaria.
+

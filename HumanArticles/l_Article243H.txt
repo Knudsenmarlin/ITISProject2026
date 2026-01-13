@@ -1,0 +1,9 @@
+Context: Following total thyroidectomy and radioactive iodine (RAI) ablation, serum thyroglobulin levels should be undetectable to assure that patients are excellent responders and at very low risk of recurrence.
+
+Objective: To assess the utility of stimulated (sTg) and non-stimulated (nsTg) thyroglobulin levels in prediction of patients outcomes with differentiated thyroid cancer (DTC) following total thyroidectomy and RAI ablation.
+
+Method: A prospective observational study conducted at a University Hospital in Saudi Arabia. Patients diagnosed with differentiated thyroid cancer and were post total thyroidectomy and RAI ablation. Thyroglobulin levels (nsTg and sTg) were estimated 3-6 months post-RAI. Patients with nsTg <2 ng/ml were stratified based on their levels and were followed-up for 5 years and clinical responses were measured.
+
+Results: Of 196 patients, nsTg levels were <0.1 ng/ml in 122 (62%) patients and 0.1-2.0 ng/ml in 74 (38%). Of 122 patients with nsTg <0.1 ng/ml, 120 (98%) had sTg levels <1 ng/ml, with no structural or functional disease. sTg levels >1 occurred in 26 (35%) of patients with nsTg 0.1-2.0 ng/ml, 11 (15%) had structural incomplete response. None of the patients with sTg levels <1 ng/ml developed structural or functional disease over the follow-up period.
+
+Conclusion: Suppressed thyroglobulin (nsTg < 0.1 ng/ml) indicates a very low risk of recurrence that does not require stimulation. Stimulated thyroglobulin is beneficial with nsTg 0.1-2 ng/ml for re-classifying patients and estimating their risk for incomplete responses over a 7 years follow-up period.

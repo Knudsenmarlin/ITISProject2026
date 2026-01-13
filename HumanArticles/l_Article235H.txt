@@ -1,0 +1,7 @@
+Objective: Type 1 diabetes (T1D) is frequently associated with other autoimmune diseases (AIDs). Although most of T1D patients are sporadic cases (S-T1D), 10% to 15% have a familial form (F-T1D) involving 2 or more first-degree relatives. This study evaluated the effect of T1D family aggregation and age onset on AIDs occurrence.
+
+Methods: In this observational, cross-sectional, case-control, single center study, we enrolled 115 F-T1D and 115 S-T1D patients matched for gender, age, T1D age onset, and duration. With respect to T1D age onset (before or after 18 years), both groups were further subdivided into young- or adult-onset F-T1D and young- or adult-onset S-T1D. The presence of organ-specific antibodies and/or overt AIDs was evaluated.
+
+Results: The F-T1D group had a higher percentage of AIDs (29.8% vs 18.4%, P = .04) and a significant earlier onset of AIDs at Cox regression analysis (P = .04) than the S-T1D group. Based on multivariate analysis, the adult-onset F-T1D subgroup had the highest prevalence of both additional organ-specific antibodies (60.5%) and overt AIDs (34.9%), whereas the adult S-T1D subgroup was the least frequently involved (29.1% and 12.7%, respectively). In F-T1D patients, offsprings develop T1D and AIDs earlier than their parents do.
+
+Conclusions: In T1D patients, familial aggregation and adult-onset of T1D increase the risk for coexistent AIDs. These clinical predictors could guide clinicians to address T1D patients for the screening of T1D-related AIDs.

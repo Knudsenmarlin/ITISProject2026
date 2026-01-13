@@ -1,0 +1,7 @@
+Background: Identification and treatment for latent tuberculosis infection (LTBI) are of great epidemiological importance of controlling tuberculosis (TB) worldwide. Identification in high-risk population on dialysis and treatment with 12-week weekly rifapentine plus isoniazid (3HP) help improve prevention outcomes effectively.
+
+Methods: We conducted a single-center, nonrandomized follow-up study on end-stage renal disease patients on hemodialysis. The interferon-gamma release assay (IGRA) was used for the diagnosis of LTBI. Participants were treated with 3HP, and treatment responses were recorded and analyzed.
+
+Results: A total of 123 of the 641 patients showed positive IGRA results. The male sex, age >60 years, low serum albumin level (<4.0 g/dL), and hypercalcemia (serum calcium level > 10.2 mg/dL) were associated with IGRA positivity. Seventy-five patients were treated with 3HP, with a completion rate of 66.67%. The male sex, albumin level >4.0 g/dL, and absence of adverse drug reaction were associated with increased completion rates. Adverse drug reactions included dizziness, fatigue, nausea and vomiting, fever, and hypertension.
+
+Conclusion: Risk factors for LTBI in dialysis patients were identified to prioritize LTBI screening and initiate early treatment. The completion rate in dialysis patients were approximately 2 of 3 patients with mild adverse drug reaction, leading to discontinuation of the treatment.

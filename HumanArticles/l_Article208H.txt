@@ -1,0 +1,13 @@
+Objective: Hydration status after cardiac surgery can be difficult to assess, often requiring invasive measurements. Bioelectrical impedance vector analysis (BIVA) is based on patterns of resistance (R) and reactance (Xc), corrected by height, and has been used in various clinical scenarios to determine body composition and monitor its changes over time. The purpose of the present study was to apply this method in cardiac surgery patients to assess the variation in hydration status and to compare its changes according to the use of extracorporeal circulation.
+
+Design: Single-center, observational, prospective study including patients older than 18 years undergoing elective or urgent cardiac surgery.
+
+Setting: Intensive cardiac care unit of a tertiary center in a metropolitan area.
+
+Participants: The study comprised 76 patients with a median age of 60 years and mostly undergoing coronary artery bypass grafting (CABG) (n = 47 [61.8%]) with extracorporeal circulation (n = 54 [73%]).
+
+Interventions: Bioimpedance was measured with a standard tetrapolar single-frequency bioimpedance meter using a standardized procedure and plotted in an R-Xc graph.
+
+Measurements and main results: The study demonstrated an increase in total body water immediately after surgery that was sustained until producing hyperhydration 24 hours later. Off-pump CABG was associated with a normal hydration status after surgery, whereas on-pump CABG produced a significant increase in total body water.
+
+Conclusions: Fluid status assessment with BIVA in cardiac surgery showed an increase in total body water up to 24 hours after surgery. Off-pump surgery prevented overhydration, which partially could explain the reduction in some of the postoperative complications. BIVA could serve as a useful method for monitoring fluid status in the setting of goal-directed therapy to assist in maintaining euvolemia in cardiac surgical patients.

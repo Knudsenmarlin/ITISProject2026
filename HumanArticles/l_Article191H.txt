@@ -1,0 +1,9 @@
+Objectives: The aim of this multicenter, randomized, single-blind study was to prospectively evaluate the short-and long-term outcomes of pulmonary vein isolation (PVI) versus PVI with concomitant left atrial posterior wall isolation (PWI) using the cryoballoon in patients with symptomatic persistent/long-standing persistent atrial fibrillation (P/LSP-AF).
+
+Background: Some studies have suggested a clinical benefit associated with PVI+PWI in patients with P/LSP-AF. However, there are limited safety and efficacy data on this approach using cryoballoon ablation.
+
+Methods: The immediate and long-term outcomes in patients with P/LSP-AF randomized to PVI (n = 55) versus PVI+PWI (n = 55) using the cryoballoon were prospectively examined.
+
+Results: Baseline characteristics were similar. PVI was achieved in all patients (21 ± 11 min). PWI was attained using 23 ± 8 min of cryoablation. Adjunct radiofrequency ablation was required in 4 of 110 patients (7.3%) to complete PVI (3 ± 2 min) and in 25 of 55 patients (45.5%) to complete PWI (4 ± 6 min). Although left atrial dwell time (113 ± 31 min vs. 75 ± 32 min; p < 0.001) and total procedure time (168 ± 34 min vs. 127 ± 40 min; p < 0.001) were longer with PVI+PWI, this cohort required fewer intraprocedural cardioversions (89.1% vs. 96.4%; p = 0.04). Adverse events occurred in 5.5% in each group (p = 1.00). However, the incidence of recurrent atrial fibrillation at 12 months was significantly lower with PVI+PWI (25.5% vs. 45.5%; p = 0.028). Additionally, in a multivariate analysis, PVI+PWI emerged as a significant predictor of freedom from recurrent atrial fibrillation (odds ratio: 3.67; 95% confidence interval: 1.44 to 9.34; p = 0.006).
+
+Conclusions: In patients with P/LSP-AF, PVI+PWI using the cryoballoon is associated with a significant reduction in atrial fibrillation recurrence, but similar safety, as compared with PVI alone.

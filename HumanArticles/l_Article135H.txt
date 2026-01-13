@@ -1,0 +1,9 @@
+Background: Differences in comorbidity, pharmacotherapy, cardiovascular (CV) outcome, and mortality between myocardial infarction (MI) patients and peripheral arterial disease (PAD) patients are not well documented.
+
+Aim: The aim of this study was to compare comorbidity, treatment patterns, CV outcome, and mortality in MI and PAD patients, focusing on sex differences.
+
+Methods: This observational, population-based study used data retrieved from mandatory Swedish national registries. The risks of MI and death were assessed by Kaplan-Meier analysis. Secondary preventive drug use was characterized. Cox proportional risk hazard modelling was used to determine the risk of specific events.
+
+Results: Overall, 91,808 incident MI patients and 52,408 PAD patients were included. CV mortality for MI patients at 12, 24, and 36 months after index was 12.3%, 19.3%, and 25.4%, and for PAD patients it was 15.5%, 23.4%, and 31.0%. At index, 89% of MI patients and 65% of PAD patients used aspirin and 74% and 53%, respectively, used statins. Unlike MI women, women with PAD had a lower rate of other CV-related comorbidities and a lower risk of CV events (age-adjusted hazard ratio 0.81, 95% confidence interval 0.79‒0.84), CV death (0.78, 0.75‒0.82), and all-cause death (0.78, 0.76‒0.80) than their PAD male counterparts.
+
+Conclusion: PAD patients were less intensively treated and had a higher CV mortality than MI patients. Women with PAD were less likely than men to present with established polyvascular disease, whereas the opposite was true of women with MI. This result indicates that the lower-limb vasculature may more often be the index site for atherosclerosis in women.

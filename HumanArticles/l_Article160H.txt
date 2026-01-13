@@ -1,0 +1,9 @@
+Objective: The aim of this prospective randomized-controlled trial was to evaluate the risks/benefits of prophylactic central neck dissection (pCND) in patients with clinically node negative (cN0) papillary thyroid cancer (PTC).
+
+Background: Microscopic lymph node involvement in patients with PTC is common, but the optimal management is unclear.
+
+Methods: Sixty patients with cN0 PTC were randomized to a total thyroidectomy (TT) or a TT+ pCND. All patients received postoperative laryngoscopies and standardized radioiodine treatment. Thyroglobulin (Tg) levels and/or neck ultrasounds were performed at 6 weeks, 6 months, and 1 year.
+
+Results: Tumors averaged 2.2 ± 0.2 cm and 11.9% had extra-thyroidal extension. Thirty patients underwent a pCND and 27.6% had positive nodes (all ≤6 mm). Rates of postoperative PTH < 10 (33.3% vs 24.1%, P = 0.57) and transient nerve dysfunction (13.3% vs 10.3%, P = 1.00) were not significantly different between groups. Six weeks after surgery, both TT and TT + pCND were equally likely to achieve a Tg < 0.2 (54.5% vs 66.7%, P = 0.54) and/or a stimulated Tg (sTg) <1 (59.3% vs 64.0%, P = 0.78). At 1 year, rates of Tg < 0.2 (88.9% vs 90.0%, P = 1.00) and sTg < 1 (93.8% vs 92.3%, P = 1.00) remained similar between groups. Neck ultrasounds at 1 year were equally likely to be read as normal (85.7% in TT vs 85.1% in pCND, P = 1.00).
+
+Conclusions: cN0 PTC patients treated either with TT or TT + pCND had similar complication rates after surgery. Although microscopic nodes were discovered in 27.6% of pCND patients, oncologic outcomes were comparable at 1 year.

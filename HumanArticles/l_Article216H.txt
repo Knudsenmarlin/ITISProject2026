@@ -1,0 +1,8 @@
+Objective: To analyse and compare changes in the collection of clinical variables after the implementation in daily practice of an evaluation checklist for patients with axial spondyloarthritis (axSpA) and psoriatic arthritis (PsA).
+
+Methods: An observational study was performed based on medical records review. The number and type of variables of the evaluation checklist in the medical records were collected. The first review was made before the implementation of the checklist, and the second one 6 months after the implementation (in different patients). A descriptive and bivariate analysis was carried out.
+
+Results: Six hospitals and 11 rheumatologists participated. A total of 83 and 68 medical records were reviewed before and after the implementation of the checklist. After the implementation, in the axSpA patients, a significant increase was recorded in alcohol consumption, diarrhoea or IBD and urethritis, diabetes mellitus, hyperlipidaemia, depression, obesity or gout/hyperuricaemia, weight, height, blood pressure, patient and physician global assessments of disease activity, BASDAI and DAS28. And, in the PsA patients, alcohol consumption, hypertension, diabetes mellitus, hyperlipidaemia, disease, gout/hyperuricaemia, thoracic expansion, cervical rotation, weight, height, blood pressure, patient and physician global assessments of disease, ASDAS, BASDAI, and BASFI were recorded. In general, there was a trend towards greater recording in axSpA compared with PsA.
+
+Conclusions: The implementation of a specific checklist in daily practice improves the evaluation of patients with axSpA and PsA. More efforts are necessary to continue improving the evaluation of patients with axSpA, but especially of those with PsA.
+

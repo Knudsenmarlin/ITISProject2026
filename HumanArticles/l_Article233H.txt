@@ -1,0 +1,9 @@
+Background: Surgical residency training has an extended tradition of long hours. Residency programs use a variety of call schedules to combat resident fatigue and sleep deprivation while maintaining adherence to duty hour restrictions. Nonetheless, there is a paucity of data regarding objective measurements of sleep during the different call schedules included in general surgery training.
+
+Objective: The primary objective of this study was to compare the quantity of sleep in 24-hour time frames across all types of shifts worked by general surgery residents at our institution. The secondary objective was to measure activity level in total steps during various time frames.
+
+Methods: This prospective observational study was performed between April 4 and August 26, 2018, with general surgery residents. Each resident was assigned a Fitbit Charge 2 to wear during all rotations, including general surgery and subspecialty services.
+
+Results: Twenty-six out of 31 residents voluntarily participated in the study (84%). In-house call (IHC) had significantly less sleep in a 24-hour time frame than home call and night float (144 vs 283 vs 246 minutes, P < .001 and P < .028). IHC had significantly more steps than home call (11 245 vs 8756 steps, P = .039). The smallest number of steps was obtained when residents were not working (7904 steps).
+
+Conclusions: Our data demonstrate that surgical residents on IHC have significantly less sleep compared to all other types of on-call time frames. Residents on IHC have the most steps across all time frames.

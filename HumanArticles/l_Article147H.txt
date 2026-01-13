@@ -1,0 +1,8 @@
+Aim: Obstructive sleep apnoea (OSA) is frequent in type 2 diabetes (T2D). The aim was to investigate the effect of a 12-week treatment with continuous positive airway pressure (CPAP) on glycaemic control assessed by continuous glucose monitoring (CGM), HbA1c and fasting blood glucose in patients with T2D and newly detected OSA.
+
+Methods: In a randomized controlled multicentre study, 72 participants with T2D and moderate to severe OSA (78% male, age 62 ± 7, AHI 35 ± 15) were recruited from outpatient clinics in three Danish hospitals and were randomized to CPAP intervention or control. The main outcome was glycaemic control assessed by 6 days CGM at baseline and after 12-week therapy, as well as by HbA1c and fasting blood glucose.
+
+Results: No significant changes were found in average glucose levels, time in glucose range, time with hypoglycaemia, time with hyperglycaemia or coefficient of variability. HbA1c decreased 0.7 mmol/mol (0.07%; P = .8) in the CPAP group and increased 0.8 mmol/mol (0.08%; P = .6) in the control group (intergroup difference, P = .6). Fasting blood glucose increased by 0.2 mmol/L (P = .02) in the CPAP group and by 0.4 mmol/L (P = .01) in the control group (intergroup difference, P = .7). In a prespecified subgroup analysis comparing participants with high adherence (minimum usage of four hours/night for 70% of all nights) to CPAP to the control group, no significant changes were observed either, although these participants had a tendency towards better glycaemic indices.
+
+Conclusions: CPAP treatment for 12 weeks does not significantly change glycaemic control in patients with type 2 diabetes and OSA.
+

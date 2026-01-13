@@ -1,0 +1,10 @@
+Background: The aim of this study was to investigate the effectiveness of a Computer-based Cognitive Behavioral Therapy (CCBT) and identify the characteristics of depressed adolescents that participated in the CCBT program.
+
+Methods: Screening tests for depression and help-seeking variables were conducted in school-aged Korean adolescents (n= 376, mean age=15.71 years, 53.7% female). The number of adolescents that scored above the threshold for mild depression (PHQ-9, CES-D) was 139. Fifty adolescents agreed to participate in the randomized controlled trial (RCT) of CCBT program. Twenty-five adolescents were randomly assigned to the treatment group, and the other 25 to the waitlist control group. The treatment group engaged in CCBT with therapeutic support. To identify variables affecting the outcomes, the quality of their homework compliance also was assessed.
+
+Results: Participants (n=50) who agreed to participate in the CCBT program demonstrated different help-seeking attitudes - a greater recognition of the need for help and lower interpersonal openness - compared to the adolescents (n=87) who did not participate (t = -2.93, p < .01; t = 3.50, p < .001). The treatment group showed significant improvements in depression, self-esteem, and quality of life compared to the waitlist group. Adolescents with high homework compliance showed a significant decrease in the depression scores compared to adolescents with low homework compliance.
+
+Limitations: Small sample size, no follow-up assessments.
+
+Conclusion: CCBT could be an effective alternative for depressed adolescents, especially those who tend to have low interpersonal openness. To improve the effects of CCBT, therapeutic support needs to be provided.
+

@@ -1,0 +1,17 @@
+Objective: A new type of device has recently been introduced in chest physiotherapy as an aid to tracheo-bronchial airway clearance: expiratory flow accelerator (EFA). It promotes mucus clearance without generating any pressure gradient, allowing patients to breathe at tidal volume against no resistance.
+
+Design: Pilot randomized controlled study.
+
+Setting: Tertiary hospital.
+
+Participants: Fifty adult patients who underwent lung cancer lobectomy were randomized to undergo chest physiotherapy with EFA (n=26) or PEP (n=24).
+
+Interventions: EFA; PEP bottle.
+
+Main outcomes: Incidence of postoperative pulmonary complications (PPC) and length of stay.
+
+Secondary outcomes: trends in inspiratory capacity, respiratory rate, oxygen saturation, and dyspnoea. Patients rated user-friendliness of the two devices on a 5-point Likert scale.
+
+Results: A slightly different incidence of PPCs was observed between the EFA and PEP group. Nevertheless, the length of stay was similar in the two groups. No substantial differences were seen in trends of inspiratory capacity, respiratory rate, oxygen saturation, dyspnoea between the two groups. Patient-reported user-friendliness of the two devices did not differ significantly, although the use of the EFA device appeared less strenuous.
+
+Conclusions: Results of this pilot study point to the use of EFA as an alternative treatment option rather than as a replacement for the PEP bottle in chest physiotherapy following lung cancer lobectomy. EFA may be preferable for weaker patients and/or with airway leakages in whom PEP has limited indications. Further investigation in a larger sample is required to statistically confirm the findings. Clinical Trial Registration Number ChiCTR-ONC-17013255.
