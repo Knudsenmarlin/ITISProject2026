@@ -162,18 +162,4 @@ if __name__ == "__main__":
     print(average_BM25_score('PerplexityArticles', k=1.2, b=0.75)[0])
     print(scoresHumanArticles, scoresChatGPTArticles, scoresPerplexityArticles, scoresDeepSeekArticles)
 
-import matplotlib.pyplot as plt
-plt.figure(figsize=(8, 5))
-
-plt.hist(scoresChatGPTArticles, bins=20, alpha=0.5, label="ChatGPT")
-plt.hist(scoresDeepSeekArticles, bins=20, alpha=0.5, label="DeepSeek")
-plt.hist(scoresPerplexityArticles, bins=20, alpha=0.5, label="Perplexity")
-
-plt.xlabel("BM25 score")
-plt.ylabel("Occurences")
-plt.title("BM25 Score Distribution Across Article Types")
-plt.legend()
-plt.show()
-
-
 ''
