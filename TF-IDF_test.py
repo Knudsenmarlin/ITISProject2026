@@ -104,7 +104,7 @@ def average_TDFIF_score(*folder):
                 scoreList = np.append(scoreList, find_combined_TFIDF_score(f))
     scoreMean = np.mean(scoreList)
     scoreStd = np.std(scoreList, ddof=1)
-    return float(scoreMean), float(scoreStd)
+    return float(scoreMean), float(scoreStd), scoreList
 
 def average_document_length(*folder):
     documentLengthList = np.array([])
@@ -142,16 +142,22 @@ def average_BM25_score(*folder, k, b):
                 scoreList = np.append(scoreList, find_combined_BM25_score(f, k, b))
     scoreMean = np.mean(scoreList)
     scoreStd = np.std(scoreList, ddof=1)
-    return float(scoreMean), float(scoreStd)
+    return float(scoreMean), float(scoreStd), scoreList
+
+scoresHumanArticles = average_BM25_score('HumanArticles', k=1.2, b=0.75)[2]
+scoresChatGPTArticles = average_BM25_score('NewChatGPTArticles', k=1.2, b=0.75)[2]
+scoresDeepSeekArticles = average_BM25_score('DeepSeekArticles', k=1.2, b=0.75)[2]
+scoresPerplexityArticles = average_BM25_score('PerplexityArticles', k=1.2, b=0.75)[2]
 
 if __name__ == "__main__":
     print(average_document_length('HumanArticles'))
     print(average_document_length('NewChatGPTArticles'))
     print(average_document_length('DeepSeekArticles'))
     print(average_document_length('PerplexityArticles'))
-    print(average_BM25_score('HumanArticles', k=1.2, b=0.75))
-    print(average_BM25_score('NewChatGPTArticles', 'DeepSeekArticles', 'PerplexityArticles', k=1.2, b=0.75))
-    print(average_BM25_score('DeepSeekArticles', 'PerplexityArticles', k=1.2, b=0.75))
-    print(average_BM25_score('NewChatGPTArticles', k=1.2, b=0.75))
-    print(average_BM25_score('DeepSeekArticles', k=1.2, b=0.75))
-    print(average_BM25_score('PerplexityArticles', k=1.2, b=0.75))
+    print(average_BM25_score('HumanArticles', k=1.2, b=0.75)[0])
+    print(average_BM25_score('NewChatGPTArticles', 'DeepSeekArticles', 'PerplexityArticles', k=1.2, b=0.75)[0])
+    print(average_BM25_score('DeepSeekArticles', 'PerplexityArticles', k=1.2, b=0.75)[0])
+    print(average_BM25_score('NewChatGPTArticles', k=1.2, b=0.75)[0])
+    print(average_BM25_score('DeepSeekArticles', k=1.2, b=0.75)[0])
+    print(average_BM25_score('PerplexityArticles', k=1.2, b=0.75)[0])
+    print(scoresHumanArticles, scoresChatGPTArticles, scoresPerplexityArticles, scoresDeepSeekArticles)
