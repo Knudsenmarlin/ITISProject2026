@@ -74,8 +74,8 @@ def combine_dictionaries(*dicts):
                 finalDict[key] = finalDict.get(key) + tempDict.get(key)
     return finalDict
 
-documentsWithTerm = count_documents_with_term('HumanArticles', 'ChatGPTArticles', 'DeepSeekArticles')
-totalDocuments = count_total_documents('HumanArticles', 'ChatGPTArticles', 'DeepSeekArticles')
+documentsWithTerm = count_documents_with_term('HumanArticles', 'ChatGPTArticles', 'DeepSeekArticles', 'PerplexityArticles')
+totalDocuments = count_total_documents('HumanArticles', 'ChatGPTArticles', 'DeepSeekArticles', 'PerplexityArticles')
 
 #The magic happens, we find the actual TF-IDF score of a given document. 
 def find_combined_TFIDF_score(document):
@@ -104,7 +104,7 @@ def average_TDFIF_score(*folder):
                 scoreList = np.append(scoreList, find_combined_TFIDF_score(f))
     scoreMean = np.mean(scoreList)
     scoreStd = np.std(scoreList, ddof=1)
-    return scoreMean, scoreStd
+    return float(scoreMean), float(scoreStd)
 
 def average_document_length(*folder):
     documentLengthList = np.array([])
@@ -113,9 +113,9 @@ def average_document_length(*folder):
         for f in folder_path.glob('*.txt'):
             totalWordsInDocument = count_words(txt_to_words(f))[1]
             documentLengthList = np.append(documentLengthList, totalWordsInDocument)
-    return np.mean(documentLengthList)
+    return float(np.mean(documentLengthList))
 
-averageDocumentLength = average_document_length('HumanArticles', 'ChatGPTArticles', 'DeepSeekArticles')
+averageDocumentLength = average_document_length('HumanArticles', 'ChatGPTArticles', 'DeepSeekArticles', 'PerplexityArticles')
 
 def find_combined_BM25_score(document, k, b):
     OkapiBM25Dict = dict()
@@ -142,8 +142,7 @@ def average_BM25_score(*folder, k, b):
                 scoreList = np.append(scoreList, find_combined_BM25_score(f, k, b))
     scoreMean = np.mean(scoreList)
     scoreStd = np.std(scoreList, ddof=1)
-    return scoreMean, scoreStd
-
+    return float(scoreMean), float(scoreStd)
 
 if __name__ == "__main__":
     print(find_combined_TFIDF_score('HumanArticles/l_Article2H.txt'))
@@ -151,11 +150,17 @@ if __name__ == "__main__":
     print(find_combined_TFIDF_score('HumanArticles/l_Article3H.txt'))
     print(find_combined_BM25_score('HumanArticles/l_Article3H.txt', k=1.2, b=0.75))
     print(average_TDFIF_score('HumanArticles'))
+    print(average_TDFIF_score('ChatGPTArticles', 'DeepSeekArticles', 'PerplexityArticles'))
     print(average_TDFIF_score('ChatGPTArticles'))
     print(average_TDFIF_score('DeepSeekArticles'))
+    print(average_TDFIF_score('PerplexityArticles'))
     print(average_document_length('HumanArticles'))
     print(average_document_length('ChatGPTArticles'))
     print(average_document_length('DeepSeekArticles'))
+    print(average_document_length('PerplexityArticles'))
     print(average_BM25_score('HumanArticles', k=1.2, b=0.75))
+    print(average_BM25_score('ChatGPTArticles', 'DeepSeekArticles', 'PerplexityArticles', k=1.2, b=0.75))
+    print(average_BM25_score('DeepSeekArticles', 'PerplexityArticles', k=1.2, b=0.75))
     print(average_BM25_score('ChatGPTArticles', k=1.2, b=0.75))
     print(average_BM25_score('DeepSeekArticles', k=1.2, b=0.75))
+    print(average_BM25_score('PerplexityArticles', k=1.2, b=0.75))
