@@ -74,8 +74,8 @@ def combine_dictionaries(*dicts):
                 finalDict[key] = finalDict.get(key) + tempDict.get(key)
     return finalDict
 
-documentsWithTerm = count_documents_with_term('HumanArticles', 'ChatGPTArticles', 'DeepSeekArticles', 'PerplexityArticles')
-totalDocuments = count_total_documents('HumanArticles', 'ChatGPTArticles', 'DeepSeekArticles', 'PerplexityArticles')
+documentsWithTerm = count_documents_with_term('HumanArticles', 'NewChatGPTArticles', 'DeepSeekArticles', 'PerplexityArticles')
+totalDocuments = count_total_documents('HumanArticles', 'NewChatGPTArticles', 'DeepSeekArticles', 'PerplexityArticles')
 
 #The magic happens, we find the actual TF-IDF score of a given document. 
 def find_combined_TFIDF_score(document):
@@ -115,7 +115,7 @@ def average_document_length(*folder):
             documentLengthList = np.append(documentLengthList, totalWordsInDocument)
     return float(np.mean(documentLengthList))
 
-averageDocumentLength = average_document_length('HumanArticles', 'ChatGPTArticles', 'DeepSeekArticles', 'PerplexityArticles')
+averageDocumentLength = average_document_length('HumanArticles', 'NewChatGPTArticles', 'DeepSeekArticles', 'PerplexityArticles')
 
 def find_combined_BM25_score(document, k, b):
     OkapiBM25Dict = dict()
@@ -145,22 +145,13 @@ def average_BM25_score(*folder, k, b):
     return float(scoreMean), float(scoreStd)
 
 if __name__ == "__main__":
-    print(find_combined_TFIDF_score('HumanArticles/l_Article2H.txt'))
-    print(find_combined_BM25_score('HumanArticles/l_Article2H.txt', k=1.2, b=0.75))
-    print(find_combined_TFIDF_score('HumanArticles/l_Article3H.txt'))
-    print(find_combined_BM25_score('HumanArticles/l_Article3H.txt', k=1.2, b=0.75))
-    print(average_TDFIF_score('HumanArticles'))
-    print(average_TDFIF_score('ChatGPTArticles', 'DeepSeekArticles', 'PerplexityArticles'))
-    print(average_TDFIF_score('ChatGPTArticles'))
-    print(average_TDFIF_score('DeepSeekArticles'))
-    print(average_TDFIF_score('PerplexityArticles'))
     print(average_document_length('HumanArticles'))
-    print(average_document_length('ChatGPTArticles'))
+    print(average_document_length('NewChatGPTArticles'))
     print(average_document_length('DeepSeekArticles'))
     print(average_document_length('PerplexityArticles'))
     print(average_BM25_score('HumanArticles', k=1.2, b=0.75))
-    print(average_BM25_score('ChatGPTArticles', 'DeepSeekArticles', 'PerplexityArticles', k=1.2, b=0.75))
+    print(average_BM25_score('NewChatGPTArticles', 'DeepSeekArticles', 'PerplexityArticles', k=1.2, b=0.75))
     print(average_BM25_score('DeepSeekArticles', 'PerplexityArticles', k=1.2, b=0.75))
-    print(average_BM25_score('ChatGPTArticles', k=1.2, b=0.75))
+    print(average_BM25_score('NewChatGPTArticles', k=1.2, b=0.75))
     print(average_BM25_score('DeepSeekArticles', k=1.2, b=0.75))
     print(average_BM25_score('PerplexityArticles', k=1.2, b=0.75))
