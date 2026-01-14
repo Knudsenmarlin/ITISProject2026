@@ -40,11 +40,11 @@ def count_words(stemmedText):
 
 #Count the total amount of documents in mulitple folders, only counting files. This is needed for calculating the "IDF" part of "TF-IDF".
 def count_total_documents(*folder):
-    num_files = 0
+    numFiles = 0
     for folderName in folder:
         folder_path = Path(folderName)
-        num_files += sum(1 for f in folder_path.iterdir() if f.is_file())
-    return num_files
+        numFiles += sum(1 for f in folder_path.iterdir() if f.is_file())
+    return numFiles
 
 #Count whether or not one of our AI-terms was used in a .txt file. This is for calculating the "IDF" part of "TF-IDF".
 def count_documents_with_term(*folder):
