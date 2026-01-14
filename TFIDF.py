@@ -106,6 +106,7 @@ def average_TDFIF_score(*folder):
     scoreStd = np.std(scoreList, ddof=1)
     return float(scoreMean), float(scoreStd), scoreList
 
+#Calculates the average word count of all the documents in a folder
 def average_document_length(*folder):
     documentLengthList = np.array([])
     for folderName in folder:
@@ -117,6 +118,7 @@ def average_document_length(*folder):
 
 averageDocumentLength = average_document_length('HumanArticles', 'NewChatGPTArticles', 'DeepSeekArticles', 'PerplexityArticles')
 
+#We find the BM25 score, which is sort of a TFIDF score, just a bit fancier
 def find_combined_BM25_score(document, k, b):
     OkapiBM25Dict = dict()
     occurancesTerm, totalWordsInDocument = count_words(txt_to_words(document))
@@ -133,6 +135,7 @@ def find_combined_BM25_score(document, k, b):
         combinedBM25 += OkapiBM25Dict[key]
     return combinedBM25
 
+#Here we just calculate the average of that score
 def average_BM25_score(*folder, k, b):
     scoreList = np.array([])
     for folderName in folder:
