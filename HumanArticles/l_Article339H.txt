@@ -1,0 +1,13 @@
+Abstract
+Aims: To investigate the oral health status of aged residents and explore the possible factors associated with oral health and the effect of cognitive impairment (CI) on it in geriatric care facilities (GCF) using oral health assessment tool (OHAT) in Shanghai, China.
+
+Background: Oral health is closely associated with overall health. Problems like missing teeth, dental caries, dental pain, periodontal diseases, oral infections and dysphagia are common in GCFs. Furthermore, residents in GCFs with CI are becoming a dominant group and this prevalence increases with age. Detection of oral problems earlier and taking oral care actions is required for these special populations.
+
+Methods: The study was an observational cross-sectional study conducted in 42 GCFs. Data were collected from 657 subjects, including oral health assessment (OHAT), cognitive impairment (Mini-Mental State Examination, MMSE) and respondents' characteristics. The subjects were divided into CI group and non-CI group based on MMSE. Oral health conditions were compared between the two groups.
+
+Results: Oral health status in the CI group was significantly worse than that in the non-CI group (p < .001) with four OHAT dimensions (tongue (p = .0007), saliva (p = .0011), natural teeth (p = .0155) and oral cleanliness (p < .001)). The worst dimension was natural teeth. Debris and plaque index (p < .001), oral odour (p < .001), chewing function (p = .0151) and swallowing function (p = .0405) were worse in CI group than those in non-CI group. In the CI group, providing oral care was a protective factor in oral health (OR = 0.600 95CI% (0.39-0.92)) and wearing dentures was a risk factor (OR = 2.09, 95CI% (1.31-3.32)), while the similar effects were not found in non-CI group.
+
+Conclusions: Oral health status among aged residents in GCFs in China was worse among individuals with CI. Caregivers in GCFs should focus more on seniors' oral health with CI.
+
+Relevance to clinical practice: Residents who are suffering from CI are more vulnerable to have oral problems. Regular and proper oral health check-ups in daily nursing work to define oral problems of residents are significant. Nursing staff should pay more attention to oral assessment and effective intervention.
+

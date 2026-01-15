@@ -1,0 +1,9 @@
+Introduction: Muscle monitoring during mechanical ventilation (MV) is gaining great interest nowadays; however, a proper monitoring tool is not well-established yet.
+
+Objectives: To assess the role of ultrasound in muscle monitoring during MV in respiratory patients.
+
+Methods: Eligible 68 mechanically ventilated patients were consecutively enrolled. Serial ultrasound measurements of diaphragmatic thickness at the end of inspiration (Tdi) and mid-upper arm (MUA) muscle thickness were recorded every other day till weaning. Before discharge, functional status score (FSS) was assessed.
+
+Results: Tdi decreased in 72.1%, did not change in 13.2% and increased in 14.7% of the patients. MUA muscle thickness decreased in 47.17% and did not change in others. Significant correlation between Tdi and MUA muscle thickness change was found (r = 0.404, P = 0.001); however, MUA muscle thickness change could not predict Tdi change (B = 0.067, P = 0.059). Diaphragmatic and MUA thickness change showed significant negative correlation with ICU stay (r = -0.260, -0.647, P = 0.032, <0.001) and MV duration (r = -0.335, -0.596, P = 0.005, <0.001), respectively. Weaning failure was significantly higher among patients with decreased Tdi (64.28%) and FSS was significantly lower in those with decreased MUA muscle thickness. US measurements of Tdi and MUA muscle thickness showed excellent intra-observer (ICC = 0.996, 0.999, P < 0.001) and inter-observer agreement (ICC = 0.992, 0.998, P < 0.001), respectively.
+
+Conclusion: Sonographic muscle monitoring during MV is promising. Changes in the diaphragmatic thickness during MV are common and weakly related to those of peripheral muscles. Early decreased muscle thickness heralds poor weaning and functional outcome.

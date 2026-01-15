@@ -1,0 +1,7 @@
+Objective: In South Asia, up to one in five individuals who ingest pesticides for self-poisoning and survive purchased them from a shop immediately prior to the event. Thus far, no research has taken place to determine whether interventions implemented through the pesticide sellers might be acceptable or effective, despite the hundreds of thousands of such risk purchases each year. We aimed to investigate factors associated with purchasing pesticides for self-poisoning in Sri Lanka.
+
+Methods: We used a case-control study. Cases (n = 50) were individuals who ingested pesticides after purchasing them for the act, and controls (n = 200) were customers who bought pesticides but did not use them for self-harm. Logistic regression analysis was used to assess socio-demographic and purchase-specific risk factors.
+
+Results: Alcohol intoxication (adjusted odds ratios [AOR] 36.5, 95% confidence intervals [CI] 1.7-783.4) and being a non-farmer AOR 13.3, 95% CI 1.8-99.6 were the main distinguishing factors when purchasing pesticides for self-poisoning. The positive predictive values were 93.3% (95% CI 68.0-99.8%) and 88.2% (95% CI 72.5-96.7%), respectively. One and/or other of these factors characterised 72.0% of cases but only 2.5% controls.
+
+Conclusion: While results need to be interpreted cautiously, sales restrictions to prevent alcohol-intoxicated persons and non-farmers purchasing pesticides for self-poisoning may be effective.

@@ -1,0 +1,9 @@
+Aim: The study aimed to assess the efficacy of using WhatsApp instant messages in enhancing the oral hygiene in patients with gingivitis.
+
+Materials and methods: Forty-three systemically healthy male dental patients with gingivitis were recruited consecutively and randomly divided into two groups: WhatsApp group (n = 24) and a control group (n = 19). At baseline visit, the participants were educated and motivated about oral health and given a folio on instructions about the oral hygiene preventive measures. The participants in the study group further received WhatsApp messages about the dental care at weekly intervals throughout the study (3 months). Plaque index (PI) and gingival index (GI) were measured at baseline and after 1 and 3 months.
+
+Results: The averages of PI and GI were not significantly different between both groups at any time point of measurement (baseline, after one, and three months; p value >0.05). Intragroup comparisons revealed that the reductions in PI were highly significant after 1 and 3 months (-0.26 ± 0.26 and -0.57 ± 0.35, respectively, for WhatsApp group, and -0.24 ± 0.27 and -0.64 ± 0.4. respectively, for the control group; p value range: 0.001 to <0.001). Similar were the reductions in GI in each individual group (-0.17 ± 0.46 and -0.67 ± 0.05, respectively, for WhatsApp group, and -0.28 ± 0.29 and -0.69 ± 0.41, respectively, for the control group: p value < 0.001).
+
+Conclusion: Implementing WhatsApp instant messages does not appear to add extrabenefit to the traditional motivation and education on oral hygiene practices in terms of changes in PI and GI over time in patients with gingivitis.
+
+Clinical significance: Although the results were not motivating, this does not preclude the dental professionals from using WhatsApp and the similar technology to deliver oral healthcare advices.

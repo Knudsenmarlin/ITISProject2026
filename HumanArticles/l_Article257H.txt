@@ -1,0 +1,11 @@
+Objective: To describe the effects of presurgical preparation with an isopropyl alcohol or water rinse on the perioperative rectal temperature (RT) of puppies and kittens.
+
+Study design: Randomized clinical trial.
+
+Animals: A total of 48 intact female mixed breed puppies and 43 intact female Domestic Short Hair kittens aged 8-18 weeks.
+
+Methods: All animals were premedicated with intramuscular buprenorphine (0.02 mg kg-1) and acepromazine (0.05 mg kg-1). Anesthesia was induced with intravenous propofol (4 mg kg-1 to effect) for puppies or ketamine (5 mg kg-1) and midazolam (0.25 mg kg-1) for kittens. RT was measured every minute for the first 15 minutes at the beginning of hair/fur removal, then every 5 minutes for 45 minutes (dogs) and 35 minutes (cats). All animals were prepared for surgery using a 1.6% chlorhexidine solution, then rinsed with either isopropyl alcohol (group CA) or water (group CW).
+
+Results: Mean RT difference between the groups was not significant at any time point. The mean RT at 45 minutes for dogs was 35.9 °C and 36.0 °C in groups CA and CW, respectively (p = 0.74). The mean RT at 35 minutes for cats was 35.1 °C in both groups (p = 0.84).
+
+Conclusions and clinical relevance: The use of either water or alcohol as a rinsing agent results in the same degree of perioperative temperature change. Other factors that contribute to perioperative hypothermia should be considered when choosing between these rinsing agents in surgical preparation of pediatric and small animals.

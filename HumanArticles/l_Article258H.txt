@@ -1,0 +1,10 @@
+Background: Currently, greater background is required about the effectiveness of myofascial release (MFR) on muscle flexibility.
+
+Objective: Our goal was to determine the immediate effect of a direct MFR technique on hip and cervical flexibility in inactive females with hamstring shortening.
+
+Method: The sample group included 68 female university students, randomly divided into a control group (n = 34) and an experimental group (n = 34). A placebo technique was used with the control group, and direct MFR on the posterior thigh region was used with the experimental group.
+
+Results: The mixed factorial ANOVA did not show significant intergroup differences (p > 0.05). In the experimental group, Bonferroni post hoc test showed significant intragroup differences between pre-test and post-test 1, as well as between pre-test and post-test 2 for the three ischiotibial muscle flexibility tests (p < 0.001). Cervical flexion range of motion showed significant differences between pre-test and post-test 1 (p < 0.001).
+
+Conclusions: We conclude that the protocol based on a single direct MFR intervention was no more effective than the placebo in improving flexibility both locally at the hamstring level and remotely at the level of the cervical extensor muscles. Future research should consider different MFR techniques on the immediate increase in muscle flexibility and the long-term effect of MFR, as well as consider different intervention groups.
+

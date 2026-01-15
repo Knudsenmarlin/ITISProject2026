@@ -1,0 +1,15 @@
+Objectives: To assess the feasibility of a multi-site randomised controlled trial to evaluate the effect of functional electrical stimulation on bradykinesia in people with Parkinson's disease.
+
+Design: A two-arm assessor blinded randomised controlled trial with an 18 weeks intervention period and 4 weeks post-intervention follow-up.
+
+Setting: Two UK hospitals; a therapy outpatient department in a district general hospital and a specialist neuroscience centre.
+
+Participants: A total of 64 participants with idiopathic Parkinson's disease and slow gait <1.25 ms-1.
+
+Interventions: Functional electrical stimulation delivered to the common peroneal nerve while walking in addition to standard care compared with standard care alone.
+
+Main measures: Feasibility aims included the determination of sample size, recruitment and retention rates, acceptability of the protocol and confirmation of the primary outcome measure. The outcome measures were 10 m walking speed, Unified Parkinson's Disease Rating Scale (UPDRS), Mini Balance Evaluation Systems Test, Parkinson's Disease Questionnaire-39, EuroQol 5-dimension 5-level, New Freezing of Gait questionnaire, Falls Efficacy Score International and falls diary. Participants opinion on the study design and relevance of outcome measures were evaluated using an embedded qualitative study.
+
+Results: There was a mean difference between groups of 0.14 ms-1 (CI 0.03, 0.26) at week 18 in favour of the treatment group, which was maintained at week 22, 0.10 ms-1 (CI -0.05, 0.25). There was a mean difference in UPDRS motor examination score of -3.65 (CI -4.35, 0.54) at week 18 which was lost at week 22 -0.91 (CI -2.19, 2.26).
+
+Conclusion: The study design and intervention were feasible and supportive for a definitive trial. While both the study protocol and intervention were acceptable, recommendations for modifications are made.

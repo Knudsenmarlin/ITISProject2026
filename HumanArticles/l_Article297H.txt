@@ -1,0 +1,7 @@
+Objective: To investigate the clinical effect and safety of moxibustion therapy based on Sancai theory for reinforcing intelligence in the early intervention of mild cognitive impairment (MCI).
+
+Methods: A total of 210 patients with MCI were divided into moxibustion group and medication group using a random number table, with 105 patients in each group. The patients in the moxibustion group were given moxibustion at Baihui (GV20), Shenque (CV8), and Yongquan (KI1) once every other day, 20 minutes each time, for a total of 8 weeks, and those in the medication group were given oral Nimodipine 30 mg once a day for 8 weeks. Mini-Mental State Examination (MMSE) score, score of meaningless graphics recognition of Clinical Memory Scale (CMS), and event-related potential P300 latency were evaluated before treatment, after 8 weeks of treatment, and at 12 weeks after treatment, and the safety of treatment was analyzed for both groups.
+
+Results: Both groups had significant increases in MMSE score and the score of meaningless graphics recognition of CMS and a significant reduction in P300 latency after treatment and during follow-up (P<0.01,P<0.05). Compared with the medication group, the moxibustion group had a significant increase in MMSE score and a significant reduction in P300 latency after treatment (P<0.05).
+
+Conclusion: Moxibustion therapy based on Sancai theory for reinforcing intelligence can improve cognitive impairment in patients with MCI and is thus an effective intervention method for improving the cognitive function of patients with MCI.

@@ -1,0 +1,7 @@
+Background: Nanoliposomal irinotecan (Nal-IRI) is a preferred second-line treatment for metastatic pancreas cancer. It is unclear, however, whether patients who had received irinotecan derive benefit.
+
+Methods: Medical records of metastatic pancreas cancer patients who had received irinotecan and then Nal-IRI were reviewed. The primary endpoint was overall survival after the initiation of Nal-IRI (an a priori threshold of >4 months defined success); adverse events and quotes from the medical record on decision-making were also recorded.
+
+Results: Sixty four patients met eligibility criteria with a median age of 65 years (range: 36, 80 years). The median overall survival from initiation of Nal-IRI was 5.1 months (95% confidence interval (CI): 4.3, 5.6 months). An exploratory comparison, based on no cancer progression with irinotecan versus progression, showed improved survival with Nal-IRI in the former group: 6.1 months (95% CI: 5.1, 9.3 months) versus 4.3 months (95% CI: 2.3, 4.8 months); p = 0.0006. Nal-IRI adverse events occurred as expected. Qualitative data illustrate several themes, including "limited treatment options," which appeared to drive the decision to prescribe Nal-IRI.
+
+Conclusion: Nal-IRI might be considered in pancreas cancer patients who had received irinotecan, particularly in the absence of disease progression with the latter.

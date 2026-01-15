@@ -1,0 +1,13 @@
+Objective: This study aims to investigate the efficacy of cognitive functional therapy (CFT) compared to core training exercise (CTE) on pain and specific disability of patients with failed back surgery syndrome (FBSS).
+
+Design: This will be a randomized controlled clinical trial of two groups with blinded evaluators.
+
+Setting: The study will be conducted at the Federal University of Santa Catarina (UFSC) and a private clinic in Florianópolis, SC, Brazil.
+
+Participants: A total of 80 participants, of both sexes, with FBSS.
+
+Intervention: Subjects will be randomized into two groups: one group receiving CFT or CTE. Individuals will be assisted once a week, for a maximum period of 12 weeks, with four being the minimum number of visits and 12 being the maximum number of visits.
+
+Measurements: The primary outcomes will be pain and specific disability.
+
+Conclusions: This is the first study investigating whether CFT is efficacious for patients with FBSS and chronic low back pain. The study's sample size was calculated to detect the effect of clinically relevant treatment with a low risk of bias. This clinical trial was designed to be able to reproduce an approach as a physiotherapist trained in CFT would do. That is, in a pragmatic way, increasing the significance of this study. CTE comprises a strategy widely used by physiotherapists to treat low back pain. Given that the scientific evidence of its efficacy for pain management is limited, the findings of this study will assist physiotherapists in their clinical decision-making.

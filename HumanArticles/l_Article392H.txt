@@ -1,0 +1,12 @@
+Background: As the obesity epidemic worsens, anesthesiologists should expect to see more obese patients presenting for surgical procedures. Opioids cause respiratory depression, which has caused complications in patients with obstructive sleep apnea. Opioids can also cause nausea, prolonging the time that patients spend in the postanesthesia care unit. Ketamine is a potential analgesic alternative that may have advantages to narcotics in the bariatric population.
+
+Objectives: To determine whether an intraoperative ketamine infusion would reduce postoperative narcotic use in patients during the first 48 hours after laparoscopic gastric bypass.
+
+Setting: Major academic medical center.
+
+Methods: There were 54 participating patients. The intervention group (n = 27) was randomized to receive 100 μg of fentanyl with anesthesia induction, then a 20-mg bolus of ketamine, followed by a 5 μg/kg/min intraoperative ketamine infusion starting after anesthesia induction and ending after wound closure commenced. The control group (narcotic only, n = 27) also received 100 μg of fentanyl at anesthesia induction and intraoperative boluses of fentanyl at the discretion of the anesthesia team, with .3 mg of hydromorphone administered approximately 45 minutes before the completion of surgery.
+
+Results: At 24 hours, the mean morphine-equivalent units (MEUs) were 12.7 (standard deviation [SD], 9.9; 95% confidence interval [CI], 8.8-16.6) for the ketamine group (n = 28) and 16.5 (SD, 9.8; 95% CI, 12.6-20.4) for the control group (n = 28). At 48 hours, the MEUs were 16.7 (SD, 12.0; 95% CI, 11.9-21.4) for the ketamine group and 22.7 (SD, 14.9; 95% CI, 16.8-28.6) for the control group. Cumulative MEUs for 24 hours (P = .039) and 48 hours (P = .058) postoperatively were lower in the ketamine group compared with the narcotic-only (control) group, although the difference at 48 hours did not reach statistical significance. Compared with the narcotic-only group, the ketamine group used 26% fewer MEUs after 24 hours and 31% fewer MEUs after 48 hours. This difference can mostly be attributed to group differences during the first 6 hours after surgery.
+
+Conclusions: Ketamine successfully reduced the amount of opioids required to control bariatric patients' pain at 24 hours postoperatively, but not over the 48-hour postoperative period.
+

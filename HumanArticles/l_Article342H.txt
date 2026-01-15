@@ -1,0 +1,9 @@
+Study design: This is a cross-sectional observational study.
+
+Background: Reference equations for describing hand-grip strength across the age span were derived from the 2011 NIH Toolbox norming study.
+
+Purpose: The purpose of this study was to cross-validate reference equations by evaluating its predicting power on a separate, independent data set from the 2011-2014 National Health and Nutrition Examination Survey (NHANES) study METHODS: Observed hand-grip strength data from 13,676 noninstitutionalized participants were obtained from the NHANES study. Best values (best from 3 trials) and the mean values (averaged from 3 trials) were determined for each hand. Using the age (yr), height (m), and weight (kg), we computed predicted grip strength values for dominant and nondominant hands using the reference equations. For validation, three predictability measures: the correlation coefficient, residuals, and accuracy, were used along with the Bland-Altman plot.
+
+Results: The predicted values highly correlated with observed values (r = 0.90, ICC = 0.89). In predicting best values, means (SD) of residuals were 1.41 (5.57) and 1.03 (5.44) kg for dominant and nondominant hands, respectively. In predicting mean values, means (SD) of residuals were -0.23 (5.42) and -0.54 (5.31) kg for dominant and nondominant hands, respectively. Root mean square error ranged from 4.10 (female's nondominant mean values) to 6.74 (male's dominant best values). About 5.56% fell outside of the 95% confidence interval of the prediction.
+
+Conclusions: We acknowledged that the two studies' hand-grip protocols (NIH Toolbox, NHANES) were different. Results provided the preliminary predicting performance of the reference equations derived from the NIH Toolbox study.

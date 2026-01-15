@@ -1,0 +1,9 @@
+Introduction: The routine of work inside the clothing industry has been associated with high levels stress perceived by the worker. The parameters of heart rate variability (HRV) are objective markers of the organic response to stress.
+
+Objective: This trial evaluates if suboccipital fascial release (SFR) technique was able to influence HRV parameters in workers in the clothing industry.
+
+Methods: Randomized clinical trial. Forty women who worked in clothing industry were randomized into two groups, untreated group (UG, n = 15) and treated group (TG, n = 25). Heart rate (HR) and HRV parameters were measured using a heart rate monitor. Statistical analysis of data distribution and within group and between groups analysis were performed with α adjusted to 0.05.
+
+Results: Within group analysis in the TG showed significant changes in the following parameters: sympathovagal balance (low frequency/high frequency - LF/HF) (p ≤ 0.01), mean RR intervals (p ≤ 0.01), mean heart rate (Mean HR) (p ≤ 0.01), minimum heart rate (Min. HR) (p = 0.02) and maximum heart rate (Max. HR) (p ≤ 0.01). Between group analysis, on the other hand, showed significant variations in Very Low Frequency (VLF) (p = 0.04) and Max. HR (p = 0.03) in favor of the TG. No significant changes were observed in the UG during the same period.
+
+Conclusion: The comparison between groups showed that SFR may influence HRV parameters more than rest in workers in the clothing industry and possibly may contribute to the improvement of the stress experienced by them.

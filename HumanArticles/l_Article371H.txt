@@ -1,0 +1,10 @@
+Introduction: Stem cell transplantation has been a therapeutic option for increasingly older patients but the search for the donor is an additional question in this context. Currently the ideal donor is a sibiling with fully compatible human leukocyte antigens, but when it is an elderly patient there is a high probability that this donor is also elderly, and the donor age has been related to worse outcomes and the possible comorbidities may render the donor ineligible.
+
+Objective: To compare, in patients aged 50 years or older, the overall survival of patients whose donor had haploidentical HLA compatibility and under 50 years of age ("young" donor) versus patients whose donor had a total HLA compatibility and 50 years of age or older ("elderly" donor).
+
+Methods: This is a consecutive retrospective descriptive observational epidemiological study. All patients were treated during the period from January, 2010 to April, 2019. Overall survival of patients 50 years of age and older was the primary outcome of the study.
+
+Result: We included 53 patients. In the multivariate analysis we found no statistically significant difference in overall survival between patients whose donor had fully HLA compatible aged 50 years and older and patients whose donor had haploidentical HLA compatible and aged up to 50 years (p = 0.135).
+
+Conclusion: The results obtained in the study show that for patients aged 50 years or older, a donor with haploidentical human leukocyte antigen compatibility and age below 50 years can be chosen without impairing overall survival.
+

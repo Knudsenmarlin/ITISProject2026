@@ -1,0 +1,7 @@
+Objectives: This randomized study was aimed at evaluating the additional analgesic effect of Okada Purifying Therapy (OPT) when administered in combination with duloxetine in patients with Temporomandibular Disorders (TMDs) and Fibromyalgia (FM).
+
+Methods: Patients with TMDs visited at Department of Oral and Maxillofacial Sciences, Sapienza University of Rome who were diagnosed with FM were selected for the study. The final sample was composed of 31 patients: 15 patients were treated only with duloxetine (Group I) and 16 patients underwent also OPT treatment (Group II), for eight weeks. Craniomandibular index, total tenderness score, Brief Pain Inventory Modified Short Form, Fibromyalgia Impact Questionnaire, Beck Depression Inventory and State and Trait Anxiety Inventory-1 were assessed at the beginning (T0), during the course (T1) and after therapy (T2). Descriptive and inferential statistics were performed.
+
+Results: In all the data analyzed, both groups showed an improvement in particular between T0 and T1. No statistically significant differences were observed between the two groups during the trial, except for the interaction between treatment and time as to the ability of walking at the BPI-I (F=7.57, p=0.002). No side effects due to the duloxetine were recorded in group II compared to group I.
+
+Conclusion: The additional complementary treatment (OPT) did not appear to give the patients with TMDs and FM any further benefit but it might improve pharmacological tolerability of the traditional medication.

@@ -1,0 +1,10 @@
+Introduction: Falls in hospitals are a major problem also in pediatric settings. No Pediatric Fall Risk Assessment Scales (PFRAS) are validated in Italian.
+
+Goals: to perform the Italian validation of the Humpty-Dumpty Falls Scale (HDFS); to assess its predictive performance; to estimate the frequency of falls in hospitalized children and to analyze possible associations between children's clinical variables and falls.
+
+Methods: The study's first step was the cultural-linguistic validation of HDFS in Italian. Second, evaluation of the Italian HDFS's performance on 1500 hospitalized children. Third, modifications of the Italian HDFS to improve its performance. Fourth, analysis of falls frequency and associations between falls and patients' clinical variables.
+
+Results: The Italian HDFS (HDFS-ita) showed good Validity (SCVI=0.92) and inter-rater Reliability (Cohen's kappa=0.965), but poor Sensitivity (77.8%) and Specificity (36.6%). A new 3-item version of the HDFS-ita (HDFS-ita-M) was set, with a cut-off of 7, only for subjects 1 to 15 year-old. Although better, the HDFS-ita-M's performance remains poor (Sensitivity=77.8%, Specificity=53.3%, ROC curve's AOC=0.670). The frequency of pediatric falls was 6.38 per thousand children (CI95% 3.36-12.08) with a maximum frequency in children aged 3 to 6 years (11.28 per thousand children, CI95% 3.84-32.63). Motor/walking disorders (p=0.005), enuresis (p=0.0002), being in single room (p=0.04), admittance to pediatric neuropsychiatry/neurology wards (p=0.001), and neurological disorders (p=0.02) were associated to falls.
+
+Discussion: HDFS-ita-M has a better but still poor performance than HDFS-ita. This study provides useful data about pediatric falls and their possible risk factors which will help pediatric hospitals in determining patient safety policies. Further studies are needed to determine an adequate panel of variables to estimate pediatric falls risk.
+

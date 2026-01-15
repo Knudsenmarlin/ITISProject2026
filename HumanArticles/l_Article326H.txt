@@ -1,0 +1,12 @@
+Background: Whole-body vibration (WBV) may be an alternative of physical training for kidney transplant recipients.
+
+Objective: To evaluate the effect of a training program on quadriceps muscle strength and thickness, distance walked in the 6-min walking test (6MWT), respiratory muscle strength and quality of life in adult kidney transplant recipients.
+
+Design: Randomized controlled clinical trial.
+
+Method: Twelve kidney transplant recipients of both genders who underwent WBV training (35 Hz) twice a week for 12 weeks on alternate days (WBVG), and training with a Sham Group (SG) were evaluated before and after intervention.
+
+Results: No difference was observed in quadriceps muscle strength and thickness between groups, however a large (d = 0.81) and a small (d = 0.44) effect size were observed after the training, respectively. Both groups improved the execution time of Sit-to-Stand Test before and after analysis, but this effect did not show superiority between them, however there was a large effect size provided by training (d = 1.11). No changes were observed between groups in relation to inspiratory muscle strength, but training effects could be observed by the effect size after the study period (d = 0.59). No changes were observed regarding the distance walked in the 6MWT and the effect size was small (d = 0.31).
+
+Conclusion: WBV program would induce physiological responses that must be taken into consideration in adults' kidney transplant recipients. Our results show considerable effect sizes were observed for muscle strength and quadriceps thickness, inspiratory muscle strength, and 6MWT walking distance, although no difference was observed between groups at the end of the study.
+

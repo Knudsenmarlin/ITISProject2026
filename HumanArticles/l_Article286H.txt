@@ -1,0 +1,13 @@
+Objective: To determine if adding dry needling to a four-week exercise program has an additional benefit compared with adding sham dry needling to the same exercise program in subjects with chronic low back pain.
+
+Design: Randomized clinical trial.
+
+Setting: Physiotherapy and Pain Clinic of Alcala University.
+
+Subjects: Forty-six patients with chronic low back pain.
+
+Methods: Subjects were randomized to two groups: the dry needling group (N = 23) or sham dry needling group (N = 23). Both groups received a four-week exercise program and before the exercise started a session of dry needling or sham dry needling. Pain (visual analog scale), disability (Roland-Morris Questionnaire), and fear avoidance beliefs (Fear Avoidance Beliefs Questionnaire) were assessed at baseline, after treatment, and at three-month follow-up. Pressure pain thresholds (algometer) were measured at baseline, after the dry needling or the sham dry needling, and after treatment.
+
+Results: Both groups showed significant improvements for all variables. In the between-group comparison, the dry needling group improved significantly in pain at three-month follow-up and pressure pain thresholds at the end of treatment for all measures, and at three-month follow-up there was no improvement in gluteus medium.
+
+Conclusions: In chronic low back patients, adding dry needling to a four-week exercise program has an additional benefit in pain and sensitivity compared with adding sham dry needling to the same exercise program.

@@ -1,0 +1,16 @@
+Objectives: Dexamethasone has beneficial effects on postoperative nausea and vomiting, however, many clinicians have raised legitimate concerns regarding its effect on blood glucose concentrations. This study determined the safety and efficacy of a single pre-operative dose of dexamethasone for PONV prophylaxis in patients undergoing breast surgery.
+
+Design: Prospective, double-blind, placebo-controlled trial.
+
+Setting: Surgical wards of the Korle-Bu Teaching Hospital, Accra, Ghana.
+
+Participants: The study was conducted among breast surgery patients. They were consecutively recruited and randomized into two groups: dexamethasone (n = 47) and placebo (n = 47).
+
+Interventions: Patients in the dexamethasone group received 8mg (2mls of 4mg/ml) dexamethasone while those in the placebo group received 2mls of saline intravenously. PONV impact scores and blood glucose levels were recorded at 4, 8 and 24 hours postoperatively.
+
+Main outcome measures: Incidence of PONV and blood glucose levels.
+
+Results: The incidence of postoperative nausea (PON) was lower in the dexamethasone group compared with the placebo group (12.8% vs. 29.8%; p-value= 0.044). There was no significant difference in the incidence of postoperative vomiting (POV) and PONV between the two groups. Blood glucose levels were higher in the dexamethasone group throughout the study period and significant at 8 and 24 hours postoperatively (p < 0.05). There was no difference in the incidence of clinically significant hyperglycemia between the groups (p-value = 0.169).
+
+Conclusion: A preoperative intravenous dexamethasone 8mg, reduces PON but not POV or PONV in breast surgery without clinically significant postoperative hyperglycemia.
+

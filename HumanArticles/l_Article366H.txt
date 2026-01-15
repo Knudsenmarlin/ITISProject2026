@@ -1,0 +1,7 @@
+Introduction: Persistent episodes of postprandial hyperlipemia (PPL) and hyperglycemia (PPG) are considered risk factors for coronary heart disease (CHD) and premature death; whereas physical exercise improves lipid profile and glucose tolerance thus decreasing cardiovascular risks.
+
+Objective: To investigate the effects of low-intensity fasted aerobic exercise on the magnitude of the PPL and PPG responses to meals with different energy content, in normal and obese subjects.
+
+Methods: The study used a randomized crossover design. Twenty-one male (Lean: n = 9, BMI: 24.3 ± 2.2; and obese: n = 12, BMI 32.31 ± 2.1) volunteers aged 20-30 years, performed three interventions, separated by 7 days each: (i) 45 min at rest and isocaloric high-fat meal (60% lipids, 30% carbohydrates and 10% protein); (ii) fasted low-intensity aerobic exercise (50% VO2max) for 45 min followed by an isocaloric or (iii) calorie deficit high-fat meal. Subjects were serially assessed for blood triglycerides, and glucose levels.
+
+Results and conclusions: Low-intensity fasted aerobic exercise had no acute effect on PPL in lean and obese subjects. Glucose concentrations were reduced only in lean subjects. There is a significant difference in PPL values when comparing lean to obese subjects, implying that the nutritional status influences lipid and carbohydrate after fasted low-intensity aerobic exercise. Registered under ClinicalTrials.gov Identifier no. NCT00929890.

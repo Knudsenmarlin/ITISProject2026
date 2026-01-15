@@ -1,0 +1,7 @@
+Objective: Our objective was to evaluate the accuracy of the prenatal diagnosis and the relation between the type of right aortic arch (RAA) with other intra- or extracardiac (EC) and chromosomal anomalies.
+
+Methods: A retrospective, observational study was conducted between 2011-2020 in a Romanian tertiary center. All RAA cases, including double aortic arch (DAA), were extracted from the databases and studied thoroughly.
+
+Results: We detected 18 RAA cases: five (27.78%) type I (mirror image, "V" type), 11 (61.12%) type II ("U" type), and two (11.10%) DAA cases. Heart anomalies were associated in 38.89% (overall), 60% (type I), 36.37% (type II), and 0% (DAA) cases. Tetralogy of Fallot represented the most prevalent cardiac malformation (in 22.23% of cases). EC anomalies were present in 44.44% of fetuses (20% of type I, 54.55% of type II, and 50% of DAA cases). Genetic abnormalities were found in 41.17% of pregnancies, with 22q11.2 deletion in 23.53%. 55.55% of the cases had a good neonatal evolution and 44.45% of the pregnancies were terminated. An overall good outcome of pregnancy was noted in 40% of type I RAA, 63.64% of type II RAA, and 50% of DAA cases. All RAA cases examined in the first trimester were correctly diagnosed.
+
+Conclusions: RAA can be accurately diagnosed and classified by means of prenatal ultrasound since early pregnancy. A detailed anatomy scan and genetic testing, including 22q11 deletion, should be offered to all pregnancies when RAA is discovered. When isolated, RAA associates a good outcome, indifferently the anatomical type.

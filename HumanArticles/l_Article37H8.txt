@@ -1,0 +1,8 @@
+Introduction: We designed a multicenter, phase Ib dose-escalation trial of carfilzomib with bendamustine and rituximab in patients with relapsed/refractory non-Hodgkin lymphoma (NCT02187133) in order to improve the response rates of this difficult-to-treat population. Chemoimmunotherapy with bendamustine and rituximab has shown activity in a variety of lymphomas, and proteasome inhibitors have demonstrated pre-clinical synergy and early clinical activity in this population. The objectives were to determine the maximum tolerated dose of carfilzomib and the preliminary efficacy of this combination.
+
+Patients and methods: The protocol followed a 3+3 design of carfilzomib dose escalation combined with standard doses of bendamustine and rituximab. Patients were treated for up to 6 cycles with an interim positron emission tomography/computed tomography after cycle 3.
+
+Results: Ten patients were treated on the dose-escalation phase. The study was terminated at a carfilzomib dose of 56 mg/m2, and the maximum tolerated dose was not reached. The most common grade 3/4 adverse event was thrombocytopenia. There was 1 dose-limiting toxicity observed, grade 3 febrile neutropenia, and there were no treatment-related deaths. The overall response rate was 40% (complete response rate, 30%), with a median duration of response of 12 months and a median progression-free survival of 2.1 months.
+
+Conclusion: Carfilzomib in combination with bendamustine and rituximab is a safe and well-tolerated treatment for patients with relapsed/refractory non-Hodgkin lymphoma. Preliminary data indicate that this combination may have efficacy with an acceptable side effect profile in this heavily pre-treated patient population with limited treatment options.
+

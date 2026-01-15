@@ -1,0 +1,9 @@
+Background: Since March, Chile experienced an exponential increase in SARS-CoV2 cases, which led to an almost full occupancy of the intensive care units (ICU).
+
+Aim: To characterize patients with SARS-CoV2 disease who required hospitalization in the ICU and invasive mechanical ventilation (IMV) in our hospital.
+
+Material and methods: A prospective observational study was performed, which included the first 50 patients, aged 54 ± 13 years (58% men), with SARS-CoV2 disease, with ICU and IMV requirements between March 23 and June 2, 2020. Demographics, comorbidities, symptoms, laboratory and imaging, therapies performed and IMV characteristics were registered. The most relevant outcomes observed were lethality, number of days in the ICU and connection to an IMV.
+
+Results: Ninety percent of patients were overweight or obese, 46% had hypertension and many had diabetes mellitus. They had elevated inflammatory parameters and typical patterns of COVID-19 in computed tomography. Most of the patients got protective lung ventilation with a high rate of use of neuromuscular blockade (NMB) and prone position. Antibiotics, hydroxychloroquine, and lopinavir/ritonavir were administered according to the protocol of the institution. Lethality was 16% (8 cases) at the end of this study.
+
+Conclusions: The information obtained in this study provides characteristics and early outcomes of hospitalized patients with confirmed COVID-19 and IMV, admitted to the ICU of our center.

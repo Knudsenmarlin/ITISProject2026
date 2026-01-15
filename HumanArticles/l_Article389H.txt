@@ -1,0 +1,14 @@
+Objective: The treatment of refractory vasodilatory shock in patients undergoing extracorporeal membrane oxygenation (ECMO) is an area in which there is minimal literature. Based on previous literature, the authors hypothesized that at least 40% of ECMO patients with vasoplegia would respond positively to methylene blue (MB) administration and that those who responded to MB would have increased survival.
+
+Design: Retrospective observational study.
+
+Setting: Single institution, quaternary care hospital.
+
+Participants: The study comprised 45 patients who received MB for vasoplegia during ECMO.
+
+Interventions: None.
+
+Measurements and main results: Of the 45 patients who received MB, 25 patients (55.6%) experienced a ≥10% increase in mean arterial pressure (MAP) and a reduction in norepinephrine dosing in the one-to-two hour interval after MB administration. There was a trend for improvement in survival to discharge for those who responded to MB (32% v 10%; p = 0.15). In addition, patients who did not have at least a >5% increase in MAP (29 experienced a >5% increase and 16 experienced a ≤5% increase) after MB administration, experienced 100% mortality (p = 0.008).
+
+Conclusion: This study suggested that approximately 50% of ECMO patients with vasoplegia can be expected to respond to MB with a >10% MAP improvement. The lack of a blood pressure response >5% after MB administration may portend poor survival. Larger prospective studies are needed to verify these preliminary results.
+

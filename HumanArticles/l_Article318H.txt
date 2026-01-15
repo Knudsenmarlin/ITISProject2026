@@ -1,0 +1,9 @@
+Epithelioid granuloma is a characteristic histological feature of Crohn's disease (CD), but their significance with respect to the severity and progression of the disease is still uncertain.
+
+Objective: To evaluate the clinical characteristics of CD patients in relation to the presence or not of granulomas in histological findings.
+
+Materials and methods: An observational, descriptive, retrospective study in patients diagnosed with CD from January 2004 to December 2019 in the gastroenterology department of the Guillermo Almenara Irigoyen National Hospital, Lima-Peru.
+
+Results: 55 patients were included. Average age of 56 ± 8.2 years. The median time of disease was 16 months. Have two or more relapses per year (p<0.001; OR=9.75), age less than 30 years (p<0.001; OR=3.57) and a moderate to severe CDAI (≥220 points, OR=11.4, p <0.008) was significantly associated with the presence of granulomas. Severe endoscopic activity (p <0.003; OR=9.91) and the stenosing-penetrating phenotype (p<0.001; OR=22.1) also showed association with the presence of granulomas. The group of granulomas had a higher probability of corticosteroid use (p <0.024; OR=3.92) and immunomodulator (p <0.001; OR=7.10), besides the need for intestinal resection surgery (p<0.027; OR=5.07).
+
+Conclusions: The presence of granulomas in CD may be associated with increased clinical severity, endoscopic severity, immunosuppressive therapy requirement and undergo for intestinal resection.

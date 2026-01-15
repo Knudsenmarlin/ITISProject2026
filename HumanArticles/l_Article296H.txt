@@ -1,0 +1,10 @@
+Background: Depression is common in nursing homes, particularly among newly admitted residents. This cluster randomised controlled trial evaluated the effectiveness of the Program to Enhance Adjustment to Residential Living (PEARL) in reducing depression in this group.
+
+Methods: Participants were 219 newly-admitted residents (mean of 4.4 weeks since admission) in 42 nursing homes in Melbourne, Australia, with a mean age of 85.5 years (SD = 7.3). Nursing homes were randomly allocated to the intervention or standard care condition. Level of depressive symptoms was evaluated at baseline (T1), one week post- intervention (T2), 2 months post-intervention (T3, primary end point), and 6 months post-intervention (T4). Changes in depressive symptoms in the intervention and control groups over time were compared using a multilevel model, with nursing homes modelled as random intercept.
+
+Results: In intention to treat analyses, depressive symptoms reduced from T1 to T3 to a greater degree in the intervention condition (Mchange=2.56, SDchange=5.71) than in the control (Mchange=0.63, SDchange=5.25), with a significant, small-medium treatment effect size (p=.035; Cohen's d=0.36). The reduction in depressive symptoms from T1 to T4 was not significant (p=.369; Cohen's d=0.32).
+
+Limitations: The findings require replication, particularly comparing PEARL with an active control condition.
+
+Conclusions: PEARL is a simple, brief program that was effective in reducing symptoms of depression in newly admitted nursing home residents.
+

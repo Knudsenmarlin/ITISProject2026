@@ -1,0 +1,9 @@
+Introduction: There is limited published data on antibiotic use in neonatal units in resource-poor settings.
+
+Objectives: This study sought to describe antibiotic prescribing practices in three neonatology units in Kigali, Rwanda.
+
+Methods: A multi-center, cross-sectional study conducted in two tertiary and one urban district hospital in Kigali, Rwanda. Participants were neonates admitted in neonatology who received a course of antibiotics during their admission. Data collected included risk factors for neonatal sepsis, clinical signs, symptoms, investigations for neonatal sepsis, antibiotics prescribed, and the number of deaths in the included cohort.
+
+Results: 126 neonates were enrolled with 42 from each site. Prematurity (38%) followed by membrane rupture more than 18 hours (25%) were the main risk factors for neonatal sepsis. Ampicillin and Gentamicin (85%) were the most commonly used first-line antibiotics for suspected neonatal sepsis. Most neonates (87%) did not receive a second-line antibiotic. Cefotaxime (11%), was the most commonly used second-line antibiotic. The median duration of antibiotic use was four days in all surviving neonates (m=113). In neonates with negative blood culture and normal C-reactive protein (CRP), the median duration of antibiotics was 3.5 days; and for neonates, with positive blood cultures, the median duration was 11 days. Thirteen infants died (10%) at all three sites, with no significant difference between the sites.
+
+Conclusion: The median antibiotic duration for neonates with normal lab results exceeded the recommended duration mandated by the national neonatal protocol. We recommend the development of antibiotic stewardship programs in neonatal units in Rwanda to prevent the adverse effects which may be caused by inappropriate or excessive use of antibiotics.
